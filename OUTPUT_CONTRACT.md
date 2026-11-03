@@ -8,6 +8,8 @@ bai_lam/Tuan/CPO_03/B001_ten_bai/
 ├── dong_hang.xlsx
 ├── nguon.tsv
 ├── qa.tsv
+├── mapping.tsv              # nếu có mapping; metadata, không phải cột dóng
+├── chu_thich.tsv            # chú thích của nhóm
 ├── text/
 │   ├── han.txt
 │   └── viet.txt             # văn xuôi
@@ -23,6 +25,8 @@ bai_lam/Tuan/CPO_03/B001_ten_bai/
 | nguon.tsv | Có tiêu đề: Phiên bản, Nguồn, Trang PDF, Người dịch, Ghi chú |
 | qa.tsv | Có tiêu đề: Hàng, Cờ tự động, Người kiểm; không có cờ chưa có nghĩa đã đúng |
 | text/*.txt | Text đã sửa, từng phiên bản riêng, cùng thứ tự với hàng dóng |
+
+Tool kèm mapping.tsv, chu_thich.tsv và annotations.json để nhóm kiểm tra/truy vết; các metadata này không thay đổi hai/bốn cột bắt buộc của file dóng. Không có mapping/chú thích thì các bảng metadata chỉ có tiêu đề.
 
 **Văn xuôi:** đúng hai cột `Hán`, `Việt`.
 

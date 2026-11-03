@@ -20,6 +20,10 @@ Các file bên dưới vẫn dùng được nếu nhóm thích làm bằng Excel
 
 ### Gán chữ trực tiếp trên box ảnh
 
+### Mapping và chú thích trong HTML
+
+Mở bài → **Mapping & chú thích**. Thêm/sửa vị trí bản Hán và bản đối chiếu; chọn mốc đã kiểm của tác phẩm để điền nhanh. Chú thích gắn vào cả bài, số hàng hoặc box; có người ghi và trạng thái Cần xem / Cần hỏi / Đã xử lý. Nội dung này lưu trong bản sao JSON và xuất riêng, không chèn vào cột dóng. Khi xuất gói bài, tool kèm mapping.tsv, chu_thich.tsv và annotations.json.
+
 Mở một bài → phần **Ảnh nguồn & box chữ** → thêm ảnh trang/crop (PNG/JPG…). Kéo để vẽ box, chọn box rồi gán Hán/âm/nghĩa/thơ hoặc chú thích. Có thể kéo box, đổi kích thước góc dưới phải, sửa chữ, xóa box và đưa chữ vào hàng dóng chỉ định.
 
 Nút Nhập JSON OCR nhận kết quả bbox/text của scanner cũ hoặc nhãn box xuất từ tool. Chọn đúng ảnh trang và loại nội dung trước khi nhập OCR. Ảnh lưu trong IndexedDB trên máy; box/chữ nằm trong bản sao JSON. Chuyển máy phải gửi thêm ảnh và chọn lại ảnh cùng tên. Bản này chưa mở PDF trực tiếp; dùng ảnh trang/crop. Nhãn và quan hệ dịch vẫn cần người kiểm.
