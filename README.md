@@ -2,6 +2,10 @@
 
 ## Dùng tool HTML
 
+**Contract đã chốt:** [OUTPUT_CONTRACT.md](OUTPUT_CONTRACT.md). Trong bài, nút “Xuất gói bài theo contract” tạo ZIP gồm bảng TSV/XLSX, nguồn, QA và text sạch.
+
+**Có sẵn 6 PDF và OCR một ảnh:** mở MO_TOOL.cmd → mục Input. Chọn PDF/trang hoặc tải một ảnh, chọn Hán/Việt rồi OCR. Kết quả tạo bài mới cùng box để sửa; không tự coi là dữ liệu đã dóng đúng. OCR chạy trên máy, cần môi trường PaddleOCR đã cài; HTML mở riêng vẫn dùng biên tập nhưng không chạy OCR.
+
 **Mở [index.html](index.html) bằng trình duyệt. Không cần cài gì.**
 
 Đây là một file HTML duy nhất, đã gộp toàn bộ mã giao diện; có nút Tạo bài/Dán dữ liệu, Nhập TSV/Excel và Nhập thư mục ngay đầu trang. Chép riêng index.html sang máy khác vẫn dùng được. Muốn tự đọc output trong repo mỗi 15 giây thì mở MO_TOOL.cmd; HTML mở riêng vẫn cần chọn file/thư mục.

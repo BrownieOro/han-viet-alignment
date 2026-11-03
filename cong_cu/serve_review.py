@@ -5,10 +5,11 @@ from urllib.parse import urlparse, parse_qs
 import json
 import hashlib
 import mimetypes
+from input_api import sources,source_path,page_png,start_ocr,JOBS
 
 ROOT=Path(__file__).resolve().parents[1]
 SUBMISSIONS=ROOT/'bai_lam'
-STATIC={'index.html','box_editor.js','review_import.js','demo_data.js','local_sync.js'}
+STATIC={'index.html','OUTPUT_CONTRACT.md'}
 
 class Handler(BaseHTTPRequestHandler):
     def send(self,status,body,mime='application/json; charset=utf-8'):
@@ -24,6 +25,18 @@ class Handler(BaseHTTPRequestHandler):
         if origin and origin not in {'http://127.0.0.1:7070','http://localhost:7070'}:
             self.send(403,'Origin rejected');return
         u=urlparse(self.path)
+        if u.path=='/api/sources':self.send(200,json.dumps(sources(),ensure_ascii=False));return
+        if u.path=='/api/source':
+            try:p=source_path(parse_qs(u.query).get('id',[''])[0]);self.send(200,p.read_bytes(),'application/pdf')
+            except Exception as e:self.send(400,json.dumps({'error':str(e)}))
+            return
+        if u.path=='/api/page':
+            try:q=parse_qs(u.query);self.send(200,page_png(q['id'][0],q['page'][0]),'image/png')
+            except Exception as e:self.send(400,json.dumps({'error':str(e)}))
+            return
+        if u.path=='/api/ocr':
+            key=parse_qs(u.query).get('id',[''])[0]
+            self.send(200,json.dumps(JOBS.get(key,{'status':'error','message':'Không thấy tác vụ OCR'}),ensure_ascii=False));return
         if u.path=='/api/files':
             files=[]
             for p in sorted(SUBMISSIONS.rglob('*')):
@@ -43,6 +56,16 @@ class Handler(BaseHTTPRequestHandler):
         if not p.exists():self.send(404,'Not found');return
         self.send(200,p.read_bytes(),mimetypes.guess_type(name)[0] or 'text/plain')
     def log_message(self,*args):pass
+    def do_POST(self):
+        if self.headers.get('Host') not in {'127.0.0.1:7070','localhost:7070'} or self.headers.get('Origin') not in {'http://127.0.0.1:7070','http://localhost:7070'}:
+            self.send(403,'Origin rejected');return
+        try:
+            if self.path!='/api/ocr':self.send(404,'Not found');return
+            n=int(self.headers.get('Content-Length','0'))
+            if not 0<n<22*1024*1024:raise ValueError('Ảnh gửi lên quá lớn')
+            key=start_ocr(json.loads(self.rfile.read(n)))
+            self.send(202,json.dumps({'id':key}))
+        except Exception as e:self.send(400,json.dumps({'error':str(e)},ensure_ascii=False))
 
 if __name__=='__main__':
     print('Open http://127.0.0.1:7070 — reads bai_lam/, no writes to submitted files.',flush=True)
