@@ -21,6 +21,8 @@ def main():
         s['text']='\n'.join(r['text'] for r in item['audit_view'])
         records.append(s)
     data=json.dumps(records,ensure_ascii=False).replace('</','<\\/')
+    summary=args.audit/'summary.json'
+    expected=json.loads(summary.read_text(encoding='utf-8')).get('expected_pages',2044) if summary.exists() else 2044
     page='''<!doctype html><html lang="vi"><meta charset="utf-8"><title>Trang OCR cần xem</title>
 <style>body{font:16px system-ui;max-width:1100px;margin:32px auto;padding:0 20px;color:#203047}h1{margin-bottom:8px}button,select,input{font:inherit;padding:8px;margin:4px}article{border:1px solid #ccd5df;border-radius:8px;margin:12px 0;padding:16px}pre{white-space:pre-wrap;font:16px/1.6 system-ui;max-height:350px;overflow:auto}.flag{color:#a23d1c}small{color:#53657b}</style>
 <h1>OCR: mở trang nào để sửa?</h1><p id="count"></p>
@@ -32,9 +34,9 @@ def main():
 <input id="query" placeholder="Tìm trong text OCR"><button id="prev">Trước</button><button id="next">Sau</button><span id="paging"></span><main id="list"></main>
 <script>const rows=DATA;let offset=0;const $=id=>document.getElementById(id);const escape=s=>String(s).replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 [...new Set(rows.map(r=>r.source))].forEach(s=>{let o=document.createElement('option');o.value=s;o.textContent=s;$('source').append(o)});
-$('count').textContent=`Đã có ${rows.length}/2044 trang trong báo cáo này. Chạy lại make_report.py để cập nhật khi quét xong.`;
+$('count').textContent=`Đã có ${rows.length}/EXPECTED trang trong đợt quét này. Chạy lại make_report.py để cập nhật báo cáo.`;
 function render(){let r=rows.filter(r=>(!$('source').value||r.source===$('source').value)&&($('scope').value==='all'||r.content)&&($('flag').value==='all'||($('flag').value==='quality'?r.flags.split(';').some(f=>f&&f!=='CAN_XEP_THU_TU_COT_DOC'):r.flags))&&r.text.toLowerCase().includes($('query').value.toLowerCase()));r.sort((a,b)=>b.weak_box_ratio-a.weak_box_ratio||a.source.localeCompare(b.source)||a.pdf_page-b.pdf_page);offset=Math.min(offset,Math.max(0,Math.floor((r.length-1)/20)*20));$('paging').textContent=`${offset+1}–${Math.min(offset+20,r.length)} / ${r.length}`;$('list').innerHTML=r.slice(offset,offset+20).map(r=>`<article><b>${escape(r.source)} · PDF trang ${r.pdf_page}</b> <a href="${escape(r.pdf)}" target="_blank">Mở PDF</a><p class="flag">${escape(r.flags||'Chưa có cờ — vẫn cần QA')}</p><small>${r.chars} ký tự · ${r.boxes} box · ${(100*r.weak_box_ratio).toFixed(0)}% box confidence dưới 0,8</small><details><summary>Xem text OCR chưa sửa</summary><pre>${escape(r.text)}</pre></details></article>`).join('')}
-['source','scope','flag','query'].forEach(id=>$(id).addEventListener('input',()=>{offset=0;render()}));$('prev').onclick=()=>{offset=Math.max(0,offset-20);render()};$('next').onclick=()=>{offset+=20;render()};render();</script></html>'''.replace('DATA',data)
+['source','scope','flag','query'].forEach(id=>$(id).addEventListener('input',()=>{offset=0;render()}));$('prev').onclick=()=>{offset=Math.max(0,offset-20);render()};$('next').onclick=()=>{offset+=20;render()};render();</script></html>'''.replace('DATA',data).replace('EXPECTED',str(expected))
     target=args.audit/'review.html';target.parent.mkdir(parents=True,exist_ok=True);target.write_text(page,encoding='utf-8')
     print(f'Report: {len(records)} successful pages -> {target}')
 
