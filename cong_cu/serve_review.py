@@ -2,14 +2,16 @@
 from pathlib import Path
 from http.server import ThreadingHTTPServer, BaseHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
+import argparse
 import json
 import hashlib
 import mimetypes
 from input_api import sources,source_path,page_png,start_ocr,JOBS
 
+PORT=7070
 ROOT=Path(__file__).resolve().parents[1]
 SUBMISSIONS=ROOT/'bai_lam'
-STATIC={'index.html','advanced.html','OUTPUT_CONTRACT.md','quick_tools.js','mau/ocr_da_thu.txt','assets/pdfjs/pdf.mjs','assets/pdfjs/pdf.worker.mjs','assets/tesseract/tesseract.min.js','assets/tesseract/worker.min.js'}|{f'inputs/source_{i}.pdf' for i in range(1,7)}
+STATIC={'alignment.html','alignment.js','alignment_export.js','alignment_link.js','hanviet.js','assets/hanviet/readings.json','assets/hanviet/SOURCE.md','assets/hanviet/LICENSE.txt','index.html','advanced.html','OUTPUT_CONTRACT.md','quick_tools.js','mau/ocr_da_thu.txt','assets/pdfjs/pdf.mjs','assets/pdfjs/pdf.worker.mjs','assets/tesseract/tesseract.min.js','assets/tesseract/worker.min.js'}|{f'inputs/source_{i}.pdf' for i in range(1,7)}
 
 class Handler(BaseHTTPRequestHandler):
     def send(self,status,body,mime='application/json; charset=utf-8'):
@@ -19,10 +21,10 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header('X-Content-Type-Options','nosniff');self.send_header('Cross-Origin-Resource-Policy','same-origin')
         self.end_headers();self.wfile.write(body)
     def do_GET(self):
-        if self.headers.get('Host') not in {'127.0.0.1:7070','localhost:7070'}:
+        if self.headers.get('Host') not in {f'127.0.0.1:{PORT}',f'localhost:{PORT}'}:
             self.send(403,'Host rejected');return
         origin=self.headers.get('Origin')
-        if origin and origin not in {'http://127.0.0.1:7070','http://localhost:7070'}:
+        if origin and origin not in {f'http://127.0.0.1:{PORT}',f'http://localhost:{PORT}'}:
             self.send(403,'Origin rejected');return
         u=urlparse(self.path)
         if u.path=='/api/sources':self.send(200,json.dumps(sources(),ensure_ascii=False));return
@@ -57,7 +59,7 @@ class Handler(BaseHTTPRequestHandler):
         self.send(200,p.read_bytes(),mimetypes.guess_type(name)[0] or 'text/plain')
     def log_message(self,*args):pass
     def do_POST(self):
-        if self.headers.get('Host') not in {'127.0.0.1:7070','localhost:7070'} or self.headers.get('Origin') not in {'http://127.0.0.1:7070','http://localhost:7070'}:
+        if self.headers.get('Host') not in {f'127.0.0.1:{PORT}',f'localhost:{PORT}'} or self.headers.get('Origin') not in {f'http://127.0.0.1:{PORT}',f'http://localhost:{PORT}'}:
             self.send(403,'Origin rejected');return
         try:
             if self.path!='/api/ocr':self.send(404,'Not found');return
@@ -68,5 +70,6 @@ class Handler(BaseHTTPRequestHandler):
         except Exception as e:self.send(400,json.dumps({'error':str(e)},ensure_ascii=False))
 
 if __name__=='__main__':
-    print('Open http://127.0.0.1:7070 — reads bai_lam/, no writes to submitted files.',flush=True)
-    ThreadingHTTPServer(('127.0.0.1',7070),Handler).serve_forever()
+    parser=argparse.ArgumentParser();parser.add_argument('--port',type=int,default=7070);PORT=parser.parse_args().port
+    print(f'Open http://127.0.0.1:{PORT} — reads bai_lam/, no writes to submitted files.',flush=True)
+    ThreadingHTTPServer(('127.0.0.1',PORT),Handler).serve_forever()
