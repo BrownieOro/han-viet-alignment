@@ -1,5 +1,13 @@
 # Nhóm Hán–Việt — bắt đầu ở đây
 
+## Dùng tool HTML
+
+**Mở [index.html](index.html) bằng trình duyệt. Không cần cài gì.**
+
+Chọn tên → chọn phần sách → Thêm bài → nhập/dán dữ liệu → xuất TSV hoặc Excel .xlsx. Tool có sẵn phân công, trạng thái và chỗ ghi nguồn/lỗi. Dữ liệu tự lưu trên trình duyệt hiện tại; dùng Xuất/Nhập bản sao JSON để chuyển máy hoặc gửi nhóm. Chưa có đồng bộ trực tuyến. Khi nhập, ID bài đã có được bỏ qua, không ghi đè; giữ riêng bản nhận kiểm nếu cần đối chiếu thay đổi.
+
+Các file bên dưới vẫn dùng được nếu nhóm thích làm bằng Excel/thư mục.
+
 1. Mở **[PHAN_CONG.tsv](PHAN_CONG.tsv)** bằng Excel, tìm tên mình và chọn một bài trong phần được giao.
 2. Tìm text đúng bài trên Thi Viện/nguồn khác, đối chiếu PDF. Bản nào thiếu mới OCR bản đó.
 3. Sửa text, dóng các bản cùng nghĩa và lưu vào thư mục tên mình trong **[bai_lam](bai_lam)**.
