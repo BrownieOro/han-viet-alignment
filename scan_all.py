@@ -89,9 +89,12 @@ def process(task):
         target.with_suffix('.txt').write_text(text,encoding='utf-8')
         return summary
     except Exception as exc:
-        return {'source':name,'pdf_page':page,'chars':0,'boxes':0,'weak_box_ratio':0,
+        summary={'source':name,'pdf_page':page,'chars':0,'boxes':0,'weak_box_ratio':0,
                 'han_chars':0,'flags':'OCR_FAILED','seconds':round(time.time()-started,2),
                 'status':str(exc)}
+        target.parent.mkdir(parents=True,exist_ok=True)
+        target.with_suffix('.error.json').write_text(json.dumps(summary,ensure_ascii=False),encoding='utf-8')
+        return summary
 
 def report(rows,out,total):
     rows.sort(key=lambda r:(r['source'],r['pdf_page']))

@@ -10,6 +10,8 @@
 
 **Không cần kiểm kê xong hết sách mới bắt đầu. Làm cuốn chiếu theo bài.**
 
+Mở `data/audit/review.html` để xem trang máy đánh dấu. Bảng có bộ lọc theo nguồn và nút mở đúng trang PDF. Số trang đã quét hiện ngay đầu báo cáo; không đọc báo cáo đang chạy như kết quả đã quét xong toàn bộ.
+
 ## Phần nào máy làm, phần nào làm tay?
 
 | Công việc | Máy hỗ trợ | Người phải xác nhận |
@@ -40,6 +42,10 @@ Mặc định đọc 6 file `source_1.pdf` đến `source_6.pdf` trong thư mụ
 - `data/audit/summary.json`: tiến độ và số trang theo nguồn.
 
 Script tự lưu sau mỗi trang, cập nhật báo cáo mỗi 25 trang. Chạy lại sẽ bỏ qua trang đã thành công. Có thể thử nhỏ bằng `--limit 2 --out data/smoke`.
+
+Tạo/cập nhật trang xem bằng `python -X utf8 make_report.py`. `run_full_scan.ps1` chạy toàn bộ rồi tạo báo cáo. `update_report.py` cập nhật trang xem mỗi 45 giây khi đợt quét hiện tại đang chạy.
+
+Mẫu đầu ra để hiểu cách ghép bốn bản: `examples/poem01_manual_sample.tsv`. Đây là tám hàng đã sửa/dóng thủ công trước đó, không phải kết quả tự động của scanner.
 
 ## Hiểu đúng các cờ
 

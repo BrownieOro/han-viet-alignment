@@ -14,6 +14,7 @@ def main():
     p.add_argument('--sources',type=Path,default=Path(__file__).resolve().parents[1]/'source-inventory')
     args=p.parse_args();records=[]
     for path in sorted((args.audit/'pages').glob('*/*.json')):
+        if path.name.endswith('.error.json'): continue
         item=json.loads(path.read_text(encoding='utf-8'));s=item['summary']
         s['content']=any(a<=s['pdf_page']<=b for a,b in CONTENT[s['source']])
         s['pdf']=(args.sources/FILES[s['source']]).resolve().as_uri()+f"#page={s['pdf_page']}"
@@ -35,6 +36,6 @@ $('count').textContent=`Đã có ${rows.length}/2044 trang trong báo cáo này.
 function render(){let r=rows.filter(r=>(!$('source').value||r.source===$('source').value)&&($('scope').value==='all'||r.content)&&($('flag').value==='all'||($('flag').value==='quality'?r.flags.split(';').some(f=>f&&f!=='CAN_XEP_THU_TU_COT_DOC'):r.flags))&&r.text.toLowerCase().includes($('query').value.toLowerCase()));r.sort((a,b)=>b.weak_box_ratio-a.weak_box_ratio||a.source.localeCompare(b.source)||a.pdf_page-b.pdf_page);offset=Math.min(offset,Math.max(0,Math.floor((r.length-1)/20)*20));$('paging').textContent=`${offset+1}–${Math.min(offset+20,r.length)} / ${r.length}`;$('list').innerHTML=r.slice(offset,offset+20).map(r=>`<article><b>${escape(r.source)} · PDF trang ${r.pdf_page}</b> <a href="${escape(r.pdf)}" target="_blank">Mở PDF</a><p class="flag">${escape(r.flags||'Chưa có cờ — vẫn cần QA')}</p><small>${r.chars} ký tự · ${r.boxes} box · ${(100*r.weak_box_ratio).toFixed(0)}% box confidence dưới 0,8</small><details><summary>Xem text OCR chưa sửa</summary><pre>${escape(r.text)}</pre></details></article>`).join('')}
 ['source','scope','flag','query'].forEach(id=>$(id).addEventListener('input',()=>{offset=0;render()}));$('prev').onclick=()=>{offset=Math.max(0,offset-20);render()};$('next').onclick=()=>{offset+=20;render()};render();</script></html>'''.replace('DATA',data)
     target=args.audit/'review.html';target.parent.mkdir(parents=True,exist_ok=True);target.write_text(page,encoding='utf-8')
-    print(f'Report: {len(records)} pages -> {target}')
+    print(f'Report: {len(records)} successful pages -> {target}')
 
 if __name__=='__main__':main()
