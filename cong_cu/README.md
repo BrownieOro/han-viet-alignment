@@ -1,11 +1,15 @@
-# Công cụ thử nghiệm (không bắt buộc)
+# Backend local (tùy chọn)
 
-Quy trình nhóm bắt đầu từ README ở thư mục gốc. Các script ở đây chỉ hỗ trợ thử OCR, chưa tự dóng hoàn chỉnh.
+Chỉ mở màn chính: chạy `MO_TOOL.cmd`, không cần cài thêm thư viện Python.
 
-- Thử phân bố nhỏ: `python cong_cu/scan_all.py --sample --workers 2 --out data/sample`
-- Tạo PDF mẫu đã ghép bản tương ứng: `python cong_cu/make_small_pdf.py`
-- Xem kết quả thử: `python cong_cu/make_report.py --audit data/sample`
+Backend PaddleOCR cho giao diện nâng cao đang thử nghiệm. Dùng Python 3.11 và môi trường riêng:
 
-Nguồn PDF mặc định nằm ngoài repo tại ../source-inventory/. Môi trường OCR dùng Python 3.11 và requirements.txt trong thư mục này; tạo PDF cần thêm reportlab, đã có trên máy hiện tại.
+```powershell
+python -m venv .venv
+.venv\Scripts\python -m pip install -r cong_cu/requirements.txt
+.venv\Scripts\python cong_cu/serve_review.py
+```
 
-run_full_scan.ps1 và update_report.py là công cụ cũ cho quét toàn bộ, chỉ dùng khi nhóm chủ động cần; không nằm trong quy trình mặc định. Đợt quét toàn bộ trước đã dừng.
+Mở http://127.0.0.1:7070/advanced.html. Backend chỉ nghe trên máy, port 7070. Đóng server cũ trước khi chạy server trong môi trường riêng. Mô hình Paddle tải ở lần đầu; cấu hình engine tại `input_api.py`. Đây là OCR nháp, cần test/sửa trước khi chạy nhiều trang.
+
+`build_ui.py` gộp các module `ui/` vào `advanced.html`; không tạo lại giao diện chính.
