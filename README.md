@@ -1,26 +1,19 @@
 # Sách Hán–Việt
 
-**Mở trang: https://brownieoro.github.io/han-viet-alignment/**
+[Web](https://brownieoro.github.io/han-viet-alignment/) · [Phân công & tiến độ](https://docs.google.com/document/d/1svQTK-oO5F3AU4UTfdqMaXqJ1LDLaNN7C_ViSBzRsh8/edit?tab=t.0)
 
-1. Chọn sách và số trang. Dùng **+ Input** bên cạnh để thêm PDF/ảnh của mình (trên máy, không tự upload lên GitHub). Sáu PDF đã có sẵn trong repo, không cần tải lên lại.
-2. Tự điền người làm và bài/phần/trang đang nhận.
-3. Ghi chú chỗ cần xem; chỉ mở Mapping nếu cần nối sang bản ở trang/file khác.
+## Chạy và cấu hình
 
-Không có tên thành viên hay phần việc gán cứng trên giao diện chính. Ghi chú lưu trên trình duyệt; dùng Xuất/Nhập ghi chú để gửi nhau. Chưa có đồng bộ ghi chú online.
+- Web dùng ngay, không cài đặt. Chọn sách hoặc **+ Input** để mở PDF/ảnh; file thêm chỉ ở trình duyệt, không tự push lên repo.
+- OCR: chọn **Hán phồn thể / Tiếng Việt**, bố cục **tự động / Hán cột dọc**; chạy trang đang xem hoặc nhập khoảng **số trang PDF**. Kết quả là text thô, có thể sửa và tải `.txt`.
+- OCR trên web dùng Tesseract.js; lần đầu cần mạng để tải core/mô hình. Chưa xác nhận chất lượng OCR Hán để chạy batch.
+- Chạy local: cài Python 3, mở `MO_TOOL.cmd`, vào `http://127.0.0.1:7070/`. Cấu hình PaddleOCR tùy chọn: xem [hướng dẫn](cong_cu/README.md). [Giao diện nâng cao](https://brownieoro.github.io/han-viet-alignment/advanced.html) để thử box/dóng hàng.
+- Mã giao diện: `index.html`; nút input/OCR: `quick_tools.js`. Ngôn ngữ, layout, đường dẫn worker/core nằm trong `quick_tools.js`.
 
-- [Quy cách đầu ra chung](OUTPUT_CONTRACT.md).
-- [Công cụ nâng cao](https://brownieoro.github.io/han-viet-alignment/advanced.html): OCR/box/dóng/kiểm dữ liệu; OCR cần chạy local bằng MO_TOOL.cmd.
-- [Mẫu tìm text](mau/TIM_TEXT.md): có thể ghi trực tiếp trong HTML, không cần điền trùng.
-- [Các mốc mapping đã kiểm](MAPPING.tsv).
+## Lưu kết quả
 
-Nguồn PDF nằm trong inputs/. Thư viện hiển thị PDF dùng Mozilla PDF.js, giấy phép tại assets/pdfjs/LICENSE. Dùng web online để đọc sách và ghi chú; mở MO_TOOL.cmd nếu cần OCR chạy trên máy.
+Chưa có database chung. Push code, PDF mẫu, text và kết quả test vào repo; ghi nguồn/trang và cấu hình đi kèm. Giữ OCR thô riêng với text đã sửa. Ghi chú trên web lưu theo trình duyệt: xuất file rồi push nếu cần chia sẻ.
 
-## Làm gì và hạn nào?
+[Quy cách đầu ra](OUTPUT_CONTRACT.md) · [Mẫu tìm text](mau/TIM_TEXT.md) · [Mốc mapping tham khảo](MAPPING.tsv).
 
-Mở [VIEC_CAN_LAM.md](VIEC_CAN_LAM.md): 4 việc tự nhận; 05/11 chốt mẫu input/OCR và đầu ra, 07/11 có đợt text đầu, 09/11 chốt bài thử, 11/11 kiểm chéo. Đây là mốc nội bộ.
-
-## OCR ở đâu?
-
-Ngay dưới trang sách: chọn Hán/Việt → Chạy OCR → text hiện trong ô Kết quả. OCR một trang trên trình duyệt bằng Tesseract.js; lần đầu tải mô hình. Nút Kết quả đã thử mở text PaddleOCR cũ, có ghi rõ nguồn, không giả làm kết quả của trang đang xem. Cần kiểm lại chữ sau OCR.
-
-Tesseract.js: https://github.com/naptha/tesseract.js, giấy phép tại assets/tesseract/LICENSE.md. Mô hình/core được tải từ CDN; ảnh xử lý trên trình duyệt.
+Sáu PDF nguồn nằm trong `inputs/`. Thư viện: [PDF.js](assets/pdfjs/LICENSE), [Tesseract.js](assets/tesseract/LICENSE.md).

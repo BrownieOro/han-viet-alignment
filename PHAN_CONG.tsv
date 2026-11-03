@@ -1,5 +1,0 @@
-﻿Việc	Người nhận	Đầu ra	DL nội bộ
-Input và OCR mẫu		Một PDF + một ảnh; một trang Hán + một trang Việt; ghi lỗi	21h 05/11/2026
-Kiểm đầu ra		Một mẫu văn xuôi + một mẫu thơ; ZIP đúng contract	21h 05/11/2026
-Tìm text Tang thương/Hoàng Việt		5 bài hoặc đoạn + link + trang nếu xác nhận được	21h 07/11/2026
-Tìm text Ngô Thì Nhậm/Phan Huy Ích/Tổng tập		5 bài + các bản có sẵn + link + trang	21h 07/11/2026
