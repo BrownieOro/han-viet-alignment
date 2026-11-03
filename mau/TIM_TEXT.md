@@ -1,23 +1,24 @@
-# Text tìm được
+# Tên bài: …
 
-Copy phần dưới cho mỗi bài. Dán bản nào tìm thấy, bỏ qua phần chưa có. Chưa cần dóng hoặc tách nhiều file.
+Mỗi bài lưu một file .md, ví dụ bai_lam/Manh/CPO_05/quoc_to.md. Copy file này rồi điền; chưa cần dóng câu hay làm Excel. Khác bản dịch thì tạo file riêng.
 
----
-## Tên bài: …
 - Tác phẩm: CPO_…
-- Link nguồn (và người dịch nếu có): …
-- Trang PDF đối chiếu: Hán … / âm … / nghĩa hoặc Việt … / thơ …
-- Đối chiếu: Chưa xem / Có dấu hiệu khớp / Cần xác nhận
-- Ghi chú: …
+- Nguồn sách / trang PDF nếu biết: source_….pdf, trang …
+- Link lấy text: …
+- Người dịch / phiên âm nếu có: …
+- Đối chiếu sách: Khớp sách / Khác bản dịch / Chưa xác nhận
+- Ghi chú: thiếu bản nào, chỗ khác hoặc chưa rõ…
 
-### Hán
-[Dán text]
+## Hán
+[Dán text nếu có; chưa có ghi Chưa tìm thấy]
 
-### Dịch âm (nếu có)
-[Dán text]
+## Dịch âm
+[Dán text nếu có; chưa có ghi Chưa tìm thấy]
 
-### Dịch nghĩa / Việt văn xuôi
-[Dán text]
+## Dịch nghĩa / Việt văn xuôi
+[Dán text nếu có; chưa có ghi Chưa tìm thấy]
 
-### Dịch thơ (nếu có)
-[Dán text]
+## Dịch thơ
+[Dán text nếu có; chưa có ghi Chưa tìm thấy]
+
+Giữ nguyên text lấy từ nguồn. Nếu sửa thì lưu thêm bản đã sửa, giữ lại bản gốc. Không tự dịch để lấp phần thiếu. Chưa xác nhận khớp sách vẫn push cho nhóm xem, chưa tính là dữ liệu hoàn chỉnh.
