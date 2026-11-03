@@ -8,6 +8,12 @@ Chọn tên → chọn phần sách → Thêm bài → nhập/dán dữ liệu �
 
 Các file bên dưới vẫn dùng được nếu nhóm thích làm bằng Excel/thư mục.
 
+### Gán chữ trực tiếp trên box ảnh
+
+Mở một bài → phần **Ảnh nguồn & box chữ** → thêm ảnh trang/crop (PNG/JPG…). Kéo để vẽ box, chọn box rồi gán Hán/âm/nghĩa/thơ hoặc chú thích. Có thể kéo box, đổi kích thước góc dưới phải, sửa chữ, xóa box và đưa chữ vào hàng dóng chỉ định.
+
+Nút Nhập JSON OCR nhận kết quả bbox/text của scanner cũ hoặc nhãn box xuất từ tool. Chọn đúng ảnh trang và loại nội dung trước khi nhập OCR. Ảnh lưu trong IndexedDB trên máy; box/chữ nằm trong bản sao JSON. Chuyển máy phải gửi thêm ảnh và chọn lại ảnh cùng tên. Bản này chưa mở PDF trực tiếp; dùng ảnh trang/crop. Nhãn và quan hệ dịch vẫn cần người kiểm.
+
 1. Mở **[PHAN_CONG.tsv](PHAN_CONG.tsv)** bằng Excel, tìm tên mình và chọn một bài trong phần được giao.
 2. Tìm text đúng bài trên Thi Viện/nguồn khác, đối chiếu PDF. Bản nào thiếu mới OCR bản đó.
 3. Sửa text, dóng các bản cùng nghĩa và lưu vào thư mục tên mình trong **[bai_lam](bai_lam)**.
