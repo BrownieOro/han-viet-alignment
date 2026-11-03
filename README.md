@@ -1,5 +1,7 @@
 # Nhóm Hán–Việt — bắt đầu ở đây
 
+**Đang tìm text trên mạng?** Mỗi người chỉ điền một file `bai_lam/Ten/TIM_TEXT.md` đã tạo sẵn: tên bài, link, trang và dán các bản tìm được. Chưa cần tách thành nhiều file. Xem [cách xác nhận bản xa nhau](TIM_TEXT_VA_MAPPING.md) và [mapping điền sẵn](MAPPING.tsv). Chỉ áp dụng contract đóng gói khi đã xử lý xong bài.
+
 ## Dùng tool HTML
 
 **Contract đã chốt:** [OUTPUT_CONTRACT.md](OUTPUT_CONTRACT.md). Trong bài, nút “Xuất gói bài theo contract” tạo ZIP gồm bảng TSV/XLSX, nguồn, QA và text sạch.
