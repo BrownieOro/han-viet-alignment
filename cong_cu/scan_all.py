@@ -113,12 +113,16 @@ def report(rows,out,total):
 def main():
     import pymupdf
     p=argparse.ArgumentParser()
-    p.add_argument('--sources',type=Path,default=Path(__file__).resolve().parents[1]/'source-inventory')
-    p.add_argument('--out',type=Path,default=Path(__file__).resolve().parent/'data/audit')
+    p.add_argument('--sources',type=Path,default=Path(__file__).resolve().parents[2]/'source-inventory')
+    p.add_argument('--out',type=Path,default=Path(__file__).resolve().parents[1]/'data/audit')
     p.add_argument('--workers',type=int,default=8)
     p.add_argument('--limit',type=int,default=0,help='Per source; 0 scans every page')
     p.add_argument('--sample',action='store_true',help='Distributed content sample across all six PDFs')
-    args=p.parse_args();args.out.mkdir(parents=True,exist_ok=True)
+    p.add_argument('--all-pages',action='store_true',help='Explicitly allow a full scan')
+    args=p.parse_args()
+    if not (args.sample or args.limit or args.all_pages):
+        p.error('Chon --sample de thu nho, --limit N, hoac --all-pages neu thuc su muon quet het.')
+    args.out.mkdir(parents=True,exist_ok=True)
     tasks=[]
     for name,file,langs in SOURCES:
         path=args.sources/file

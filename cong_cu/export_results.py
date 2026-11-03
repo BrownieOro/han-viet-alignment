@@ -8,7 +8,7 @@ import zipfile
 from collections import Counter
 from scan_all import report
 
-root=Path(__file__).resolve().parent
+root=Path(__file__).resolve().parents[1]
 workspace=root.parent
 stamp=datetime.now().strftime('%Y%m%d_%H%M%S')
 out=workspace/'outputs'/f'ket_qua_OCR_{stamp}'
@@ -33,7 +33,7 @@ shutil.copytree(root/'data/sample',out/'MAU_33_TRANG')
 sample=out/'MAU_DONG_8_HANG';sample.mkdir()
 for name in ['CPO03_poem01_verse_parallel.tsv','CPO03_poem01_verse_parallel.xlsx']:
     shutil.copy2(workspace/'pipeline/trial/output'/name,sample/name)
-shutil.copy2(root/'KET_QUA_THU.md',out/'KET_QUA_THU_33_TRANG.md')
+shutil.copy2(root/'tai_lieu/thu_OCR.md',out/'KET_QUA_THU_33_TRANG.md')
 counts=Counter(r['source'] for r in rows)
 lines=['# Kết quả OCR đã xuất','',f'Bản chụp kết quả: {len(rows)}/2.044 trang đã OCR thành công. Đây chưa phải kết quả quét xong toàn bộ.','',
        '## Mở tệp nào?','',
@@ -51,7 +51,7 @@ lines+=['','Text OCR chưa sửa, chưa tách hoàn chỉnh từng bản và ch�
         'Tên cờ: RAT_IT_TEXT = ít chữ; NHIEU_BOX_CONF_THAP / CONF_TRUNG_BINH_THAP = nhận dạng yếu; NGHI_MAT_DAU_VIET = nghi mất dấu; CAN_XEP_THU_TU_COT_DOC = cần kiểm thứ tự cột.']
 (out/'DOC_TRUOC.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
 import subprocess
-subprocess.run([sys.executable,'-X','utf8',str(root/'make_report.py'),'--audit',str(out)],check=True)
+subprocess.run([sys.executable,'-X','utf8',str(root/'cong_cu/make_report.py'),'--audit',str(out)],check=True)
 archive=out.with_suffix('.zip')
 with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
     for p in out.rglob('*'):

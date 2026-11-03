@@ -3,11 +3,11 @@ from pathlib import Path
 import subprocess
 import sys
 import time
-root=Path(__file__).resolve().parent
+root=Path(__file__).resolve().parents[1]
 last=-1
 stalled=0
 while True:
-    result=subprocess.run([sys.executable,'-X','utf8',str(root/'make_report.py')],cwd=root)
+    result=subprocess.run([sys.executable,'-X','utf8',str(root/'cong_cu/make_report.py')],cwd=root)
     count=len([p for p in (root/'data/audit/pages').glob('*/*.json') if not p.name.endswith('.error.json')])
     print(f'{count}/2044 saved pages',flush=True)
     if count>=2044: break

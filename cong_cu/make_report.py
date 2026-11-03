@@ -10,8 +10,8 @@ FILES = {'CPO01_HAN':'source_1.pdf','CPO01_VI':'source_2.pdf','CPO02':'source_3.
          'CPO03':'source_4.pdf','CPO04':'source_5.pdf','CPO05':'source_6.pdf'}
 
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--audit',type=Path,default=Path(__file__).resolve().parent/'data/audit')
-    p.add_argument('--sources',type=Path,default=Path(__file__).resolve().parents[1]/'source-inventory')
+    p=argparse.ArgumentParser();p.add_argument('--audit',type=Path,default=Path(__file__).resolve().parents[1]/'data/audit')
+    p.add_argument('--sources',type=Path,default=Path(__file__).resolve().parents[2]/'source-inventory')
     args=p.parse_args();records=[]
     for path in sorted((args.audit/'pages').glob('*/*.json')):
         if path.name.endswith('.error.json'): continue
