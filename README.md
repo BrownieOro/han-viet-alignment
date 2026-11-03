@@ -1,5 +1,7 @@
 # Nhóm Hán–Việt — bắt đầu ở đây
 
+**Chưa rõ cần điền gì? Mở [TEMPLATES.md](TEMPLATES.md): 3 mẫu cần dùng theo từng việc.** Không cần tạo đủ mọi tệp ngay khi chỉ đang tìm text.
+
 **Đang tìm text trên mạng?** Mỗi người chỉ điền một file `bai_lam/Ten/TIM_TEXT.md` đã tạo sẵn: tên bài, link, trang và dán các bản tìm được. Chưa cần tách thành nhiều file. Xem [cách xác nhận bản xa nhau](TIM_TEXT_VA_MAPPING.md) và [mapping điền sẵn](MAPPING.tsv). Chỉ áp dụng contract đóng gói khi đã xử lý xong bài.
 
 ## Dùng tool HTML
