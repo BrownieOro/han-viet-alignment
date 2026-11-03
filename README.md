@@ -4,6 +4,8 @@
 
 **Mở [index.html](index.html) bằng trình duyệt. Không cần cài gì.**
 
+Đây là một file HTML duy nhất, đã gộp toàn bộ mã giao diện; có nút Tạo bài/Dán dữ liệu, Nhập TSV/Excel và Nhập thư mục ngay đầu trang. Chép riêng index.html sang máy khác vẫn dùng được. Muốn tự đọc output trong repo mỗi 15 giây thì mở MO_TOOL.cmd; HTML mở riêng vẫn cần chọn file/thư mục.
+
 Chọn tên → chọn phần sách → Thêm bài → nhập/dán dữ liệu → xuất TSV hoặc Excel .xlsx. Tool có sẵn phân công, trạng thái và chỗ ghi nguồn/lỗi. Dữ liệu tự lưu trên trình duyệt hiện tại; dùng Xuất/Nhập bản sao JSON để chuyển máy hoặc gửi nhóm. Chưa có đồng bộ trực tuyến. Khi nhập, ID bài đã có được bỏ qua, không ghi đè; giữ riêng bản nhận kiểm nếu cần đối chiếu thay đổi.
 
 Các file bên dưới vẫn dùng được nếu nhóm thích làm bằng Excel/thư mục.
