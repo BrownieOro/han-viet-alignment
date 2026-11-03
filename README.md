@@ -72,6 +72,10 @@ Các ngưỡng là heuristic cho rà soát, **không đo CER, không phát hiệ
 
 Tổng 2.044 trang, không phải 2.044 trang nội dung hay số cặp hợp lệ. PDF, OCR đầy đủ và dữ liệu máy nằm ngoài Git để không đẩy tài liệu nguồn lên mạng.
 
+Link nguồn: [CPO01 Hán](https://drive.google.com/file/d/1Zcrf840iglrCVBP-5c0xm7LiRfE37pq4/view), [CPO01 Việt](https://drive.google.com/file/d/1JdpE3Ri4NOTxjPZYrp_WPLgPkW-mBDcI/view), [CPO02](https://drive.google.com/file/d/1JVxcUxhFQ8Qc_LDlNH-eW0ryWoJQTfA8/view), [CPO03](https://drive.google.com/file/d/1Z2i5ZXOdsywEOQs6VAR1T7UOOgGpbx2K/view), [CPO04](https://drive.google.com/file/d/135IQ_V5z-gksZ7VS6uUc-OcpyQHg9YBu/view), [CPO05](https://drive.google.com/file/d/1ye3HD76lmUn1afHm59buBA9OebOrEGrd/view).
+
+[Phân công và quy trình chung](https://docs.google.com/document/d/1svQTK-oO5F3AU4UTfdqMaXqJ1LDLaNN7C_ViSBzRsh8). [Kết quả thử cả sáu PDF](KET_QUA_THU.md).
+
 ## Tham khảo pipeline trước
 
 Đã thử https://github.com/tien02/SinoViet-Corpus ở commit `2fd25d8708e7cf583e912fcbf1042bbad1195d4a`. Repo này dùng cấu hình Đại Nam Thực Lục, không phù hợp để chạy nguyên lệnh all cho sách nhóm mình. Repo riêng này viết công cụ audit CPU cho dữ liệu CPO, không chép toàn bộ repo tham khảo. Mẫu trước gồm tám câu thơ đã sửa/dóng thủ công; không được coi là bằng chứng dóng tự động thành công.
