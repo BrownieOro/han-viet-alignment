@@ -9,7 +9,7 @@ from input_api import sources,source_path,page_png,start_ocr,JOBS
 
 ROOT=Path(__file__).resolve().parents[1]
 SUBMISSIONS=ROOT/'bai_lam'
-STATIC={'index.html','OUTPUT_CONTRACT.md'}
+STATIC={'index.html','advanced.html','OUTPUT_CONTRACT.md','assets/pdfjs/pdf.mjs','assets/pdfjs/pdf.worker.mjs'}|{f'inputs/source_{i}.pdf' for i in range(1,7)}
 
 class Handler(BaseHTTPRequestHandler):
     def send(self,status,body,mime='application/json; charset=utf-8'):
