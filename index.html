@@ -7,8 +7,20 @@
 <details><summary>+ Mapping sang bản đối chiếu</summary><label for="targetBook">Nguồn đối chiếu</label><select id="targetBook"><option value="">Chưa chọn</option></select><label for="targetPage">Trang / khoảng trang đối chiếu</label><input id="targetPage" placeholder="Ví dụ: 17–19"><label for="status">Trạng thái</label><select id="status"><option>Cần xác nhận</option><option>Đã đối chiếu phạm vi</option></select></details>
 <div class="actions"><button id="save" class="primary">Lưu phần này</button><button id="reset">Ghi mới</button></div><p class="muted">Chưa cần biết Hán để ghi vị trí trang. Chỗ chưa chắc cứ để Cần xác nhận. Ghi chú lưu trên trình duyệt này; xuất JSON để gửi nhau.</p><details open><summary>Những phần đã ghi</summary><div id="notes"></div></details>
 <details><summary>Khi cần xử lý dữ liệu</summary><p><a href="advanced.html">Mở công cụ biên tập nâng cao</a></p><p><a href="OUTPUT_CONTRACT.md" target="_blank">Quy cách đầu ra chung</a></p></details></aside></main>
-<script type="module">
-import * as pdfjs from './assets/pdfjs/pdf.mjs';
+<script>
+const viewerControls = ['book', 'prev', 'page', 'go', 'next'];
+for (const id of viewerControls) document.getElementById(id).disabled = true;
+document.getElementById('loading').textContent = 'Đang khởi tạo trình xem…';
+window.bookViewerReady = (async () => {
+if (location.protocol === 'file:') {
+    throw new Error('Hãy chạy MO_TOOL.cmd trên Windows hoặc python3 cong_cu/serve_review.py, rồi mở địa chỉ http://127.0.0.1:7070/.');
+}
+let pdfjs;
+try {
+    pdfjs = await import('./assets/pdfjs/pdf.mjs');
+} catch (error) {
+    throw new Error('Không nạp được thư viện PDF.js. Kiểm tra file assets/pdfjs/pdf.mjs, cấu hình JavaScript cho .mjs của server và cập nhật trình duyệt. Chi tiết: ' + error.message);
+}
 pdfjs.GlobalWorkerOptions.workerSrc='./assets/pdfjs/pdf.worker.mjs';
 const $=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const books=[['Tang thương ngẫu lục · Hán',138],['Tang thương ngẫu lục · Việt',237],['Hoàng Việt văn tuyển',166],['Ngô Thì Nhậm toàn tập 1',882],['Thơ văn Phan Huy Ích 2',160],['Tổng tập văn học Việt Nam 1',461]];
@@ -29,4 +41,11 @@ $('save').onclick=()=>{if(!$('scope').value.trim()&&!$('note').value.trim()){$('
 $('reset').onclick=clear;$('notes').onclick=e=>{const b=e.target.closest('button');if(!b)return;const n=notes.find(n=>n.id===(b.dataset.view||b.dataset.edit));if(!n)return;const found=books.findIndex(b=>b[0]===n.bookName);if(n.book>6&&found<0){$('message').textContent='Thêm lại file '+n.bookName+' bằng + Input để mở trang này.';return}const bookId=found>=0?found+1:n.book;$('book').value=bookId;$('page').value=n.page;show();if(b.dataset.edit){editing=n.id;for(const id of ['author','scope','note','targetPage','status'])$(id).value=n[id]||'';$('targetBook').value=n.targetBook||'';$('save').textContent='Lưu sửa'}};
 $('book').onchange=()=>{$('page').value=1;clear();show()};$('go').onclick=show;$('page').onkeydown=e=>{if(e.key==='Enter')show()};$('prev').onclick=()=>{if(Number($('page').value)>1){$('page').value=Number($('page').value)-1;show()}};$('next').onclick=()=>{if(Number($('page').value)<books[Number($('book').value)-1][1]){$('page').value=Number($('page').value)+1;show()}};
 $('export').onclick=()=>{const a=document.createElement('a'),u=URL.createObjectURL(new Blob([JSON.stringify({format:'hanviet-simple-notes-v1',notes},null,2)],{type:'application/json'}));a.href=u;a.download='ghi_chu_mapping.json';a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)};$('import').onclick=()=>$('importFile').click();$('importFile').onchange=async()=>{try{const f=$('importFile').files[0];if(!f)return;const x=JSON.parse(await f.text());if(x.format!=='hanviet-simple-notes-v1'||!Array.isArray(x.notes)||!x.notes.every(n=>typeof n.id==='string'&&Number.isInteger(n.book)&&n.book>=1&&n.book<=6&&Number.isInteger(n.page)&&n.page>=1&&n.page<=books[n.book-1][1]&&['author','scope','note','targetPage','status'].every(k=>typeof n[k]==='string')&&(!n.targetBook||(Number.isInteger(n.targetBook)&&n.targetBook>=1&&n.targetBook<=6))))throw Error('Bản sao không đúng định dạng');let added=0;for(const n of x.notes)if(!notes.some(a=>a.id===n.id)){notes.push(n);added++}store();$('message').textContent='Đã thêm '+added+' ghi chú; không ghi đè ID đã có.'}catch(e){$('message').textContent=e.message}finally{$('importFile').value=''}};list();show();
+for (const id of viewerControls) document.getElementById(id).disabled = false;
+return window.BookViewer;
+})();
+window.bookViewerReady.catch(error => {
+    document.getElementById('loading').textContent = 'Không khởi tạo được trình xem.';
+    document.getElementById('message').textContent = error.message;
+});
 </script><script src="quick_tools.js"></script><script src="hanviet.js"></script><script src="alignment_link.js"></script></html>

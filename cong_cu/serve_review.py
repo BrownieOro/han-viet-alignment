@@ -8,6 +8,10 @@ import hashlib
 import mimetypes
 from input_api import sources,source_path,page_png,start_ocr,JOBS
 
+# Serve ES modules consistently, including Windows registry MIME overrides.
+mimetypes.init()
+mimetypes.add_type('text/javascript', '.mjs')
+
 PORT=7070
 ROOT=Path(__file__).resolve().parents[1]
 SUBMISSIONS=ROOT/'bai_lam'
