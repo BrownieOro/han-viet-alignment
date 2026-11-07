@@ -11,12 +11,21 @@
 
 Màn OCR có âm Hán–Việt gợi ý từ từ điển offline. Bấm **Dóng hàng · 2/4 bản** để nạp text, xếp dòng, sửa/gộp/tách và kiểm trước khi xuất TSV/XLSX. Đây là biên tập thủ công; xếp theo dòng chưa phải ghép theo nghĩa tự động. OCR Hán/Việt vẫn đang test, chưa chốt chạy batch.
 
-Chạy local đọc PDF từ máy; OCR màn chính vẫn chạy bằng Tesseract.js trong trình duyệt, không tự chuyển sang PaddleOCR. Lần đầu vẫn cần mạng tải core/mô hình. Không cần cài bộ Paddle chỉ để mở màn chính.
+Chạy local đọc PDF từ máy. Màn chính chọn Tesseract.js để OCR trong trình duyệt, hoặc Gemini để gửi ảnh từng trang qua server Python đến Google. Với Tesseract, lần đầu vẫn cần mạng tải core/mô hình. Không cần cài bộ Paddle chỉ để mở màn chính.
+
+## OCR bằng Gemini
+
+Lưu API key của project **Free tier chưa bật billing** vào file `.gemini_api_key` ở thư mục gốc repo. File này bị loại khỏi Git và server đọc lại mỗi request. Trên giao diện chọn **Gemini**, để trống ô key để dùng key local, chọn model và ngôn ngữ. Có thể nhập key vào ô để dùng riêng cho phiên trang đang mở. Mặc định dùng Flash-Lite với mức suy nghĩ tối thiểu để giảm độ trễ. Bấm **Chạy OCR** cho trang hiện tại hoặc chọn **Từ trang / đến trang** rồi bấm **OCR khoảng trang**. Mỗi trang là một request thường, tối đa 50 trang/lượt và dưới 15 MB/request theo giới hạn của tool. Chạy Gemini dùng thư viện chuẩn Python, không cần cài PaddleOCR.
+
+Key nhập trên giao diện chỉ giữ trong phiên trang đang mở; key local nằm trong `.gemini_api_key` và không được trả về trình duyệt. Ảnh và kết quả qua Gemini free tier có thể được Google dùng để cải thiện sản phẩm. Gói thanh toán và quota xem trong AI Studio, chọn đúng project/model ở Usage / Rate limits. Bộ đếm trên tool chỉ tính số lần gửi trong phiên, gồm retry.
+
+Nút Dừng ngừng gửi trang tiếp theo, giữ kết quả request đang xử lý nếu nhận được. Nút Tiếp tục chạy từ trang chưa hoàn tất với cùng nguồn, ngôn ngữ và bố cục; có thể đổi model trước khi tiếp tục. Tiến độ nằm trong phiên trang đang mở; tải text trước khi đóng hoặc tải lại trang. Server chờ Google tối đa 30 giây cho một lần chờ mạng; giao diện dừng chờ sau 35 giây. Khi model quá tải (503) tool báo ngay, không tự gửi lại. Giới hạn phút có chỉ dẫn chờ ngắn vẫn được thử lại tối đa 2 lần. Khi timeout, Google có thể đã xử lý request dù tool chưa nhận kết quả. Dừng hẳn bằng Ctrl+C ở terminal và đóng tab.
 
 ## Sửa/config
 
 - `index.html`: giao diện và hiển thị PDF.
-- `quick_tools.js`: input, ngôn ngữ, bố cục và OCR từng trang/khoảng trang.
+- `quick_tools.js`: input, ngôn ngữ, bố cục và OCR Tesseract từng trang/khoảng trang.
+- `gemini_ocr.js` + `cong_cu/gemini_ocr.py`: giao diện Gemini, request từng trang, giới hạn và xử lý lỗi.
 - `hanviet.js` + `assets/hanviet/`: âm gợi ý; không thay bản phiên âm trong sách. Bấm chữ để sửa; OCR sai vẫn có thể tra ra âm.
 - `alignment.html` + `alignment.js`: màn dóng 2/4 bản, bản nháp lưu trong trình duyệt. Xuất JSON để giữ nguồn, trạng thái và âm tự sửa; TSV/XLSX chỉ chứa text các bản, không chứa âm gợi ý.
 - Muốn chạy cổng khác: `python cong_cu/serve_review.py --port 7072`, rồi mở http://127.0.0.1:7072/.

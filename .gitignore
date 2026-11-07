@@ -4,3 +4,4 @@ data/
 *.log
 node_modules/
 inputs/*.pdf
+.gemini_api_key

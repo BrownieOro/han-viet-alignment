@@ -7,6 +7,7 @@ import json
 import hashlib
 import mimetypes
 from input_api import sources,source_path,page_png,start_ocr,JOBS
+from gemini_ocr import recognize, MAX_REQUEST_BYTES, local_key
 
 # Serve ES modules consistently, including Windows registry MIME overrides.
 mimetypes.init()
@@ -15,7 +16,7 @@ mimetypes.add_type('text/javascript', '.mjs')
 PORT=7070
 ROOT=Path(__file__).resolve().parents[1]
 SUBMISSIONS=ROOT/'bai_lam'
-STATIC={'alignment.html','alignment.js','alignment_export.js','alignment_link.js','hanviet.js','assets/hanviet/readings.json','assets/hanviet/SOURCE.md','assets/hanviet/LICENSE.txt','index.html','advanced.html','OUTPUT_CONTRACT.md','quick_tools.js','mau/ocr_da_thu.txt','assets/pdfjs/pdf.mjs','assets/pdfjs/pdf.worker.mjs','assets/tesseract/tesseract.min.js','assets/tesseract/worker.min.js'}|{f'inputs/source_{i}.pdf' for i in range(1,7)}
+STATIC={'alignment.html','alignment.js','alignment_export.js','alignment_link.js','hanviet.js','assets/hanviet/readings.json','assets/hanviet/SOURCE.md','assets/hanviet/LICENSE.txt','index.html','advanced.html','OUTPUT_CONTRACT.md','quick_tools.js','gemini_ocr.js','mau/ocr_da_thu.txt','assets/pdfjs/pdf.mjs','assets/pdfjs/pdf.worker.mjs','assets/tesseract/tesseract.min.js','assets/tesseract/worker.min.js'}|{f'inputs/source_{i}.pdf' for i in range(1,7)}
 
 class Handler(BaseHTTPRequestHandler):
     def send(self,status,body,mime='application/json; charset=utf-8'):
@@ -31,6 +32,10 @@ class Handler(BaseHTTPRequestHandler):
         if origin and origin not in {f'http://127.0.0.1:{PORT}',f'http://localhost:{PORT}'}:
             self.send(403,'Origin rejected');return
         u=urlparse(self.path)
+        if u.path=='/api/gemini-config':
+            try:self.send(200, json.dumps({'localKeyConfigured': bool(local_key())}))
+            except OSError:self.send(500, json.dumps({'error': 'Không đọc được file key local.'}))
+            return
         if u.path=='/api/sources':self.send(200,json.dumps(sources(),ensure_ascii=False));return
         if u.path=='/api/source':
             try:p=source_path(parse_qs(u.query).get('id',[''])[0]);self.send(200,p.read_bytes(),'application/pdf')
@@ -66,9 +71,17 @@ class Handler(BaseHTTPRequestHandler):
         if self.headers.get('Host') not in {f'127.0.0.1:{PORT}',f'localhost:{PORT}'} or self.headers.get('Origin') not in {f'http://127.0.0.1:{PORT}',f'http://localhost:{PORT}'}:
             self.send(403,'Origin rejected');return
         try:
-            if self.path!='/api/ocr':self.send(404,'Not found');return
+            if self.path not in {'/api/ocr', '/api/gemini-ocr'}:self.send(404,'Not found');return
             n=int(self.headers.get('Content-Length','0'))
-            if not 0<n<22*1024*1024:raise ValueError('Ảnh gửi lên quá lớn')
+            limit = MAX_REQUEST_BYTES if self.path == '/api/gemini-ocr' else 22*1024*1024
+            if not 0<n<limit:
+                self.send(413, json.dumps({'error': 'Request vượt giới hạn ' + str(limit / 1_000_000) + ' MB của tool.'}));return
+            if self.path == '/api/gemini-ocr':
+                data = json.loads(self.rfile.read(n))
+                if not isinstance(data, dict):
+                    self.send(400, json.dumps({'error': 'Request phải là một đối tượng JSON.'}));return
+                status, result = recognize(data)
+                self.send(status, json.dumps(result, ensure_ascii=False));return
             key=start_ocr(json.loads(self.rfile.read(n)))
             self.send(202,json.dumps({'id':key}))
         except Exception as e:self.send(400,json.dumps({'error':str(e)},ensure_ascii=False))
