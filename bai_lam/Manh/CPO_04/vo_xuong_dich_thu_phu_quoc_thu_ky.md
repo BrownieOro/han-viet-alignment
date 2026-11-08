@@ -6,7 +6,7 @@
 - Trang PDF: [16]
 - Link lấy text: https://www.thivien.net/Phan-Huy-%C3%8Dch/V%C5%A9-X%C6%B0%C6%A1ng-d%E1%BB%8Bch-th%E1%BB%A9-ph%E1%BB%A5-qu%E1%BB%91c-th%C6%B0-k%C3%BD-Ng%C3%B4-Binh-b%E1%BB%99/poem-EMmn2D72pXL017gZYNq0bw
 - Người dịch thơ: [Không có]
-- Đối chiếu sách: Khớp sách
+- Đối chiếu sách: Chưa xác nhận
 - Ghi chú: 
 
 ## Hán
