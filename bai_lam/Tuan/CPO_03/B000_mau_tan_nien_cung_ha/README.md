@@ -1,5 +1,5 @@
-# Mẫu Tân niên cung hạ nghiêm thân
+# Tân niên cung hạ nghiêm thân
 
-Đây là mẫu thử 8 câu thơ lấy từ dữ liệu demo của công cụ. Trạng thái là **Chưa kiểm**, chưa tính là phần dữ liệu đã bàn giao của Tuấn. Dùng thư mục này làm mẫu để tạo các bài thật.
+Bài thơ 8 câu thuộc Ngô Thì Nhậm, CPO_03, trong phạm vi dữ liệu Tuấn. Trang Thi Viện có đủ chữ Hán, dịch âm, dịch nghĩa và một bản dịch thơ Hoàng Tạo. Bộ text hiện tại lấy từ mẫu demo của repo và được dùng để kiểm tra contract.
 
-Quy trình cho bài thật là giữ OCR thô trong `ocr/`, sửa thành từng phiên bản trong `text/`, kiểm tra từng hàng, rồi xuất `dong_hang.tsv` và `dong_hang.xlsx`.
+Trạng thái hiện tại là **Cần đối chiếu PDF**. Phải mở PDF 44–46, so từng chữ và xác nhận đúng bản dịch trong sách trước khi đổi `qa.tsv` thành đã kiểm. Không tính bài này là hoàn thành cho đến khi có người kiểm chéo.
