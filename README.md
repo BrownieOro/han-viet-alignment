@@ -36,7 +36,7 @@ Nút Dừng ngừng gửi trang tiếp theo, giữ kết quả request đang x�
 
 Chưa có database chung, làm xong push vào repo. Mỗi bài/mẫu để trong `bai_lam/Ten/ten_bai/`; ghi nguồn, trang PDF và cấu hình chạy. Giữ OCR thô riêng với text đã sửa. Ghi chú trên web lưu theo trình duyệt: xuất file rồi push để chia sẻ; **+ Input không tự upload**.
 
-[Phân công, timeline](https://docs.google.com/document/d/1svQTK-oO5F3AU4UTfdqMaXqJ1LDLaNN7C_ViSBzRsh8/edit?tab=t.0) · [Đầu ra chung](OUTPUT_CONTRACT.md) · [Mẫu tìm text](mau/TIM_TEXT.md) · [Mapping tham khảo](MAPPING.tsv).
+[Danh sách ngữ liệu trực tuyến](ONLINE_CORPUS.md) · [Phân công, timeline](https://docs.google.com/document/d/1svQTK-oO5F3AU4UTfdqMaXqJ1LDLaNN7C_ViSBzRsh8/edit?tab=t.0) · [Đầu ra chung](OUTPUT_CONTRACT.md) · [Mẫu tìm text](mau/TIM_TEXT.md) · [Mapping tham khảo](MAPPING.tsv).
 
 `inputs/`: sáu PDF nguồn. `mau/`: mẫu dùng chung. `bai_lam/`: tự tạo thư mục khi có bài, không cần lập thêm file chia việc.
 
