@@ -1,5 +1,5 @@
 # Tân niên cung hạ nghiêm thân
 
-Bài thơ 8 câu thuộc Ngô Thì Nhậm, CPO_03, trong phạm vi dữ liệu Tuấn. Trang Thi Viện có đủ chữ Hán, dịch âm, dịch nghĩa và một bản dịch thơ Hoàng Tạo. Bộ text hiện tại lấy từ mẫu demo của repo và được dùng để kiểm tra contract.
+Bài thơ 8 câu thuộc Ngô Thì Nhậm, CPO_03, trong phạm vi dữ liệu Tuấn. PDF 44–46 có đủ Hán, phiên âm, dịch nghĩa và dịch thơ. Thi Viện có cùng bài và các phiên bản text để hỗ trợ đối chiếu.
 
-Trạng thái hiện tại là **Cần đối chiếu PDF**. Phải mở PDF 44–46, so từng chữ và xác nhận đúng bản dịch trong sách trước khi đổi `qa.tsv` thành đã kiểm. Không tính bài này là hoàn thành cho đến khi có người kiểm chéo.
+Trạng thái hiện tại là **đã đối chiếu sơ bộ**. Các dòng 1–6 và 8 khớp ảnh PDF và nguồn trực tuyến. Dòng 7 cần người trong nhóm chốt dị bản chữ cuối câu Hán vì PDF và nguồn web hiện hiển thị dạng chữ khác nhau. Sau khi chốt dị bản, người thứ hai cần kiểm chéo trước khi coi là hoàn thành.
