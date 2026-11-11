@@ -8,6 +8,7 @@ import hashlib
 import mimetypes
 from input_api import sources,source_path,page_png,start_ocr,JOBS
 from gemini_ocr import recognize, MAX_REQUEST_BYTES, local_key
+from gemini_align import align
 
 # Serve ES modules consistently, including Windows registry MIME overrides.
 mimetypes.init()
@@ -16,7 +17,7 @@ mimetypes.add_type('text/javascript', '.mjs')
 PORT=7070
 ROOT=Path(__file__).resolve().parents[1]
 SUBMISSIONS=ROOT/'bai_lam'
-STATIC={'alignment.html','alignment.js','alignment_export.js','alignment_link.js','hanviet.js','assets/hanviet/readings.json','assets/hanviet/SOURCE.md','assets/hanviet/LICENSE.txt','index.html','advanced.html','OUTPUT_CONTRACT.md','quick_tools.js','gemini_ocr.js','mau/ocr_da_thu.txt','assets/pdfjs/pdf.mjs','assets/pdfjs/pdf.worker.mjs','assets/tesseract/tesseract.min.js','assets/tesseract/worker.min.js'}|{f'inputs/source_{i}.pdf' for i in range(1,7)}
+STATIC={'alignment_extra.js','cases/index.json','alignment.html','alignment.js','alignment_export.js','alignment_link.js','hanviet.js','assets/hanviet/readings.json','assets/hanviet/SOURCE.md','assets/hanviet/LICENSE.txt','index.html','advanced.html','OUTPUT_CONTRACT.md','quick_tools.js','gemini_ocr.js','mau/ocr_da_thu.txt','assets/pdfjs/pdf.mjs','assets/pdfjs/pdf.worker.mjs','assets/tesseract/tesseract.min.js','assets/tesseract/worker.min.js'}|{f'inputs/source_{i}.pdf' for i in range(1,7)}
 
 class Handler(BaseHTTPRequestHandler):
     def send(self,status,body,mime='application/json; charset=utf-8'):
@@ -71,9 +72,9 @@ class Handler(BaseHTTPRequestHandler):
         if self.headers.get('Host') not in {f'127.0.0.1:{PORT}',f'localhost:{PORT}'} or self.headers.get('Origin') not in {f'http://127.0.0.1:{PORT}',f'http://localhost:{PORT}'}:
             self.send(403,'Origin rejected');return
         try:
-            if self.path not in {'/api/ocr', '/api/gemini-ocr'}:self.send(404,'Not found');return
+            if self.path not in {'/api/ocr', '/api/gemini-ocr', '/api/gemini-align'}:self.send(404,'Not found');return
             n=int(self.headers.get('Content-Length','0'))
-            limit = MAX_REQUEST_BYTES if self.path == '/api/gemini-ocr' else 22*1024*1024
+            limit = MAX_REQUEST_BYTES if self.path in {'/api/gemini-ocr','/api/gemini-align'} else 22*1024*1024
             if not 0<n<limit:
                 self.send(413, json.dumps({'error': 'Request vượt giới hạn ' + str(limit / 1_000_000) + ' MB của tool.'}));return
             if self.path == '/api/gemini-ocr':
@@ -82,6 +83,9 @@ class Handler(BaseHTTPRequestHandler):
                     self.send(400, json.dumps({'error': 'Request phải là một đối tượng JSON.'}));return
                 status, result = recognize(data)
                 self.send(status, json.dumps(result, ensure_ascii=False));return
+            if self.path == '/api/gemini-align':
+                data=json.loads(self.rfile.read(n)); status,result=align(data)
+                self.send(status,json.dumps(result,ensure_ascii=False));return
             key=start_ocr(json.loads(self.rfile.read(n)))
             self.send(202,json.dumps({'id':key}))
         except Exception as e:self.send(400,json.dumps({'error':str(e)},ensure_ascii=False))
