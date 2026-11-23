@@ -1,0 +1,4 @@
+Hàng	Cờ tự động	Người kiểm
+1–45	Tách câu và dóng hàng từ bản OCR trong to_quan_ton_hien_bien.md; cần kiểm chéo PDF trang 859 trở đi	Chuyển đổi từ bản .md của Mạnh
+8, 22, 23, 26, 32, 34, 39, 41–43	Vế Hán có khoảng trắng khuyết chữ do OCR trong bản .md gốc (衡天 頭, 局副 左刑院, 科榜勳 中來, 未易 辨, 簪 詩禮, 並 顯宦, 始 基, 經今 二百年, ...), cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
+9, 36	Đã xóa ký tự rác OCR ')' thừa ở hàng 9 và ký hiệu chú thích '®' sau 'Tiến triều' ở hàng 36	Chuyển đổi từ bản .md của Mạnh

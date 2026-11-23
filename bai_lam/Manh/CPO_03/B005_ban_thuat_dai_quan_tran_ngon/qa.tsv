@@ -1,0 +1,4 @@
+Hàng	Cờ tự động	Người kiểm
+1–18	Tách câu và dóng hàng từ bản OCR trong ban_thuat_dai_quan_tran_ngon.md; cần kiểm chéo PDF trang 577 trở đi	Chuyển đổi từ bản .md của Mạnh
+6–10	Vế Hán có vị trí khuyết chữ do OCR trong bản .md gốc (ví dụ 采 采菲, 南 未帖, ...), cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
+14	Đã loại chỉ mục chú thích '(6)' sau cụm 'giao việc;' theo quy định guideline	Chuyển đổi từ bản .md của Mạnh

@@ -1,0 +1,4 @@
+Hàng	Cờ tự động	Người kiểm
+1–47	Tách câu và dóng hàng từ bản OCR trong gia_quy_yeu_uoc.md; cần kiểm chéo PDF trang 848 trở đi	Chuyển đổi từ bản .md của Mạnh
+1, 10, 19, 42, 46	Vế Hán có lỗi OCR hoặc khuyết chữ (洛恰 會a門, 奕世 雲仍, 恪奉 嘗, 列祖 之, 回期), cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
+32	Đã tách lỗi dính chữ OCR 'con đẻsau này' -> 'con đẻ, sau này'	Chuyển đổi từ bản .md của Mạnh

@@ -1,0 +1,4 @@
+Hàng	Cờ tự động	Người kiểm
+1–22	Tách câu và dóng hàng từ bản OCR trong ngu_su_dai_ban_duong_quan_tue_qui_tran_ngon_khai.md; cần kiểm chéo PDF trang 573 trở đi	Chuyển đổi từ bản .md của Mạnh
+3, 10, 14, 15	Vế Hán có khoảng trắng khuyết chữ do OCR (ví dụ 恤, 霄 圖回, 今 里, 多 土), cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
+21	Đã ghép chữ 'Từ' bị OCR đẩy lên trên dòng 119 về đúng vị trí 'Từ nay nên phụng truyền'	Chuyển đổi từ bản .md của Mạnh

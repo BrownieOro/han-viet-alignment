@@ -1,0 +1,4 @@
+Hàng	Cờ tự động	Người kiểm
+1–15	Tách câu và dóng hàng từ bản OCR trong ban_xu_tue_qui_dieu_tran_khai.md; cần đối chiếu PDF trang 563 trở đi	Chuyển đổi từ bản .md của Mạnh
+2	Đã ghép chữ 'ra' bị OCR rớt dòng về đúng vị trí 'kê ra sau đây:'	Chuyển đổi từ bản .md của Mạnh
+11, 12, 15	Vế Hán có khoảng trắng khuyết chữ do OCR (ví dụ 公 , 未 齊, 其 稼), cần kiểm lại ảnh PDF	Chuyển đổi từ bản .md của Mạnh
