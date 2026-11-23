@@ -1,0 +1,35 @@
+# Tên bài: CHÙA TIÊN-TÍCH (仙迹寺)
+
+- Tác giả: Phạm Đình Hổ – Nguyễn Án
+- Tác phẩm: CPO_01 - Tang thương ngẫu lục
+- Nguồn sách: source_1.pdf và source_2.pdf
+- Trang PDF: [source_1.pdf: 37; source_2.pdf: 57-59]
+- Link lấy text: Không
+- Người dịch: Đạm Nguyên
+- Đối chiếu sách: Chưa xác nhận
+- Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), cần rà soát lại và bỏ chú thích/số trang nếu còn sót.
+
+## Hán
+城南仙迹寺，靖王時重修，都人輦材木，供鎡築，奔走於道路，數年而成。制宏廠，重門疊屋，庭列方石八座，高二尺許，置蘭盆，清風徐來，香氣鬱勃。寺背通衢，前臨清渠。塔在其右，高九層，四角懸鈴，飭以金碧。由西而南達於寺，輩道回折，砌石爲之。渠繁紆彎抱注於湖，湖深廣，水至清。夏日荷花盛開，香聞數里。沿湖堤入渠，樹石相間。寺前左，渠水通湖處有橋，下容舟往來，上蓋穹屋，架鼉梁，刻龍鱗於板橋邊數十步，渠之南、湖之北，建離宮，爲行幸之所。北蘆藂柏松六七本，影濃鬱，日光不漏。地卧石牛、鹿各一，觚角相向，制精致活動，占城國故物，黃公征南時所獲也。隔湖喬岳，阮侯侃內第。侯王布衣交，常便服出入禁中。王詣寺時，每臨幸焉，御書「心腹和衷」字以賜。住持太長郡主女，王之表妹也。王以暇命駕遊寺，携妃嬪内侍泛舟於湖，唱《採蓮》之曲，上下波光樹影間，若耶、武陵之遊不是過也。乙巳歲，寺門監卒，夜聞聲憂呢呢然似哭聲甚哀。淨聽之，聲在湖畔，止而復作。詰且視其處，牛淚眼猶濕，地草皆麈滅狼藉，如抵觸狀。驚而聞於朝，命工井鹿碎之，投於爐。寺今廢，斷烟荒草，搖漾秋風，欲求其剩瓦殘磚而不可得。盛衰之際，可勝道哉！
+
+## Dịch âm
+Không có (văn xuôi)
+
+## Dịch nghĩa / Việt văn xuôi
+Chùa Tiên-Tích ở về phía Nam Kinh-Thành, được tu bổ lại trong thời chúa Tĩnh-Vương (Trịnh-Sâm). Người ở kinh-thành, kẻ khuân tre gỗ, người giúp xẻng cuốc, để xây đắp, đi lại ở ngoài đường, mấy năm công việc mới xong.
+
+Chùa rộng lớn, nóc chồng, cửa kép. Sân bày tám miếng đá vuông, cao chừng hai thước, trên để những chậu hoa lan, gió mát nhẹ đưa, hương bay thơm phức.
+
+Phía sau chùa thông với đường cái, đằng trước trông xuống một con ngòi nước trong. Cây tháp ở phía hữu, cao chín tầng, bốn góc đeo nhạc, trang hoàng những nét vàng xanh rực rỡ. Từ phía tây đi về phía nam, vào chùa đường xe quanh co đều lát đá cả. Con cừ uốn lượn vòng chảy ra một cái hồ. Hồ sâu, rộng, nước trong xanh, mùa hè hoa sen nở nhiều, mùi hương bay xa hàng dặm. Chung quanh bờ hồ, cây đá chen nhau. Trước chùa, về phía tả, chỗ nước cừ chảy thòng ra hồ, có bắc cái cầu. Dưới cầu ghe thuyền đi lại; trên cầu lợp thành mái nhà, cột rồng cuốn trên những tấm ván khắc trạm vẩy rồng. Bên cạnh cầu mấy chục bước, phía nam cừ và phía bắc hồ, dựng cái ly cung để làm chỗ vua chúa ngự chơi, trông những cây leo và sáu, bảy cây muỗm, trắc, thông, cành lá um tùm đến nỗi ánh mặt trời không hề soi lọt. Dưới đất bày tràu đá, hươu đá, mỗi thứ hai con, sừng chầu vào nhau, chế tạo tinh tế, trông rất linh-động. Đó là vật cũ của nước Chiêm-Thành, do ông Hoàng khi đi đánh miền Nam lấy được. Bên kia hồ là nhà Kiều-nhạc-Hầu Nguyễn-Khản. Hầu là bạn áo vải của Chúa, được mặc áo thường ra vào trong cung. Mỗi khi Chúa đến chơi chùa, lại đến thăm nhà Hầu và một lần đích thân Chúa viết bốn chữ:
+
+心 腹 和 衷 “Tâm Phúc Hòa trung” nghĩa là
+Lòng dạ ôn hòa, ngay thẳng, để ban cho Trụ trì chùa
+
+ấy là con gái bà Thái-Trưởng Quận-Chúa (em họ về ngành ngoại của Chúa). Những khi Chúa nhàn rỗi, ngự giá chơi chùa, cùng các phi-tần nội thị thả thuyền chơi trên hồ, hát khúc hái sen. Sóng cây lồng ánh sáng trông rất ngoạn mục, chẳng kém gì những cuộc vui chơi trong Vũ-Lăng vậy.
+
+Năm Ất-Tỵ (1785) linh canh của nhà chùa nghe tiếng y ỷ như tiếng khóc than cực kỳ ai oán, lắng tai nghe thì tiếng ấy phát ra ở trên bờ hồ, lúc khóc lúc nín. Sáng hôm sau ra xem chỗ ấy, thấy nước mắt của hai con tràu đá còn ướt mà cỏ trên mặt đất đều bị xéo nát bừa bãi, hình như hai con trâu đá đã chọi húc nhau. Lính canh sợ hãi, báo cáo vào triều, triều-đình sai thợ đá đập phá cả tràu vất vào lò lửa. Chùa hiện nay bị phá hủy, chỉ còn cỏ rậm phớt phơ trong ngọn gió thu, muốn tìm lấy một hòn ngói vụn, một viên gạch nát cũng không thề được. Trò đời thịnh suy thay đổi, ngậm ngùi khôn xiết nên lời.
+
+Chuyện Ngư-phủ và Đào-Nguyên.
+
+## Dịch thơ
+Không có (văn xuôi)

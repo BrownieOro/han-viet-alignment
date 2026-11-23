@@ -1,0 +1,46 @@
+# Tên bài: THÀNH ĐẠO TỬ (成道子)
+
+- Tác giả: Phạm Đình Hổ – Nguyễn Án
+- Tác phẩm: CPO_01 - Tang thương ngẫu lục
+- Nguồn sách: source_1.pdf và source_2.pdf
+- Trang PDF: [source_1.pdf: 32-33; source_2.pdf: 48-50]
+- Link lấy text: Không
+- Người dịch: Đạm Nguyên
+- Đối chiếu sách: Chưa xác nhận
+- Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), cần rà soát lại và bỏ chú thích/số trang nếu còn sót.
+
+## Hán
+成道子，山西人，少年領鄉薦。厭舉子業，走江湖遇范真人員從之，名山大川，足迹殆遍。一日，與同輩二人，隨真人入海，洪濤怒浪中，修道一綫，屈曲如羊腸；過一山，樹木蓊蔚，桃實大如斗。真人傾壺小憩，人賜桃數枚，戒毋懷核，從者諾。酒闌，真人行，成道子後，幸真人弗覺，實之懷。紆回半日不得路，意懷中核故，探投之，出山道。真人在前途，酌酒笑曰：「來何遲？」出《秘錄》授之，携從者飄然去。成道返，放浪山水間。嘗借其徒出途中，扣一門，問主人近狀，閶者聹曰：「主人得心疾，符錄費不貲矣。先生能療乎？」曰：「能！」閶者喜，語主婦延入，治具，戒家傭法壇。成道子止之，曰：「焉用此。屋脊一鬼，操矛刺病人心，懸蟾蜍嚇之，當自退。」如其言，病愈。厚酬之，辭不受。登收精山，秉燭入山谷，燭中絶，冥然失路。谷中石髓如泥，嚥之味香美，得不餒。久之，見一輿，騶從甚盛，近之，故舍生也。驚曰：「人鬼關頭，兄何得至此？」解衣衣之，覺眼界漸明，隨所指出谷。及返，家人哀服將練矣。與吾邑者宿武君有故，酒間常思之，後不知所終。
+
+## Dịch âm
+Không có (văn xuôi)
+
+## Dịch nghĩa / Việt văn xuôi
+Thành-Đạo-Tử người ở Sơn-Tây, tuổi trẻ thi đỗ Hương-tiến, rồi chán nghề thi cử, ngao du sơn thủy. Sư gặp chân-nhân Phạm-Viên đi theo, núi cao sông lớn, vết chân trải qua hầu khắp. Một hôm cùng với hai người đạo hữu đi theo Chân-nhân ra chơi biền cả. Giữa lúc sóng to, gió lớn, bỗng thấy một con đường quanh co, khuất khúc dẫn tới một trái núi, cây cỏ um tùm, lại có những quả đào to bằng cái đấu. Chân-nhân ngồi tạm nghỉ và nghiêng bầu uống rượu, cho mỗi người mấy quả đào và bảo đừng ai giấu hạt đem về. Kẻ theo hầu đều vâng nghe. Rượu uống xong, Chân-nhân ra đi. Thành-Đạo-Tử đi sau, cho là Chân-nhân không thể biết, liền giấu hạt đào trong người. Rồi lằn quần nửa ngày không tìm được đường đi ra, nghĩ có lẽ vì hạt đào giấu ở trong mình, bèn lấy vứt đi, mới đi ra được khỏi núi. Chân-nhân đang ở phía trước, ngồi rót rượu uống, thấy Thành-Đạo-Tử đến, cười mà bảo rằng:
+
+— Sao đi chậm thế.
+
+Rồi Chân-nhân, lấy một quyền sách bí-mật trao cho, đoạn cùng với mấy người theo hầu phơi phới bay vut đi mất.
+
+Thành-Đạo trở về, lang thang khắp nơi sơn thủy. một hôm, cùng với đồ đệ đi chơi, dọc đường vào gõ cửa một nhà, hỏi thăm chủ nhân. Người coi cửa mim cười nói:
+
+— Chủ nhân tôi mắc chứng đau tim, bùa dẫu tốn kém nhiều vẫn chưa khỏi. Chẳng hay tiên-sinh có chữa được không?
+
+Thành-Đạo đáp chữa được. Người coi cửa mừng rỡ vào nói với bà chủ. Bà chủ mời vào làm rượu thiết đãi và sai người nhà sắm sửa đàn tràng. Thành-Đạo ngăn đi mà rằng:
+
+— Không cần, kìa trên nóc nhà có một con ma nó cầm ngọn giáo đâm vào tim người bệnh, bây giờ bắt một con cóc treo lên để dọa nó, tự khắc nó phải lui.
+
+Nhà chủ nghe lời làm theo, bệnh quả nhiên khỏi, đưa biếu rất hậu, nhưng Thành-Đạo nhất định không lấy.
+
+Thành-Đạo lên chơi núi Thu-Tinh, cầm đuốc vào soi trong hang, giữa đường đuốc tắt tối om, không biết lối nào mà ra. Trong hang có những tảng đá nát nhũn như bùn, ăn thấy mùi thơm ngon và khỏi được đói.
+
+Sau thấy có một cái kiệu đi qua, kẻ theo hầu rộn rịp, đến xem, thì người đi kiệu là một người bạn học cùng ở với mình khi trước đã chết. Người ấy giật mình hỏi:
+
+— Đây là nơi cửa ải của người và ma chia cách nhau. Sao bác lại đến được đây?
+
+Người bạn cởi áo mặc cho, Thành-Đạo thấy trước mắt dần dần sáng sủa, bèn theo lối trỏ mà đi ra khỏi hang. Về đến nhà, thì người nhà tưởng là chết đã để tang và sắp đến ngày giỗ đầu.
+
+Thành-Đạo cùng với ông cụ họ Vũ làng tôi có quen, trong lúc uống rượu, thường nhắc nhở đến. Sau không biết ra sao.
+
+## Dịch thơ
+Không có (văn xuôi)

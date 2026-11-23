@@ -1,0 +1,28 @@
+# Tên bài: ĐỀN TRÁN - VÕ (鎮武觀)
+
+- Tác giả: Phạm Đình Hổ – Nguyễn Án
+- Tác phẩm: CPO_01 - Tang thương ngẫu lục
+- Nguồn sách: source_1.pdf và source_2.pdf
+- Trang PDF: [source_1.pdf: 114-115; source_2.pdf: 188-190]
+- Link lấy text: Không
+- Người dịch: Đạm Nguyên
+- Đối chiếu sách: Chưa xác nhận
+- Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), cần rà soát lại và bỏ chú thích/số trang nếu còn sót.
+
+## Hán
+京北安豐之麻廟，今改爲春廟。上古時，有九尾狐爲民間害，四十餘里，迴無人煙。玄天上帝嘗降其地收之，鬰朝爲望祀，載在禮典。建鎮武觀於昇龍城西北，以鎮西湖靈氣。先朝定王始範銅爲象，高可數十尺，散髮赤足，杖劍踏龜蛇，前立元帥四員，湖精立其側，威容儼然。道士某姓名之，先籍淸化，世業符籙，嘗自旁邑歸，遇左泐風水師途中告餒，傾囊中饅頭、蕉果奉之。師感其意，爲遷祖墳，曰：「一飽之恩，當以此相報。」未幾，成祖哲王義師東出，軍次得客差[二]，急召鑲之，應符而愈，錄其功。光興間駕幸中都，命掌鎮武觀，住持法事，皆其子孫。黃舍尚書某公北使時，奉梓潼帝君像南還，權安觀之前堂，再還黃舍山頂。尋奉降乩日：「安南文獻之邦，我當以一、六等日賜士子夢，原像自當北回，毋溺我爲也。」會北客舶來,隨在詢訪，公遵命還之。即其遺迹，塑新像奉祀；今鎮武觀前左首幘頭補服是也。遘遇大比，四方士子，多齋沐詣觀祈夢，報應如響。黃舍山寺亦然。
+
+## Dịch âm
+Không có (văn xuôi)
+
+## Dịch nghĩa / Việt văn xuôi
+Trong đời thượng cổ, tại ngôi miếu Ma ở huyện Yên-Phong, nay đổi là miếu Xuân, có con cáo 9 đuôi, vẫn làm tai họa cho dân vùng đó, một khoảng rộng hơn 40 dặm, vắng tanh, không ai dám ở. Nhờ có đức Huyền-thiên Thượng-đế, giáng xuống bắt con hồ ấy, từ đấy trải các triều vua, đều có thờ vọng và ghi vào lễ điền. dựng đền Trấn - Vũ ở phía tây - bắc thành Thăng-Long để trấn linh khí của hồ tây; Đời Chúa Định-Vương tiên triều, mới đúc đồng làm tượng, cao mấy chục thước, xãa tóc đi chân không, chống gươm đứng giẫm lên con rùa và con rắn. Lại có bốn viên Nguyên-súy đứng ở bèn cạnh, uy dung nghiêm nhiên. Đạo-sĩ Mỗ, vốn quê Thanh-Hóa, nối đời làm nghề phù phép, một hòm từ làng bên cạnh về nhà, gặp ông địa lý Tả-Ao giữa đường kêu đói, bèn lấy cả oản chuối trong bọc ra biểu. Ông Tả-Ao cảm bụng tốt, bèn tặng cho một ngói mộ tổ. nói xin lấy việc táng mộ để báo ân biểu oản chuối. Chẳng bao lâu, Thành-Tổ Triết-Vương đem nghĩa quân ra Đông-đò, tức Thăng-Long. Ngài bị cảm ở quân thứ, liền triệu Đạo-sĩ này đến trừ hộ. Đạo-sĩ vừa phát bùa dấu thì bệnh Vương đã khỏi, Ngài sai biên ghi lấy công. Khoảng năm Quang-Hưng (1578-1599), xa giá đến Trung-Đô, bèn cho Đạo-Sĩ được coi giữ đền Trấn-Vũ. Người giữ đền và coi việc đạo pháp đều là con cháu.
+
+Quan Thượng-Thư Mỗ. người làng Hoàng-Xá, khi đi sứ Trung-hoa, có rước pho tượng Tử-Đồng-Đế Quân về nước, tạm đặt ở lớp tiền-đường đền Trấn-Vũ, sau lại thiên lên đỉnh núi Hoàng-Xá. Rồi thấy Đức Tử-Đồng giáng bút nói rằng:
+
+– An-Nam là nước văn-hiến, ta sẽ cứ lấy những ngày một, ngày sáu, báo mộng cho các học-trò. Nguyên Tượng thì phải trả về Bắc. Đừng đem ta đi mà làm nhơ bần, rối loạn như vậy.
+
+Chợt khi có thuyền của người Trung-hoa sang tìm hỏi pho tượng ấy, quan Thượng-thư tuân mệnh trả về, rồi ở chỗ di tích, tạc pho tượng mới để phụng thờ. Nay ở trước đền Trấn-Vũ về phía bên tả, pho tượng đội mũ phốc-đầu, mặc áo bổ-phục, chính là tượng ấy vậy. Gặp năm có khoa thi Hội, sĩ-tử bốn phương nhiều người tắm rửa chay sạch, đến đền làm lễ cầu mộng, bảo ứng rất nghiệm. Tại chùa núi Hoàng-Xá cũng vậy.
+
+## Dịch thơ
+Không có (văn xuôi)
