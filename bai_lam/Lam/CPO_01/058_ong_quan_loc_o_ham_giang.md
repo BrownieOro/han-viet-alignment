@@ -10,76 +10,40 @@
 - Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), cần rà soát lại và bỏ chú thích/số trang nếu còn sót.
 
 ## Hán
-鄄江祿郡公丁文左，少任俠，喜與亡賴遊，膂力過人，悉服儕輩。邑前大江廣一里許，常往來游泳，習以為戲。一日，偕同輩臨流縱飲〔一〕，聞隔岸賽神鉦聲，眾激使盜之，公諾。夜徒涉，往擊其鉦以去，至江中，叩擊鏗然，鄉人始覺，追之不及而返。後以事繫東門獄。時南陣用兵，王命列校設堠於五龍樓，較角射銃，公適與獄卒往靚之，笑曰：「不能命中，何用若曹為也？」射者怒，授銃命射〔二〕，公更取巨銃，挾置頰邊，連發之，破三鵠，射者驚服。列校命試之，隨發隨中。事聞，釋其罪，隨軍南征。與敵遇，官軍擄山上，敵卒敗之，將士皆卻走。公伏叢莽中，俟敵至發射，敵懼有伏，敵兵而退。官軍乘之，敵大潰，由是知名。累立大功，賜郡公爵，悉納還告敕，請削刑書。復立戰功，官至極品。八十餘疾革，王親省之，間所欲，對曰：「願未填溝壑，得列福神，瞑目無恨矣！」王許之，命榻前宣敕。未幾疾愈。又若干年，始卒。其後累出聽將，以健鬬名。時國老鄧公廷相子孫貴顯，青紫滿朝，人為之語曰：「丁氏討賊，鄧氏做官。」蓋指其實也。耳孫迂衡好書史，徇徇退讓，有儒士風。昭統末，官殄寇大將軍，爵郡公。己酉
-100
-歲，挈家從亡。母卒，有一聯云：「日沉細嶺水東流，古今常態；母夢南柯君北渡，家國俱憂。」聞者莫
-不悲之。
+鄄江祿郡公丁文左，少任俠，喜與亡賴遊，膂力過人，悉服儕輩。邑前大江廣一里許，常往來游泳，習以為戲。一日，偕同輩臨流縱飲，聞隔岸賽神鉦聲，眾激使盜之，公諾。夜徒涉，往擊其鉦以去，至江中，叩擊鏗然，鄉人始覺，追之不及而返。後以事繫東門獄。時南陣用兵，王命列校設堠於五龍樓，較角射銃，公適與獄卒往靚之，笑曰：「不能命中，何用若曹為也？」射者怒，授銃命射，公更取巨銃，挾置頰邊，連發之，破三鵠，射者驚服。列校命試之，隨發隨中。事聞，釋其罪，隨軍南征。與敵遇，官軍擄山上，敵卒敗之，將士皆卻走。公伏叢莽中，俟敵至發射，敵懼有伏，敵兵而退。官軍乘之，敵大潰，由是知名。累立大功，賜郡公爵，悉納還告敕，請削刑書。復立戰功，官至極品。八十餘疾革，王親省之，間所欲，對曰：「願未填溝壑，得列福神，瞑目無恨矣！」王許之，命榻前宣敕。未幾疾愈。又若干年，始卒。其後累出聽將，以健鬬名。時國老鄧公廷相子孫貴顯，青紫滿朝，人為之語曰：「丁氏討賊，鄧氏做官。」蓋指其實也。耳孫迂衡好書史，徇徇退讓，有儒士風。昭統末，官殄寇大將軍，爵郡公。己酉100歲，挈家從亡。母卒，有一聯云：「日沉細嶺水東流，古今常態；母夢南柯君北渡，家國俱憂。」聞者莫不悲之。
 
 ## Dịch âm
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Kính-Phủ
-
 Quận-Lộc ở Hàm-Giang là Đinh-Văn-Tả, hồi tuổi trẻ tính hào hiệp, thường chơi với lũ vô lại, có sức mạnh hơn người, hết thảy đồng bọn đều kính phục. Trước làng có một con sông to, rộng chừng một dặm, thường xuống bơi lội chơi đùa thành thói quen. Một hôm cùng bạn bè uống rượu la cà ở bờ sông, nghe bên kia sông có tiếng chiêng cúng tế trong đình, bạn nói khích đố sang lấy trộm cái chiêng đem về. Ông nhận lời. Đêm hôm ấy, ông lội qua sông sang lấy trộm chiêng, đem về đến giữa sông mới dẫm vang lên, người làng bên kia tỉnh dậy đuổi theo, không kịp, phải lộn về.
 
-Sau ông mắc lỗi, phải giam ở ngục Đông-Môn. Bấy giờ đương buổi dụng binh, ở biên thùy phía nam Chúa Trịnh sai các tướng võ đắp ụ ở trước lầu Ngũ-Long, luyện tập thi bắn. Ông chợt cùng bọn ngục tốt đi qua đứng lại xem cười mà rằng :
+Sau ông mắc lỗi, phải giam ở ngục Đông-Môn. Bấy giờ đương buổi dụng binh, ở biên thùy phía nam Chúa Trịnh sai các tướng võ đắp ụ ở trước lầu Ngũ-Long, luyện tập thi bắn. Ông chợt cùng bọn ngục tốt đi qua đứng lại xem cười mà rằng:
 
-— Bắn có thể mà không trúng, không biết Triều-đình dùng bọn họ làm gì !
+— Bắn có thể mà không trúng, không biết Triều-đình dùng bọn họ làm gì!
 
-Người bắn tức giận đưa súng cho ông, bảo ông
+Người bắn tức giận đưa súng cho ông, bảo ông bắn. Ông lấy một cái súng lớn, cặp vào bên má, bắn luôn mấy phát, phá vỡ ba cái đích. Người bắn ấy rất là kính phục. Bọn tướng võ, bảo thử bắn lại cho xem, ông bắn phát nào trúng phát ấy. Việc đến tai Chúa, truyền tha tội và cho theo quân đi đánh phương Nam. Khi gặp quân địch, quan quân đóng giữ ở trên núi, quân địch tiến đánh, tướng sĩ đều lui chạy. Ông một mình phục trong bụi rậm, đợi quân dịch đến, chĩa súng bắn ra. Quân địch sợ có mai phục, phải rút lui. Quan quân thừa cơ quay lại đánh, bên địch phải thua chạy, Do vậy ông nổi tiếng. Trải nhiều lần lập nên công lớn, ông được phong tước Quận-Công. Nhưng ông nộp hết các sắc phong để xin xóa tên trong sổ tội-nhân. Rồi sau đó lại lập chiến công, làm quan đến cực phầm. Năm 80 tuổi ốm nặng, Chúa thân đến thăm và hỏi có muốn điều gì không. Ông nói nếu được ngay lúc chưa chết này, Chúa phong cho làm Phúc thần, thì nhắm mắt đi sẽ không còn điều gì ân hận nữa. Chúa ưng cho, sai tuyên sắc ngay ở trước giường. Chưa bao lâu khỏi bệnh, lại sống mấy năm nữa mới mất.
 
-bắn. Ông lấy một cái súng lớn, cặp vào bên má, bắn
-luôn mấy phát, phá vỡ ba cái đích. Người bắn ấy rất
-là kính phục. Bọn tướng võ, bảo thử bắn lại cho xem,
-ông bắn phát nào trúng phát ấy. Việc đến tai Chúa,
-truyền tha tội và cho theo quân đi đánh phương Nam.
-Khi gặp quân địch, quan quân đóng giữ ở trên núi,
-quân địch tiến đánh, tướng sĩ đều lui chạy. Ông một
-mình phục trong bụi rậm, đợi quân dịch đến, chĩa
-súng bắn ra. Quân địch sợ có mai phục, phải rút lui.
-Quan quân thừa cơ quay lại đánh, bên địch phải thua
-chạy, Do vậy ông nổi tiếng. Trải nhiều lần lập nên
-công lớn, ông được phong tước Quận-Công. Nhưng
-ông nộp hết các sắc phong để xin xóa tên trong sổ tội-
-nhân. Rồi sau đó lại lập chiến công, làm quan đến cực
-phầm. Năm 80 tuổi ốm nặng, Chúa thân đến thăm và
-hỏi có muốn điều gì không. Ông nói nếu được ngay
-lúc chưa chết này, Chúa phong cho làm Phúc thần, thì
-nhắm mắt đi sẽ không còn điều gì ân hận nữa. Chúa
-ưng cho, sai tuyên sắc ngay ở trước giường. Chưa bao
-lâu khỏi bệnh, lại sống mấy năm nữa mới mất.
+Con cháu ông sau nhiều người trở nên bậc dũng tướng, đánh giặc rất giỏi.
 
-Con cháu ông sau nhiều người trở nên bậc dũng
-tướng, đánh giặc rất giỏi.
+Bấy giờ Quốc-Lão Đặng-Đình-Tướng, con cháu đều làm nên quý-hiền, áo xanh, áo tím đầy triều. Người ta đặt ra câu ví rằng: "Họ Đinh đánh giặc, họ Đặng làm quan", đó là đúng với sự thật.
 
-Bấy giờ Quốc-Lão Đặng-Đình-Tướng, con cháu đều
-làm nên quý-hiền, áo xanh, áo tím đầy triều. Người ta
-đặt ra câu ví rằng : "Họ Đinh đánh giặc, họ Đặng làm
-quan", đó là đúng với sự thật.
-
-Cháu xa của ông là Nhạ-Hành, ưa đọc kinh-sử, tính rất nhã nhặn, có phong-độ của người nho-sĩ. Cuối đời Chiêu-Thống làm đến Chần-Khấu Đại-Tướng-quân, tước Hàm-Quận-Công. Năm Kỷ-Dậu (1789), đem cả gia quyến theo vua chạy sang Trung-hoa. Khi bà mẹ mất, ông có câu đối rằng :
+Cháu xa của ông là Nhạ-Hành, ưa đọc kinh-sử, tính rất nhã nhặn, có phong-độ của người nho-sĩ. Cuối đời Chiêu-Thống làm đến Chần-Khấu Đại-Tướng-quân, tước Hàm-Quận-Công. Năm Kỷ-Dậu (1789), đem cả gia quyến theo vua chạy sang Trung-hoa. Khi bà mẹ mất, ông có câu đối rằng:
 
 日 沉 西 嶺 水 東 流 ， 古 今 常 態 。
 Nhật trầm tây lĩnh thủy đông lưu, cổ kim thường thái.
 母 夢 南 柯 君 北 渡 ， 家 國 俱 憂 。
 Mẫu mộng nam kha quân bắc độ, gia quốc câu ưu.
 
-DỊCH
-(Lục-bát)
+DỊCH (Lục-bát)
 
-Thói thường vẫn thế xưa nay,
-Dòng đông nước chảy, non tây bóng tà.
-Phần lo việc nước việc nhà,
-Vua sang đất bắc, mẹ già cành nam.
+Thói thường vẫn thế xưa nay, Dòng đông nước chảy, non tây bóng tà. Phần lo việc nước việc nhà, Vua sang đất bắc, mẹ già cành nam.
 
 Thuật cổ
 
 DỊCH NGHĨA :
 
-Non đoài bóng xế, nước chảy dòng đông, thói thường kim lại cổ.
-Đất bắc vua đi, mẹ về cõi phật, lo thay nước với nhà.
-Lời lẽ thảm-thiết, nghe thấy, ai ai cũng phải ngậm ngùi.
+Non đoài bóng xế, nước chảy dòng đông, thói thường kim lại cổ. Đất bắc vua đi, mẹ về cõi phật, lo thay nước với nhà. Lời lẽ thảm-thiết, nghe thấy, ai ai cũng phải ngậm ngùi.
 
 ## Dịch thơ
 Không có (văn xuôi)

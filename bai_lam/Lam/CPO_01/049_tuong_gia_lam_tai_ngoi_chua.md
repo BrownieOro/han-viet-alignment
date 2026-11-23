@@ -16,24 +16,7 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Ở NGOÀI CÁNH ĐỒNG
-
-Tùng-Niên
-
-Tháng quý hạ (tháng ba) năm Mậu-ngọ tại làng Kim-Ngưu, huyện Văn-Giang, có vợ chồng anh Mỗ,
-
-cùng nhau gánh cỏ nát ra đồng để vun khoai. Buổi
-trưa bỗng thấy một người đàn ông to lớn cao hơn một
-trượng, mặt đỏ như gấc ở trong một ngôi chùa giữa
-đồng đi ra, lôi người đàn bà vào trong chùa, Mỗ vừa
-chạy vừa kêu, về đến cổng làng, thì người làng kéo ra
-rất đông ; cùng Mỗ kéo đến cái chùa ấy. Mọi người
-vào chùa, thấy người đàn bà đứng dựa cột ở gian bên
-hữu phía trước mặt Phật điện, mê man như say rượu.
-Pho tượng Già-Lam thì sắc mặt thốt nhiên biến đổi,
-trên tay hữu còn phủ một cái khăn vuông của người
-đàn bà. Ai nấy đều cho là lạ, liền đạp đổ pho tượng và
-phá hủy đi.
+Ở NGOÀI CÁNH ĐỒNG Tháng quý hạ (tháng ba) năm Mậu-ngọ tại làng Kim-Ngưu, huyện Văn-Giang, có vợ chồng anh Mỗ, cùng nhau gánh cỏ nát ra đồng để vun khoai. Buổi trưa bỗng thấy một người đàn ông to lớn cao hơn một trượng, mặt đỏ như gấc ở trong một ngôi chùa giữa đồng đi ra, lôi người đàn bà vào trong chùa, Mỗ vừa chạy vừa kêu, về đến cổng làng, thì người làng kéo ra rất đông; cùng Mỗ kéo đến cái chùa ấy. Mọi người vào chùa, thấy người đàn bà đứng dựa cột ở gian bên hữu phía trước mặt Phật điện, mê man như say rượu. Pho tượng Già-Lam thì sắc mặt thốt nhiên biến đổi, trên tay hữu còn phủ một cái khăn vuông của người đàn bà. Ai nấy đều cho là lạ, liền đạp đổ pho tượng và phá hủy đi.
 
 ## Dịch thơ
 Không có (văn xuôi)

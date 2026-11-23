@@ -16,13 +16,11 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Tùng-Niên
-
 Cây tháp Đại-Thắng Tư-Thiên-Bảo tại chùa Báo-Thiên
 dựng từ đời vua Lý-Thái-Tôn (1054-1072). Tháp xây 12
 tầng, cao mấy chục trượng. Tương truyền là AN-NAM
 tứ khí (安南四器) nghĩa là nước An-Nam có bốn kiến-
-trúc lớn, thì tháp này là một (1). Khoảng năm Tuyên-
+trúc lớn, thì tháp này là một . Khoảng năm Tuyên-
 Đức nhà Minh ; Đức Thái-Tổ Hoàng-Đế tiên-triều tiến
 binh vây Đông-Đô. Viên quan giữ thành là Thành-Sơn-
 Hầu Vương-Thông phá hủy cây tháp, chế ra súng đá
@@ -38,11 +36,7 @@ không thể kể xiết, toàn bằng đá cả. Những hòn gạch
 hoa, hòn nào cũng thấy khắc những chữ : 李 家 弗
 三 帝 龍 瑞 太 平 四 年 造
 
-(Lý gia đệ tam đế, Long-Thụy Thái-Bình (1054-
-1058) tứ niên tạo) nghĩa là : “ Đúc trong năm thứ tư,
-
-niên hiệu Long-Thụy Thái-Bình đời vua thứ 3 triều
-nhà Lý ”. Bấy giờ tôi có đề bài thơ rằng :
+(Lý gia đệ tam đế, Long-Thụy Thái-Bình (1054-1058) tứ niên tạo) nghĩa là: “ Đúc trong năm thứ tư, niên hiệu Long-Thụy Thái-Bình đời vua thứ 3 triều nhà Lý ”. Bấy giờ tôi có đề bài thơ rằng:
 
 李 氏 故 基 成 茂 草
 Lý thị cố cơ thành mậu thảo
@@ -53,8 +47,7 @@ DỊCH NGHĨA :
 
 Nền xưa của Lý-thị nay đã thành vắng cỏ tốt.
 
-Hiệu cũ Thái-bình nay còn trơ lại một đồng sành
-hoang.
+Hiệu cũ Thái-bình nay còn trơ lại một đồng sành hoang.
 
 Đó là lời ghi việc có thực vậy.
 

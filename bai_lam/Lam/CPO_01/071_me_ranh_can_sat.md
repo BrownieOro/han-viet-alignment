@@ -16,63 +16,25 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Tùng-Niên
+Khoảng hai làng Hạ-Hội và Thượng - Cát thuộc huyện Từ-Liêm, có một thằng bé, con nhà làm ruộng độ 5, 6 tuổi, thường nói với cha xin sang ngủ nhà ông ngoại ở thôn bên, tối đi sớm về, trải mấy tháng đã quen lệ thường như vậy. Người chú thương cháu phải đi lại vất vả, một hôm gặp ông, bà ngoại nó ở đường, bèn xin: “ Cho nó ngủ ở nhà ”. Người bà ngoại ngạc nhiên nói:
 
-Khoảng hai làng Hạ-Hội và Thượng - Cát thuộc
-huyện Từ-Liêm, có một thằng bé, con nhà làm ruộng
+– Đã lâu nay, cháu nó có sang nhà tôi đâu, sao lại có chuyện ấy ”.
 
-độ 5, 6 tuổi, thường nói với cha xin sang ngủ nhà
-ông ngoại ở thôn bên, tối đi sớm về, trải mấy tháng đã
-quen lệ thường như vậy. Người chú thương cháu phải
-đi lại vất vả, một hôm gặp ông, bà ngoại nó ở đường,
-bèn xin : “ Cho nó ngủ ở nhà ”. Người bà ngoại
-ngạc nhiên nói :
+Người chú bấy giờ mới biết, không trả lời. Đến tối lặng lặng đi theo thằng bé. Ra khỏi cổng làng, gần đến một cái gò, cây cối um tùm, thằng bé gọi với rằng – Mẹ ơi, con đã đến đây!
 
-– Đã lâu nay, cháu nó có sang nhà tôi đâu, sao
-lại có chuyện ấy ”.
+Người chú núp ở một cái gò bên rình xem, thấy trong bụi cây có mấy chục đứa trẻ, đứa cười, đứa khóc. Một người đàn bà, hai vú dài đến một thước, ôm lấy thằng bé cho nó bú. Thằng bé nói:
 
-Người chú bấy giờ mới biết, không trả lời. Đến
-tối lặng lặng đi theo thằng bé. Ra khỏi cổng làng, gần
-đến một cái gò, cây cối um tùm, thằng bé gọi với rằng
+– Sớm đi tối đến, chỉ sợ rồi họ biết. Mẹ hãy dắt con đi luôn.
 
-– Mẹ ơi, con đã đến đây !
+Người đàn bà an ủi nó rằng:
 
-Người chú núp ở một cái gò bên rình xem, thấy
-trong bụi cây có mấy chục đứa trẻ, đứa cười, đứa
-khóc. Một người đàn bà, hai vú dài đến một thước, ôm
-lấy thằng bé cho nó bú. Thằng bé nói :
+– “ Hạn nợ chưa hết, con hãy phải đợi vài năm nữa. Nếu họ có cho con ăn cá chép, ba-ba, thì con chớ có ăn, nếu ăn, thì mẹ sẽ không thể gần con được nữa ”.
 
-– Sớm đi tối đến, chỉ sợ rồi họ biết. Mẹ hãy dắt
-con đi luôn.
+Thằng bé vâng lời. Hai mẹ con nói chuyện với nhau xì xào. Người chú im lặng trở về. Đến sáng mua hai thứ kia nấu chung làm một, gọi thằng bé cho ăn. Thằng bé quả chối từ không ăn. Nhưng người chú cố đè cho nó ăn chỗ thừa và đồ toé cả ra mình nó. Chập tối lại đi rình theo thằng bé đến cách cái gò độ mấy chục bước, con mẹ ranh đã kinh hãi mà rằng:
 
-Người đàn bà an ủi nó rằng :
+— Mày không nghe lời dặn của ta, lại còn đến đây làm gì.
 
-– “ Hạn nợ chưa hết, con hãy phải đợi vài năm
-nữa. Nếu họ có cho con ăn cá chép, ba-ba, thì con
-chớ có ăn, nếu ăn, thì mẹ sẽ không thể gần con được
-nữa ”.
-
-Thằng bé vâng lời. Hai mẹ con nói chuyện với
-
-nhau xì xào. Người chú im lặng trở về. Đến sáng mua
-hai thứ kia nấu chung làm một, gọi thằng bé cho ăn.
-Thằng bé quả chối từ không ăn. Nhưng người chú cố
-đè cho nó ăn chỗ thừa và đồ toé cả ra mình nó. Chập
-tối lại đi rình theo thằng bé đến cách cái gò độ mấy
-chục bước, con mẹ ranh đã kinh hãi mà rằng :
-
-— Mày không nghe lời dặn của ta, lại còn đến
-đây làm gì.
-
-Rồi đuổi thằng bé không cho đến gần. Thằng bé
-đứng lùi lại, khóc. Người chú liền quát lớn thì con mẹ
-kia phút biến đi, không thấy đâu nữa. Người chú lấy
-những mai ba-ba, xương cá chép vứt vào khắp trong
-bụi cây. Đêm hôm ấy, thấy con mẹ kia đến gõ cửa
-kêu van, xin bỏ hai vật kia đi cho, nếu không sẽ làm
-yêu, làm quái để giec tai vạ. Người chú bất đắc dĩ
-phải bằng lòng. Sớm hôm sau, dậy ra nhặt vứt hai vật
-kia xuống nước. Thằng bé ấy từ đấy không việc gì.
+Rồi đuổi thằng bé không cho đến gần. Thằng bé đứng lùi lại, khóc. Người chú liền quát lớn thì con mẹ kia phút biến đi, không thấy đâu nữa. Người chú lấy những mai ba-ba, xương cá chép vứt vào khắp trong bụi cây. Đêm hôm ấy, thấy con mẹ kia đến gõ cửa kêu van, xin bỏ hai vật kia đi cho, nếu không sẽ làm yêu, làm quái để giec tai vạ. Người chú bất đắc dĩ phải bằng lòng. Sớm hôm sau, dậy ra nhặt vứt hai vật kia xuống nước. Thằng bé ấy từ đấy không việc gì.
 
 ## Dịch thơ
 Không có (văn xuôi)

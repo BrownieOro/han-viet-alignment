@@ -16,42 +16,17 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Ông Ninh lại kể tiếp theo chuyện sau :
-« Cùng năm ấy, tại ấp Yên-Mỏ (một ấp nhỏ trong
+Ông Ninh lại kể tiếp theo chuyện sau: « Cùng năm ấy, tại ấp Yên-Mỏ (một ấp nhỏ trong vùng), có một nông-phu nghèo đói phải đi ăn mày ở bãi tha ma. Tối đến, cùng một bạn hành-khuất khác phải nằm ngủ trong một cái quán bỏ không bên cạnh đường cái. Đêm càng khuya, bụng càng đói, trằn trọc mãi không ngủ được. Trông ra chỉ thấy ánh giăng mập mờ trên đường, bỗng thấy xe ngựa kéo qua, đông như đàn cá nối đuôi, hai người nhìn nhau sợ quá chui xuống gầm sàn, du mình lên sàn, nín hơi không dám thở. Một lúc nữa, thấy trống, chiêng, cờ, quạt, rước một chiếc kiệu bát-cống, đặt ở trước quán, rồi chiêng trống tạm yên, quân lính dừng lại.
 
-vùng), có một nông-phu nghèo đói phải đi ăn mày
-ở bãi tha ma. Tối đến, cùng một bạn hành-khuất
-khác phải nằm ngủ trong một cái quán bỏ không bên
-cạnh đường cái. Đêm càng khuya, bụng càng đói,
-trằn trọc mãi không ngủ được. Trông ra chỉ thấy
-ánh giăng mập mờ trên đường, bỗng thấy xe ngựa
-kéo qua, đông như đàn cá nối đuôi, hai người nhìn
-nhau sợ quá chui xuống gầm sàn, du mình lên sàn,
-nín hơi không dám thở. Một lúc nữa, thấy trống,
-chiêng, cờ, quạt, rước một chiếc kiệu bát-cống, đặt ở
-trước quán, rồi chiêng trống tạm yên, quân lính dừng lại.
-
-Trên kiệu có tiếng truyền gọi Xã-lệnh ra hỏi,
-quân lính dạ ran như sấm. Một lúc lâu, thấy một
-người đội mũ phốc-đầu, mặc áo thụng (kiều mũ áo
-tế thần) quì ở trước kiệu mà trình to rằng :
+Trên kiệu có tiếng truyền gọi Xã-lệnh ra hỏi, quân lính dạ ran như sấm. Một lúc lâu, thấy một người đội mũ phốc-đầu, mặc áo thụng (kiều mũ áo tế thần) quì ở trước kiệu mà trình to rằng:
 
 — Thưa tôi là Xã-lệnh, xin đến yết-kiến.
 
-Bác nông-phu ở gầm sàn đưa mắt nhìn ra, nhận
-thấy người quì ấy giống hệt pho tượng Thành-Hoàng
-vẫn thờ ở đình làng. Trên kiệu có tiếng hỏi : “ Sổ
-linh làm xong chưa ?” Xã-lệnh cúi đầu đáp : Ấp tôi
-vừa nhỏ, vừa nghèo, lại mới gặp loạn lạc, dân cư
-bỏ chạy, chưa thấy mấy người trở về, nên chưa thể
-bắt linh được.
+Bác nông-phu ở gầm sàn đưa mắt nhìn ra, nhận thấy người quì ấy giống hệt pho tượng Thành-Hoàng vẫn thờ ở đình làng. Trên kiệu có tiếng hỏi: “ Sổ linh làm xong chưa?” Xã-lệnh cúi đầu đáp: Ấp tôi vừa nhỏ, vừa nghèo, lại mới gặp loạn lạc, dân cư bỏ chạy, chưa thấy mấy người trở về, nên chưa thể bắt linh được.
 
-Trên kiệu lại có tiếng quát to : Ta phụng mệnh đi
-điểm binh, có lệnh xuống đã lâu, nhà ngươi còn lựa
-lời, quanh co nói khéo thực đáng trị tội theo
-quân-pháp.
+Trên kiệu lại có tiếng quát to: Ta phụng mệnh đi điểm binh, có lệnh xuống đã lâu, nhà ngươi còn lựa lời, quanh co nói khéo thực đáng trị tội theo quân-pháp.
 
-Tức thì có mấy ông mặc triều-phục đứng chung quanh kiệu, quì xuống xin hộ rằng :
+Tức thì có mấy ông mặc triều-phục đứng chung quanh kiệu, quì xuống xin hộ rằng:
 
 Vị thần này vốn tính minh mẫn, trung trực, đã được Thượng-đế để ý lựa chọn, hãy nên rộng tha cho. Rồi lấy khỉu tay huých vào viên Xã-lệnh bảo phải dảng ngay sổ lính. Xã-Lệnh bất đắc dĩ phải kể hai người trong ấp, một người là bác nông-phu ở dưới gầm sàn, còn một người nữa cũng là hạng nghèo đói ở trong làng, không nơi nương tựa.
 

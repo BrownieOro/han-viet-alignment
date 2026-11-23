@@ -34,7 +34,6 @@
 
 旋乾既著勳庸；濟蹇重搜手段。
 
-
 內鎮四城, 外撫列郡, 垂益底事, 兼皋契底官; 入參揆席, 出董元戎, 太公之志, 亦周召之治。
 
 舉楫投壺儒流之勇; 伐柯繆戶智處是忠。
@@ -68,7 +67,6 @@
 惟允衡宰相而兼官, 龍納格聖讒之命; 者華式燕將車而說禮, 虎形昭象闕之文。
 
 數施中稔著全才; 踐履處具孚峻望。
-
 
 典宗圖於周譜，正文昭武穆之表儀；司藩屏於湯州，固豐大鎬成之原本。
 
@@ -105,29 +103,7 @@
 酌紫霞而作餞，實慶芳筵；廣白雪以揚輝，用華勝會。
 
 ## Dịch âm
-Thường vị: Hiên giả trí thân vu hi đại, duy lưỡng đồ kiêm tướng tướng, vi xuất nhân kinh vĩ chi kỳ tài; đại phu trí sự hữu hằng qui, tức
-
-
-cửu lão hội thân thân hiền, thực khoáng cổ, kỳ anh chi vận sự.
-Quyền duy đài công: Khảm duy dục tú; Khôn đức lưu anh.
-Đoan lương nhĩ phụng huy âm, môn phiệt Chu Phàn chi mỹ; nghiêm dực túc nhàn tương củ thao kiền Phương Thiệu chi du.
-Ký vũ tượng ư Thành quân; toại tùy long ư Tuyên thất.
-Tiêu cấm mật cửu thần chi thúy, trung cần tảo kết long tri; lệ hoa phân bách lưỡng chi hương, trang kính dũ chương hiền phạm.
-Vũ tuyển luân tài, tam loan điệp thắng; biển ban phát nhận, gian phát ngũ thiên.
-Điển ngự lâm nhi sương túc tinh kỳ, thống ngự lẫm trượng nhân chi lệnh; điều thời sự nhi phong sinh hàn mặc, đối dương ưu nho tướng chi mô.
-Ngưng dục chi giản trú thời ân; tiệm lục chi tao phùng nhật mật.
-Phủ trục quận thư, hoa chương lũy sủng, đô phú quí nhi khiêm ti tự mục, bất kiến chiêu quyền huyễn đại chi dung; cấm vi kinh liễm nghiêm thược chuyên ti, ứng củ phân nhi điều độ thậm nhàn, mạc tranh trị kịch xử phồn chi mẫn.
-Đại hoàng thuộc kinh luân hảo hội; tiền trước tham duy trương mật trù.
-Tái tạo hồi nhật nguyệt chi quang, trung tồn Lưu đản; đồng hưu tạc sơn hà chi ước, tích mại Hàn thân.
-Tuyền càn ký trước huân dung; tế kiến trùng hộ thủ đoạn.
-Nội trấn tứ thành, ngoại phủ liệt quận, Thùy Ích để sự, kiêm Cao Tiết để quan; nhập tham qui tịch, xuất đổng nguyên nhung, Thái công chi chí, diệc Chu Thiệu chi trị.
-Cử tiếp đầu hồ nho lưu chi dũng; phạt kha mâu hộ trí xử thị trung.
-Củ trích thần nhi gian phục mị di, tiên cơ thiếp phục nhung vu hoàn cốc; giải thư lực nhi thố bàn triếp hiệu, thăng toán thanh mạn khấu ư hiệp tuần.
-Thưởng bài chương địch khái chi thù lao; bảo độc kiến khứ tư chi di ái.
-Quyền trọng thân quân, tam đề doanh ấn, huấn tể phu vạn chúng
-
-
-chi đồng tâm; việt mao đắc phạt lưỡng hổ sư thiều, kỳ định tán nhất nhung chi vũ liệt.
+Thường vị: Hiên giả trí thân vu hi đại, duy lưỡng đồ kiêm tướng tướng, vi xuất nhân kinh vĩ chi kỳ tài; đại phu trí sự hữu hằng qui, tức cửu lão hội thân thân hiền, thực khoáng cổ, kỳ anh chi vận sự. Quyền duy đài công: Khảm duy dục tú; Khôn đức lưu anh. Đoan lương nhĩ phụng huy âm, môn phiệt Chu Phàn chi mỹ; nghiêm dực túc nhàn tương củ thao kiền Phương Thiệu chi du. Ký vũ tượng ư Thành quân; toại tùy long ư Tuyên thất. Tiêu cấm mật cửu thần chi thúy, trung cần tảo kết long tri; lệ hoa phân bách lưỡng chi hương, trang kính dũ chương hiền phạm. Vũ tuyển luân tài, tam loan điệp thắng; biển ban phát nhận, gian phát ngũ thiên. Điển ngự lâm nhi sương túc tinh kỳ, thống ngự lẫm trượng nhân chi lệnh; điều thời sự nhi phong sinh hàn mặc, đối dương ưu nho tướng chi mô. Ngưng dục chi giản trú thời ân; tiệm lục chi tao phùng nhật mật. Phủ trục quận thư, hoa chương lũy sủng, đô phú quí nhi khiêm ti tự mục, bất kiến chiêu quyền huyễn đại chi dung; cấm vi kinh liễm nghiêm thược chuyên ti, ứng củ phân nhi điều độ thậm nhàn, mạc tranh trị kịch xử phồn chi mẫn. Đại hoàng thuộc kinh luân hảo hội; tiền trước tham duy trương mật trù. Tái tạo hồi nhật nguyệt chi quang, trung tồn Lưu đản; đồng hưu tạc sơn hà chi ước, tích mại Hàn thân. Tuyền càn ký trước huân dung; tế kiến trùng hộ thủ đoạn. Nội trấn tứ thành, ngoại phủ liệt quận, Thùy Ích để sự, kiêm Cao Tiết để quan; nhập tham qui tịch, xuất đổng nguyên nhung, Thái công chi chí, diệc Chu Thiệu chi trị. Cử tiếp đầu hồ nho lưu chi dũng; phạt kha mâu hộ trí xử thị trung. Củ trích thần nhi gian phục mị di, tiên cơ thiếp phục nhung vu hoàn cốc; giải thư lực nhi thố bàn triếp hiệu, thăng toán thanh mạn khấu ư hiệp tuần. Thưởng bài chương địch khái chi thù lao; bảo độc kiến khứ tư chi di ái. Quyền trọng thân quân, tam đề doanh ấn, huấn tể phu vạn chúng chi đồng tâm; việt mao đắc phạt lưỡng hổ sư thiều, kỳ định tán nhất nhung chi vũ liệt.
 
 Xu phó hàm nghi ư tiên hậu; cần lao mị đạn ư hiểm di.
 
@@ -163,63 +139,46 @@ Phong công vĩ liệt tiền hậu túc chương; khoáng ốc thù triêm th�
 
 Cái ngã hậu trọng trung thành chi báo; nhi bỉ thiên xương bình cách chi kỳ.
 
+Kế trọng thần tử triều phỉ bật hàm cần, đan thư ký thử tông công, chân vô phụ đỉnh chung chi huống; thực ngoại gia luỹ thế trung trinh hoa khánh, tùng Nhạc giáng tư thạc phụ, nghi dũ quang bồ tứ chi môn.
 
-    Kế trọng thần tử triều phỉ bật hàm cần, đan thư ký thử tông công,
-chân vô phụ đỉnh chung chi huống; thực ngoại gia luỹ thế trung trinh hoa
-khánh, tùng Nhạc giáng tư thạc phụ, nghi dũ quang bồ tứ chi môn.
+Toại thành chi cẩm tăng hoa; trung tín chi phàm ký ngạn.
 
-    Toại thành chi cẩm tăng hoa; trung tín chi phàm ký ngạn.
+Cửu trùng thức hoàng phát, tân nhàn khúc tứ du âm; nhất phẩm mộc hồng tư, ưu lẽ trực du thường cách.
 
-    Cửu trùng thức hoàng phát, tân nhàn khúc tứ du âm; nhất phẩm
-mộc hồng tư, ưu lẽ trực du thường cách.
+Nhuận trạch quang thừa thiên sủng; vinh hoa tăng bí gia hưu.
 
-    Nhuận trạch quang thừa thiên sủng; vinh hoa tăng bí gia hưu.
+Nguyên lão minh nông, cẩm lý chi bái tinh sắc sắc; lệnh công hữu tử, thái đường chi lan ngọc hành hành.
 
-    Nguyên lão minh nông, cẩm lý chi bái tinh sắc sắc; lệnh công hữu
-tử, thái đường chi lan ngọc hành hành.
+Úc thụy khí ư Liên thôn; diệu xuân huy ư tùng ấp.
 
-    Úc thụy khí ư Liên thôn; diệu xuân huy ư tùng ấp.
+Đề kiếm di hung chi cố đạo, phảng phất mã đầu; di tôn xỉ thọ chi tân đình, tiêu dao độc bối.
 
-    Đề kiếm di hung chi cố đạo, phảng phất mã đầu; di tôn xỉ thọ chi
-tân đình, tiêu dao độc bối.
+Dẫn Kiều Bành chi tuế nguyệt; di Tư Cát chi tinh thần.
 
-    Dẫn Kiều Bành chi tuế nguyệt; di Tư Cát chi tinh thần.
+Kha hốt diện tiền, kiều ấm chi lưu bất tận; cân thiều nhĩ bạng, khang cù chi lạc phương nồng.
 
-    Kha hốt diện tiền, kiều ấm chi lưu bất tận; cân thiều nhĩ bạng,
-khang cù chi lạc phương nồng.
+Tuần Thích uyển chi diễm đàm; thực tướng môn chi bị phúc.
 
-    Tuần Thích uyển chi diễm đàm; thực tướng môn chi bị phúc.
+Cẩm tuyên chi nhật, hữu lưu giản đồng triều nhất luật ôn lương trước ư ngôn biểu họa, lạc dật ư thiên đoan. Chức đẳng nghị tại duẩn liên, tình ân tùng duyệt.
 
-    Cẩm tuyên chi nhật, hữu lưu giản đồng triều nhất luật ôn lương
-trước ư ngôn biểu họa, lạc dật ư thiên đoan. Chức đẳng nghị tại duẩn
-liên, tình ân tùng duyệt.
-
-    Chước tử hà nhi tác tiễn, thực khánh phương diên; canh bạch tuyết
-dĩ dương huy, dụng hoa thắng hội.
+Chước tử hà nhi tác tiễn, thực khánh phương diên; canh bạch tuyết dĩ dương huy, dụng hoa thắng hội.
 
 ## Dịch nghĩa / Việt văn xuôi
-ĐỀ TỰA TẬP THƠ TRÍ SĨ CỦA CỔN QUẬN CÔNG
-(THỂ BIỀN NGẪU)
+ĐỀ TỰA TẬP THƠ TRÍ SĨ CỦA CỔN QUẬN CÔNG (THỂ BIỀN NGẪU)
 
-    Từng bảo: Bậc hiền giả xuất thân ở triều đại sáng sủa, duy có vị
-kiêm cả hai ban văn vũ, mới đủ tài năng kỳ lạ, ngang dọc hơn người; quan
-đại phu về hưu có quy chế thông thường, tức như họp những bạn cửu lão(1)
-hiền lương, thật là vận sự vẻ vang, tuổi già hiếm có.
+Từng bảo: Bậc hiền giả xuất thân ở triều đại sáng sủa, duy có vị kiêm cả hai ban văn vũ, mới đủ tài năng kỳ lạ, ngang dọc hơn người; quan đại phu về hưu có quy chế thông thường, tức như họp những bạn cửu lão hiền lương, thật là vận sự vẻ vang, tuổi già hiếm có.
 
-    Quý đài: Bẩm sinh ở phương Bắc; đức sánh như quẻ Khôn.(2)
+Quý đài: Bẩm sinh ở phương Bắc; đức sánh như quẻ Khôn.
 
-    Hiền từ vẫn nức tiếng khen, nhà thế phiệt cùng Chu Phàn(3) tốt
+Hiền từ vẫn nức tiếng khen, nhà thế phiệt cùng Chu Phàn tốt đẹp; nghiêm kính sớm quen nghề võ, tài lược thao như Phương Thiệu rõ ràng.
 
+Đã múa voi ở chốn Thành quân; lại theo rồng tại nhà Tuyên thất.
 
-đẹp; nghiêm kính sớm quen nghề võ, tài lược thao như Phương Thiệu(4) rõ ràng.
+Hầu tiêu cấm chín lần cung thẳm, dạ trung cần sớm được vua yêu; chia lệ hoa trăm lạng hương thơm, niềm trung kính tỏ khuôn hiền đẹp.
 
-Đã múa voi ở chốn Thành quân;(5) lại theo rồng tại nhà Tuyên thất.(6)
+Kén tài vũ lược, ba trận thắng luôn; tiến bước biền ban, cách năm chuyển mãi.
 
-Hầu tiêu cấm(7) chín lần cung thẳm, dạ trung cần sớm được vua yêu; chia lệ hoa(8) trăm lạng hương thơm, niềm trung kính tỏ khuôn hiền đẹp.
-
-Kén tài vũ lược, ba trận thắng luôn; tiến bước biền ban(9), cách năm chuyển mãi.
-
-Coi ngự lâm(10) mà cờ quạt ngậm khí sương nghiêm túc, lệnh trượng phu thống lĩnh hùng hào; bàn thời cơ mà bút nghiên nổi trận gió thanh tao, mưu nho tướng giãi bầy hoạt bát.
+Coi ngự lâm mà cờ quạt ngậm khí sương nghiêm túc, lệnh trượng phu thống lĩnh hùng hào; bàn thời cơ mà bút nghiên nổi trận gió thanh tao, mưu nho tướng giãi bầy hoạt bát.
 
 Ơn quyến chú thời thường mật thiết; bước tao phùng ngày một hanh thông.
 
@@ -227,86 +186,77 @@ Nào phủ, quận, lên xe xuống dép, mấy độ cổ ba, quên giàu sang 
 
 Hội kinh luân thuộc bậc đại tài; mưu màn trướng tỏ tay tiền tiến.
 
-Cuộc tái tạo xoay vừng nhật nguyệt, tay áo giơ, trung với Lưu xưa(11) nghĩa đồng hưu(12) trọng ước sơn hà,(13) dải đai rủ, công hơn Hàn cũ.(14)
+Cuộc tái tạo xoay vừng nhật nguyệt, tay áo giơ, trung với Lưu xưa nghĩa đồng hưu trọng ước sơn hà, dải đai rủ, công hơn Hàn cũ.
 
 Chuyển trời từng tỏ sức; dẹp nạn vẫn ra tay.
 
-Bốn thành trong trấn, các quận ngoài trông, việc Ích, Thùy, mà ngôi quan Cao với Tiết(15); mưu kế nào bàn, quân nhung ra nắm, chí Thái công, mà chính trị Thiệu cùng Chu.(16)
+Bốn thành trong trấn, các quận ngoài trông, việc Ích, Thùy, mà ngôi quan Cao với Tiết; mưu kế nào bàn, quân nhung ra nắm, chí Thái công, mà chính trị Thiệu cùng Chu.
 
-Vừa gõ mái,(17) vừa reo hò,(18) cả nho lẫn dũng; nào chặt cành(19) nào dọi ngõ,(20) kiêm trí cùng trung.
+Vừa gõ mái, vừa reo hò, cả nho lẫn dũng; nào chặt cành nào dọi ngõ, kiêm trí cùng trung.
 
-Tra xét tinh, mà gian tà trốn tránh không nơi, bọn phục nhung(21) quét sạch quanh xe, cơ thần khó tả; giải quyết khéo, mà dẫn dắt xong xuôi mọi chốn, lũ man khấu(22) dẹp quang mấy buổi, chước lạ khôn lường.
+Tra xét tinh, mà gian tà trốn tránh không nơi, bọn phục nhung quét sạch quanh xe, cơ thần khó tả; giải quyết khéo, mà dẫn dắt xong xuôi mọi chốn, lũ man khấu dẹp quang mấy buổi, chước lạ khôn lường.
 
-Chiếc thưởng bài(23) đền sức mệt buổi bình nhung;(24) tờ bảo độc(25) tỏ tình yêu khi tạm biệt.
+Chiếc thưởng bài đền sức mệt buổi bình nhung; tờ bảo độc tỏ tình yêu khi tạm biệt.
 
-Quân thân vệ cầm quyền rất trọng, doanh đại tướng ba lần giữ ấn,
-
-
-huấn luyện cho binh sĩ cùng lòng; tay búa cờ đi đẹp đôi nơi, xe quân vương hai độ theo hầu, bình định giúp võ công lừng tiếng.
+Quân thân vệ cầm quyền rất trọng, doanh đại tướng ba lần giữ ấn, huấn luyện cho binh sĩ cùng lòng; tay búa cờ đi đẹp đôi nơi, xe quân vương hai độ theo hầu, bình định giúp võ công lừng tiếng.
 
 Đi lại trước sau vẫn hợp; nhọc nhằn hiểm trở không nề.
 
-Khi An trấn, khi Phỏng sát, khi Giám đốc, khi Thủ trương, đặt mình làm Bùi Độ, (26) Tử Nghi, (27) cuộc ứng tiếp trong ngoài quan hệ; lúc Kinh Bắc, lúc Sơn Nam, lúc Hải Dương, lúc An Quảng, khắp chốn nảy Triêu Ca (28) Bột Hải, (29) cảnh bình di, (30) trốn tránh đâu còn.
+Khi An trấn, khi Phỏng sát, khi Giám đốc, khi Thủ trương, đặt mình làm Bùi Độ, Tử Nghi, cuộc ứng tiếp trong ngoài quan hệ; lúc Kinh Bắc, lúc Sơn Nam, lúc Hải Dương, lúc An Quảng, khắp chốn nảy Triêu Ca Bột Hải, cảnh bình di, trốn tránh đâu còn.
 
 Triều, biên, đôi chốn tỏ huân lao; xã tắc bao phen bàn kế hoạch.
 
-Gánh ngưng thừa nặng ngôi A phụ (31) giúp thánh công nổi tiếng Mông tuyền; (32) lễ giám phủ (33) tỏ buổi bao phong, (34) phò quốc vận trổ tài chấn tượng. (35)
+Gánh ngưng thừa nặng ngôi A phụ giúp thánh công nổi tiếng Mông tuyền; lễ giám phủ tỏ buổi bao phong, phò quốc vận trổ tài chấn tượng.
 
 Dùng mưu lược làm cổ quăng tâm phúc; theo nghĩa tình là phụ tử quân thần.
 
-Nơi Cảnh Chiêu, từng giúp lễ đại táng sơn lăng; (36) đội Khâm vệ kính đón trải năm phen du ngoạn.
+Nơi Cảnh Chiêu, từng giúp lễ đại táng sơn lăng; đội Khâm vệ kính đón trải năm phen du ngoạn.
 
-Gia môn mở rồng tầng Cao Úng; (37) Xương Hạp (38) tươi mọi sắc vàng sơn.
+Gia môn mở rồng tầng Cao Úng; Xương Hạp tươi mọi sắc vàng sơn.
 
 Lòng trung trinh vẫn giữ chu tuyền; việc khu xử không nề lớn nhỏ.
 
-Giữ Xuân sảnh (39) mà chọn dùng không lộn xộn, mây lành năm vẻ lửng lơ bay; lĩnh khổn mao (40) mà súng đạn chẳng ồn ào, mưa ngọt một khu hòa dịu tưới.
+Giữ Xuân sảnh mà chọn dùng không lộn xộn, mây lành năm vẻ lửng lơ bay; lĩnh khổn mao mà súng đạn chẳng ồn ào, mưa ngọt một khu hòa dịu tưới.
 
 Đẹp đẽ tài năng sử dụng; tốt lành độ lượng bao dung.
 
-Đem lòng thành hộ vệ người hiền, Tể tướng mà chức khác cùng kiêm, giúp long nạp (41) vít lời sàm báng; chỉ hoa vàng đặt bầy tiệc yến, (42) Tướng quân mà bàn việc lễ, soi hổ văn (43) rạng cửa triều đình.
+Đem lòng thành hộ vệ người hiền, Tể tướng mà chức khác cùng kiêm, giúp long nạp vít lời sàm báng; chỉ hoa vàng đặt bầy tiệc yến, Tướng quân mà bàn việc lễ, soi hổ văn rạng cửa triều đình.
 
 Tay thi vi tường tỏ tài ba; bước tiến lý đủ nêu danh vọng.
 
-Đồ phả giúp nhà Chu miếu (44) văn chiêu võ mục, tỏ rõ đôi hàng; dậm phên cõi ngoài chốn Thang Châu, (45) Phong tước Cảo sau, (46) vững bền cội rễ.
+Đồ phả giúp nhà Chu miếu văn chiêu võ mục, tỏ rõ đôi hàng; dậm phên cõi ngoài chốn Thang Châu, Phong tước Cảo sau, vững bền cội rễ.
 
 Vẫn cố gắng, việc làm không ngại khó; dẫu suy tàn, công sự chẳng chây lười.
 
-Xe quan phong (47) hai độ Tây tuần, mỏi mệt nhỉ, theo hầu khắp
-
-
-chốn; trận bái vũ(48) sáu quân Nam phạt, quốc thước thay, thắng lợi nhiều phen.
+Xe quan phong hai độ Tây tuần, mỏi mệt nhỉ, theo hầu khắp chốn; trận bái vũ sáu quân Nam phạt, quốc thước thay, thắng lợi nhiều phen.
 
 Nghiệp lớn công cao, trước sau rõ rệt; ơn sâu trạch rộng, mới cũ tràn trề.
 
 Có lẽ vua ta nặng tình báo đáp với bậc trung thành; mà khiến trời kia thêm tuổi lâu dài cho người bình tĩnh.
 
-Trải bốn triều giúp đỡ, bậc trọng thần tỏ bày mẫn cán, công lớn nọ sử son ghi chép, nền đỉnh chung chỉ phụ ban ơn; bao thế hệ trung trinh, cảnh ngoại gia(49) tụ họp phúc lành, tài cao kia non Nhạc giáng sinh(50) của bồ tứ(51) nên càng rạng vẻ.
+Trải bốn triều giúp đỡ, bậc trọng thần tỏ bày mẫn cán, công lớn nọ sử son ghi chép, nền đỉnh chung chỉ phụ ban ơn; bao thế hệ trung trinh, cảnh ngoại gia tụ họp phúc lành, tài cao kia non Nhạc giáng sinh của bồ tứ nên càng rạng vẻ.
 
-Gấm toại thành(52) thêu hoa rực rỡ; buồm tín trung tới bến xong xuôi.(53)
+Gấm toại thành thêu hoa rực rỡ; buồm tín trung tới bến xong xuôi.
 
 Lượng cửu thiên cảm tới tuổi già, chiếu tạm cấp về quê nhàn dưỡng; hàm nhất phẩm riêng nhuần ơn lớn, cách phi thường tỏ lẽ ưu dung.
 
 Nhuận trạch thêm, trên đội ơn trời; vinh hoa mãi, trong nhờ phúc tổ.
 
-Vị nguyên lão rõ nghề làm ruộng, làng gấm thêu vẻ vẻ quạt cờ;(54) bậc lệnh công vui có con hiền, nhà văn vẻ hàng hàng lan ngọc.(55)
+Vị nguyên lão rõ nghề làm ruộng, làng gấm thêu vẻ vẻ quạt cờ; bậc lệnh công vui có con hiền, nhà văn vẻ hàng hàng lan ngọc.
 
 Chốn tùng ấp vẻ xuân rạng rỡ; miền Liên thôn khí lạ lan tràn.
 
 Đầu ngựa kia phảng phất chưa quên, nơi đường cũ vung gươm thần giết giặc; lưng nghé nọ tiêu dao là thú, chốn tân đình đưa chén thọ mừng xuân.
 
-Kéo dài năm tháng Kiều Bành;(56) vui chứa tinh thần Tư Cát.(57)
+Kéo dài năm tháng Kiều Bành; vui chứa tinh thần Tư Cát.
 
-Trước mặt bài ngà hốt ngọc, bóng cây cao để lại khôn cùng; bên tai tiếng nhạc cung thiều, đường ngã bốn thú vui đương đậm.(58)
+Trước mặt bài ngà hốt ngọc, bóng cây cao để lại khôn cùng; bên tai tiếng nhạc cung thiều, đường ngã bốn thú vui đương đậm.
 
-Truyện Thích uyển(59) tin là tốt đẹp; phúc tướng môn thật đã chu toàn.
+Truyện Thích uyển tin là tốt đẹp; phúc tướng môn thật đã chu toàn.
 
-Ngày quý đài áo gấm về làng, có để lại bạn đồng triều một bài thơ, ôn hậu thuần lương thể hiện ở ngoài lời nói, hòa nhã vui vẻ tràn trề ở ngay đầu thiên. Bọn tôi nào nghĩa đồng liêu,(60) nào tình cộng tác.(61)
+Ngày quý đài áo gấm về làng, có để lại bạn đồng triều một bài thơ, ôn hậu thuần lương thể hiện ở ngoài lời nói, hòa nhã vui vẻ tràn trề ở ngay đầu thiên. Bọn tôi nào nghĩa đồng liêu, nào tình cộng tác.
 
-Rót chén tử hà(62) mà tiễn biệt, tiệc ngọc đầy vui; nối vần bạch
-
-
-tuyết (63) mà kính mừng, hội may thêm đẹp.
+Rót chén tử hà mà tiễn biệt, tiệc ngọc đầy vui; nối vần bạch tuyết mà kính mừng, hội may thêm đẹp.
 
 ## Dịch thơ
 Không có

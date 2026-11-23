@@ -10,18 +10,13 @@
 - Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), cần rà soát lại và bỏ chú thích/số trang nếu còn sót.
 
 ## Hán
-月堂寺近花陽鎮, 一方都會處也。近有一士人遊覽, 見壁上題一絕云：
-幾年不到月堂門, 上剩依依鎖淚痕。宿草墳前妻妹恨, 荒邱一壘葬三魂。
-辭極棲慘, 疑是鬼語云。
-PDG
+月堂寺近花陽鎮, 一方都會處也。近有一士人遊覽, 見壁上題一絕云：幾年不到月堂門, 上剩依依鎖淚痕。宿草墳前妻妹恨, 荒邱一壘葬三魂。辭極棲慘, 疑是鬼語云。PDG
 
 ## Dịch âm
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Kính-Phủ
-
-Chùa Nguyệt-Đường ở gần trấn Hoa-Dương là một nơi đò hội. Gần đây, có một người qua chơi, thấy trên vách có đề một bài thơ tứ-tuyệt rằng :
+Chùa Nguyệt-Đường ở gần trấn Hoa-Dương là một nơi đò hội. Gần đây, có một người qua chơi, thấy trên vách có đề một bài thơ tứ-tuyệt rằng:
 
 幾 年 不 到 月 堂 門
 Kỷ niên bất đáo nguyệt đường môn
@@ -32,23 +27,17 @@ Túc thảo phần tiền thê muội hận
 荒 邱 一 壘 墓 三 魂
 Hoang khâu nhất lũy táng tam hồn.
 
-DỊCH VẦN :
+DỊCH VẦN:
 
-Mấy năm không đến Nguyệt-đường-môn,
-Cột, tháp, (1) y nguyên, ngấn lệ còn !
-Cỏ ngập trốc mồ em với vợ,
-Gò hoang một dãy táng ba hồn.
+Mấy năm không đến Nguyệt-đường-môn, Cột, tháp, y nguyên, ngấn lệ còn! Cỏ ngập trốc mồ em với vợ, Gò hoang một dãy táng ba hồn.
 
-Bài thơ trên lời rất thê thảm, nên người ta ngờ là
-THƠ MA.
+Bài thơ trên lời rất thê thảm, nên người ta ngờ là THƠ MA.
 
-GIẢI NGHĨA :
+GIẢI NGHĨA:
 
-Đã mấy năm nay, không tới chùa Nguyệt-Đường. Cảnh
-chùa còn nguyên phong ngấn lệ.
+Đã mấy năm nay, không tới chùa Nguyệt-Đường. Cảnh chùa còn nguyên phong ngấn lệ.
 
-Vằng cỏ xưa um tùm trước mồ như bao trùm nỗi hờn của
-vợ và em gái, chôn vùi trong bãi hoang vu.
+Vằng cỏ xưa um tùm trước mồ như bao trùm nỗi hờn của vợ và em gái, chôn vùi trong bãi hoang vu.
 
 ## Dịch thơ
 Không có (văn xuôi)

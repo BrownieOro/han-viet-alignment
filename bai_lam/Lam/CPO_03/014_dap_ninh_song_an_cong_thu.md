@@ -12,77 +12,19 @@
 ## Hán
 某不能在家守制, 遂及于事, 又及於鹿魯事, 以爲兄羞。盥捧來箋, 公之教我誠深矣。夫公有默亭, 而我不能默, 公有逸池, 而我不能逸, 公有德磯, 而我在熱利磯, 公有吉島, 而我在其繁華島, 公有涼臺, 而我在于熱鬧臺。公有太極之拙, 探萬物之巧, 而我以一技之巧, 敢求助于公, 以唐突于拙山。其羞不知公, 而受惡于山亦多矣。此公所以拳拳之于其過, 思以不拙之拙, 與朋友共之。有此亭、臺、池、島、磯而不厭于曲藝者與之遊。子曰: “未嘗無誨焉”, 其此之謂歟。啓我竊有聞焉: 誠不息, 不息則久, 久則徵, 徵則悠遠。此山自造設, 以至於今茲, 又自今茲以至于無窮, 人有萬遯逰, 而山有萬應接, 則誠之效也。抑不知山之心, 果真有所好耶? 抑以無所好爲拙, 而公默會于心, 偶觸而默掇之耶? 清風在天, 山谷皆鳴, 亭默而山未能默也。岫雲往還, 山鳥去來, 池逸而山未逸也。花如錦, 草如茵, 宜雨宜晴, 宜春宜秋, 臺涼而山未涼也。吉人居之, 吉神相焉, 何島非吉, 德者居之, 德星聚焉。何
 
+磯非德。想拙山固已具默，涼、逸、吉、德之情，而未嘗見其有默、涼、逸“德、吉之色。此所以為拙，即所以為誠，故其壽與太極偕。蓋其拙與太極同，而其誠與太極合也。古人云：“山不在高，有仙則名”。我之意竊以為：山不在名，有誠則形。吾兄隨意而呼之可也。然弟固是曉曉然者，何足以知山之情狀。祇其吾兄未嘗頃刻忘情處，深感其相與之誠，相愛之厚，故敢以山之情狀爲問，知公之不我棄也。
 
-磯非德。想拙山固已具默，涼、逸、吉、德之情，而未嘗見其有
-默、涼、逸“德、吉之色。此所以為拙，即所以為誠，故其壽與
-太極偕。蓋其拙與太極同，而其誠與太極合也。古人云：“山不在
-高，有仙則名”。我之意竊以為：山不在名，有誠則形。吾兄隨意
-而呼之可也。然弟固是曉曉然者，何足以知山之情狀。祇其吾兄未
-嘗頃刻忘情處，深感其相與之誠，相愛之厚，故敢以山之情狀爲
-問，知公之不我棄也。
-
-意長筆短，請以望後拜訪名山，便道相攜為三谷之遊，請聞“拙
-山序”教，未知意許允否。日前弊紙，以尋常公務之牘，今知萬
-罪，希望乞庶。承教“盡心民事”敢不拜受。
+意長筆短，請以望後拜訪名山，便道相攜為三谷之遊，請聞“拙山序”教，未知意許允否。日前弊紙，以尋常公務之牘，今知萬罪，希望乞庶。承教“盡心民事”敢不拜受。
 
 ## Dịch âm
-Mỗ bất năng tại gia thủ chế, toại cập vu sự, hựu cập ư lộc sắc sự, dĩ
-vi huynh tu. Quán bổng lai tiên, công(a) chi giáo ngã(b) thành thâm hĩ. Phù
-công hữu mặc đình, nhi ngã(b) bất năng mặc, công(a) hữu dật trì, nhi ngã(b)
-bất năng dật, công hữu đức ki, nhi ngã(b) tại nhiệt(c) lợi ki, công(a) hữu cát
-đảo, nhi ngã(b) tại kỳ phồn hoa đảo, công(a) hữu lương đài, nhi ngã(b) tại vu
-nhiệt náo đài. Công(a) hữu thái cực chi chuyết, thám vạn vật chi xảo, nhi
-ngã(b) dĩ nhất kỹ chi xảo, cảm cầu trợ ư công,(a) dĩ đường đột vu Chuyết
-Sơn. Kỳ tu bất tri công,(a) nhi thụ ác vu sơn diệc đa hĩ. Thử công sở dĩ
-quyền quyền chi vu kỳ quá,(d) tư dĩ bất chuyết chi chuyết, dữ bằng hữu
-cộng chi; hữu thử đình, đài, trì, đảo, ki nhi bất yếm vu khúc nghệ giả dữ
-chi du. Tử viết: “Vị thường vô hối yên,”kỳ thử chi vị dư. Khởi ngã thiết hữu
-văn yên: “Thành bất tức, bất tức tắc cửu, cửu tắc trưng, trưng tắc du viễn.”
-Thử sơn tự tạo thiết, dĩ chí ư kim tư, hựu tự kim tư dĩ chí vu vô cùng,
-nhân hữu vạn giải cẩu, nhi sơn hữu vạn ứng tiếp, tắc thành chi hiệu dã.
-Ức bất tri sơn chi tâm, quả chân hữu sở hảo da? Ức dĩ vô sở hảo vi chuyết,
-nhi công mặc hội vu tâm, ngẫu xúc nhi mặc xuyết(e) chi da? Thanh phong
-tại thiên, sơn cốc giai minh, đình mặc nhi sơn vị năng mặc dã. Tụ vân
-vãng hoàn, sơn điểu khứ lai, trì dật nhi sơn vị dật dã. Hoa như cẩm, thảo
-
-
-như nhân, nghi vũ nghi tình, nghi xuân nghi thu, đài lương nhi sơn vị lương dã. Cát nhân cư chi, cát thần tương yên, hà đảo phi cát, đức giả cư chi, đức tinh tụ yên, hà kì phi đức. Tưởng Chuyết Sơn cố dĩ cụ mặc, lương, dật, cát, đức chi tình, nhi vị thường kiến kỳ hữu mặc, lương, dật, đức, cát chi sắc. Thử sở dĩ vi chuyết, tức sở dĩ vi thành, cố kỳ thọ dũ thái cực giai. Cái kỳ chuyết dữ thái cực đồng, nhi kỳ thành dữ thái cực hợp dã. Cổ nhân vân: “Sơn bất tại cao, hữu tiên tắc danh.” Ngã chi ý thiết dĩ vi: Sơn bất tại danh, hữu thành tắc hình. Ngô huynh tuỳ ý nhi hô chi khả dã. Nhiên đệ cố thị nhiêu nhiêu nhiên giả, hà túc dĩ tri sơn chi tình trạng. Chỉ kỳ ngô huynh vị thường khoảnh khắc vọng tình xử, thâm cảm kỳ tương dữ chi thành, tương ái chi hậu, cố cảm dĩ sơn chi tình trạng vi vấn, tri công(a) chi bất ngã khí dã.
+Mỗ bất năng tại gia thủ chế, toại cập vu sự, hựu cập ư lộc sắc sự, dĩ vi huynh tu. Quán bổng lai tiên, công chi giáo ngã thành thâm hĩ. Phù công hữu mặc đình, nhi ngã bất năng mặc, công hữu dật trì, nhi ngã bất năng dật, công hữu đức ki, nhi ngã tại nhiệt lợi ki, công hữu cát đảo, nhi ngã tại kỳ phồn hoa đảo, công hữu lương đài, nhi ngã tại vu nhiệt náo đài. Công hữu thái cực chi chuyết, thám vạn vật chi xảo, nhi ngã dĩ nhất kỹ chi xảo, cảm cầu trợ ư công, dĩ đường đột vu Chuyết Sơn. Kỳ tu bất tri công, nhi thụ ác vu sơn diệc đa hĩ. Thử công sở dĩ quyền quyền chi vu kỳ quá, tư dĩ bất chuyết chi chuyết, dữ bằng hữu cộng chi; hữu thử đình, đài, trì, đảo, ki nhi bất yếm vu khúc nghệ giả dữ chi du. Tử viết: “Vị thường vô hối yên,”kỳ thử chi vị dư. Khởi ngã thiết hữu văn yên: “Thành bất tức, bất tức tắc cửu, cửu tắc trưng, trưng tắc du viễn.” Thử sơn tự tạo thiết, dĩ chí ư kim tư, hựu tự kim tư dĩ chí vu vô cùng, nhân hữu vạn giải cẩu, nhi sơn hữu vạn ứng tiếp, tắc thành chi hiệu dã. Ức bất tri sơn chi tâm, quả chân hữu sở hảo da? Ức dĩ vô sở hảo vi chuyết, nhi công mặc hội vu tâm, ngẫu xúc nhi mặc xuyết chi da? Thanh phong tại thiên, sơn cốc giai minh, đình mặc nhi sơn vị năng mặc dã. Tụ vân vãng hoàn, sơn điểu khứ lai, trì dật nhi sơn vị dật dã. Hoa như cẩm, thảo như nhân, nghi vũ nghi tình, nghi xuân nghi thu, đài lương nhi sơn vị lương dã. Cát nhân cư chi, cát thần tương yên, hà đảo phi cát, đức giả cư chi, đức tinh tụ yên, hà kì phi đức. Tưởng Chuyết Sơn cố dĩ cụ mặc, lương, dật, cát, đức chi tình, nhi vị thường kiến kỳ hữu mặc, lương, dật, đức, cát chi sắc. Thử sở dĩ vi chuyết, tức sở dĩ vi thành, cố kỳ thọ dũ thái cực giai. Cái kỳ chuyết dữ thái cực đồng, nhi kỳ thành dữ thái cực hợp dã. Cổ nhân vân: “Sơn bất tại cao, hữu tiên tắc danh.” Ngã chi ý thiết dĩ vi: Sơn bất tại danh, hữu thành tắc hình. Ngô huynh tuỳ ý nhi hô chi khả dã. Nhiên đệ cố thị nhiêu nhiêu nhiên giả, hà túc dĩ tri sơn chi tình trạng. Chỉ kỳ ngô huynh vị thường khoảnh khắc vọng tình xử, thâm cảm kỳ tương dữ chi thành, tương ái chi hậu, cố cảm dĩ sơn chi tình trạng vi vấn, tri công chi bất ngã khí dã.
 
 Ý trường bút đoản, thỉnh dĩ vọng hậu bái phỏng danh sơn, tiện đạo tương huể vi tam cốc chi du, thỉnh vãn “Chuyết Sơn tự” giáo, vị tri ý hứa doãn phủ. Nhật tiền tệ chỉ, dĩ tầm thường công vụ chi độc, kim tri vạn tội, hy vọng khất thứ. Thừa giáo “tận tâm dân sự” cảm bất bái thụ.
 
 ## Dịch nghĩa / Việt văn xuôi
-THƯ TRẢ LỜI ÔNG NINH SONG AN(1)
+THƯ TRẢ LỜI ÔNG NINH SONG AN Tôi không thể ở nhà chịu tang, thế là mắc phải tai vạ, lại mắc phải tiếng thô lỗ, để thẹn với ông. Rửa tay nâng bức thư gửi tới, thấy lời ông dạy bảo tôi thực là sâu vậy. Ông có đình “Mặc” mà tôi không thể lặng thinh, ông có ao “Dật” mà tôi không thể thư nhàn, ông có ghềnh “đức” mà tôi ở ghềnh thế lợi, ông có đảo “tốt” mà tôi ở đảo phồn hoa, ông có đài “mát” mà tôi ở đài náo nhiệt. Ông đem cái vụng về của trạng thái nguyên sơ (Thái cực) để xét cái khéo léo muôn vật, mà tôi đem cái khéo léo của một nghề mong góp sức cho ông, để xúc phạm tới Chuyết Sơn. Thẹn rằng không hiểu ông mà bị núi khinh thường cũng nhiều lắm vậy. Bởi thế điều mà ông áy náy với cái lỗi ấy, mong đem cái vụng về không vụng về, để chung cùng bạn hữu; có đình, đài, ao, đảo, ghềnh này mà không ngại giao du với kẻ nghề mọn. Khổng Tử nói: “Chưa từng không dạy dỗ” đó là như vậy. Tôi trộm nghe “Trung thực thì lâu bền, lâu bền thì có sự chứng nghiệm, có sự chứng nghiệm thì còn mãi mãi.”Núi này từ khi xây dựng cho đến bây giờ, lại từ bây giờ cho đến mai sau, người có muôn lần gặp gỡ, núi có muôn lần đón tiếp đó là sự hiệu nghiệm của lòng trung thực. Biết đâu tấm lòng của núi hẳn có sự ưa thích hoặc lấy sự không ưa thích làm vụng về, mà ông ngầm hiểu điều đó ở trong lòng, rồi tình cờ có sự cảm xúc mà điểm xuyết nó ra chăng? Gió mát ở trời, hang núi đều vang, đó là đình im mà núi chưa thể im. Mây núi đi về, chim rừng qua lại, ao thư nhàn mà núi chưa thể thư nhàn. Hoa như gấm, cỏ như nệm, thích hợp với mưa nắng, thích hợp với xuân thu, đài mát mà núi chưa từng mát. Người tốt ở đó, thần tốt trông coi thì không đảo nào là không tốt; người có đức ở đó, đức tích tụ vào thì không ghềnh nào là không có đức. Xem ra Chuyết Sơn vốn đã có đầy đủ cái tình im, mát, nhàn, đức, tốt, mà chưa từng thấy nó có cái sắc của im, mát, nhàn, đức, tốt. Nó vụng về, cũng tức là nó chân thực, cho nên nó còn sống mãi với Thái cực. Bởi vì cái vụng về của nó đồng nhất với Thái cực, nên cái chân thành của nó hoà hợp với Thái cực. Người xưa nói rằng: “Núi không phải nổi danh ở chỗ cao, mà nổi danh ở chỗ có tiên ở.” Vậy ý của tôi trộm cho rằng núi không ở chỗ nổi danh, mà ở chỗ có lòng chân thực thì biểu lộ ra. Ông anh gọi nó là gì thì gọi cũng được, còn tôi vốn là kẻ ngác ngác ngơ ngơ, đâu có thể hiểu cái tình và trạng của núi? Chỉ ở nơi ông anh chưa từng giây phút quên tình, nên cảm được sâu sắc niềm yêu thương nhau da diết của nó, cho nên tôi mới dám đem cái tình, trạng của núi đặt thành câu hỏi, điều đó biết rằng ông chẳng bỏ tôi.
 
-Tôi không thể ở nhà chịu tang, thế là mắc phải tai vạ, lại mắc phải tiếng thô lỗ, để thẹn với ông. Rửa tay nâng bức thư gửi tới, thấy lời ông dạy bảo tôi thực là sâu vậy. Ông có đình “Mặc” mà tôi không thể lặng thinh, ông có ao “Dật” mà tôi không thể thư nhàn, ông có ghềnh “đức” mà tôi ở ghềnh thế lợi, ông có đảo “tốt” mà tôi ở đảo phồn hoa, ông có đài “mát” mà tôi ở đài náo nhiệt. Ông đem cái vụng về của trạng thái nguyên sơ (Thái cực) để xét cái khéo léo muôn vật, mà tôi đem cái khéo léo của một nghề mong góp sức cho ông, để xúc phạm tới Chuyết Sơn. Thẹn rằng không hiểu ông mà bị núi khinh thường cũng nhiều lắm vậy. Bởi thế điều mà ông áy náy với cái lỗi ấy, mong đem cái vụng về không vụng về, để chung cùng bạn hữu; có đình, đài, ao, đảo, ghềnh này mà không ngại giao du với kẻ nghề mọn. Khổng Tử nói: “Chưa từng không dạy dỗ”(2) đó là như vậy. Tôi trộm nghe “Trung thực thì lâu bền, lâu bền thì có sự chứng nghiệm, có sự chứng nghiệm thì còn mãi mãi.”Núi này từ khi xây dựng
-
-
-cho đến bây giờ, lại từ bây giờ cho đến mai sau, người có muôn lần gặp gỡ,
-núi có muôn lần đón tiếp đó là sự hiệu nghiệm của lòng trung thực. Biết
-đâu tấm lòng của núi hẳn có sự ưa thích hoặc lấy sự không ưa thích làm
-vụng về, mà ông ngầm hiểu điều đó ở trong lòng, rồi tình cờ có sự cảm xúc
-mà điểm xuyết nó ra chăng? Gió mát ở trời, hang núi đều vang, đó là đình
-im mà núi chưa thể im. Mây núi đi về, chim rừng qua lại, ao thư nhàn mà
-núi chưa thể thư nhàn. Hoa như gấm, cỏ như nệm, thích hợp với mưa
-nắng, thích hợp với xuân thu, đài mát mà núi chưa từng mát. Người tốt ở
-đó, thần tốt trông coi thì không đảo nào là không tốt; người có đức ở đó,
-đức tích tụ vào thì không ghềnh nào là không có đức. Xem ra Chuyết Sơn
-vốn đã có đầy đủ cái tình im, mát, nhàn, đức, tốt, mà chưa từng thấy nó có
-cái sắc của im, mát, nhàn, đức, tốt. Nó vụng về, cũng tức là nó chân thực,
-cho nên nó còn sống mãi với Thái cực. Bởi vì cái vụng về của nó đồng nhất
-với Thái cực, nên cái chân thành của nó hoà hợp với Thái cực. Người xưa
-nói rằng: “Núi không phải nổi danh ở chỗ cao, mà nổi danh ở chỗ có tiên
-ở.” Vậy ý của tôi trộm cho rằng núi không ở chỗ nổi danh, mà ở chỗ có lòng
-chân thực thì biểu lộ ra. Ông anh gọi nó là gì thì gọi cũng được, còn tôi vốn
-là kẻ ngác ngác ngơ ngơ, đâu có thể hiểu cái tình và trạng của núi? Chỉ ở
-nơi ông anh chưa từng giây phút quên tình, nên cảm được sâu sắc niềm
-yêu thương nhau da diết của nó, cho nên tôi mới dám đem cái tình, trạng
-của núi đặt thành câu hỏi, điều đó biết rằng ông chẳng bỏ tôi.
-
-Ý dài giấy ngắn, xin hẹn sau ngày rằm thì đi thăm viếng danh sơn,
-tiện đường dắt díu nhau, làm cuộc đi chơi Tam Cốc, xin được nghe bài
-Chuyết Sơn tự, (3) không biết ý ông có ưng không? Mảnh giấy rách hôm nọ
-là tờ công văn tầm thường, nay biết có lỗi muôn vàn, mong ông anh tha
-thứ. Tiếp được lời chỉ dạy “hết lòng vì việc dân,” đâu dám không bái nhận.
+Ý dài giấy ngắn, xin hẹn sau ngày rằm thì đi thăm viếng danh sơn, tiện đường dắt díu nhau, làm cuộc đi chơi Tam Cốc, xin được nghe bài Chuyết Sơn tự, không biết ý ông có ưng không? Mảnh giấy rách hôm nọ là tờ công văn tầm thường, nay biết có lỗi muôn vàn, mong ông anh tha thứ. Tiếp được lời chỉ dạy “hết lòng vì việc dân,” đâu dám không bái nhận.
 
 ## Dịch thơ
 Không có

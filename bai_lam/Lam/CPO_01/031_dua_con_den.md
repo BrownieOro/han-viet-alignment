@@ -16,30 +16,17 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Kính-Phủ
+Người con gái ở phố Lai-Trào, thuộc trấn Hoa-Dương, lấy người lái buôn nước tây đen. Sau người lái buôn về nước, nàng hỏi kỳ tái ngộ thì hắn nói:
 
-Người con gái ở phố Lai-Trào, thuộc trấn Hoa-
-Dương, lấy người lái buôn nước tây đen. Sau người lái
-buôn về nước, nàng hỏi kỳ tái ngộ thì hắn nói :
+— Hễ ba năm không thấy sang, thì cứ việc đi lấy chồng.
 
-— Hễ ba năm không thấy sang, thì cứ việc đi lấy
-chồng.
+Qua kỳ hạn ấy, nàng cải giá, làm bạn với một người là Mỗ sinh được một người con trai, da thịt đen hệt như người chồng cũ. Muốn vứt bỏ đi, hỏi có người biết bảo:
 
-Qua kỳ hạn ấy, nàng cải giá, làm bạn với một
-người là Mỗ sinh được một người con trai, da thịt đen
-hệt như người chồng cũ. Muốn vứt bỏ đi, hỏi có người
-biết bảo :
+— Đó là dư khí hãy còn sót lại, cho nên rợ Hồ có cái tục rủa ruột. Không sao (không việc gì) đâu.
 
-— Đó là dư khí hãy còn sót lại, cho nên rợ Hồ
-có cái tục rủa ruột. Không sao (không việc gì) đâu.
+Khi người lái buôn đến tìm vợ, thấy đứa con bèn kiện để đòi. Quan xử đứa con về người lái buôn, còn người vợ vẫn thuộc về Mỗ.
 
-Khi người lái buôn đến tìm vợ, thấy đứa con bèn
-
-kiện để đòi. Quan xử đứa con về người lái buôn, còn
-người vợ vẫn thuộc về Mỗ.
-
-Sau nàng sinh mấy đứa con nữa, thì đều không
-khác người thường (không đen nữa).
+Sau nàng sinh mấy đứa con nữa, thì đều không khác người thường (không đen nữa).
 
 ## Dịch thơ
 Không có (văn xuôi)

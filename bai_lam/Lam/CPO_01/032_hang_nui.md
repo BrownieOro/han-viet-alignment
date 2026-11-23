@@ -16,17 +16,7 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Kính-Phủ
-
-Trong hồi vào đánh miền Nam, mấy người lính đi
-xuyên qua rừng, thấy một cái hang. Vào xem, ban đầu
-thấy tối đen, nhưng sau, sáng rạng dần. Có thể trông rõ
-được hết, một lúc nhìn trong đó có dân-cư, tiếng nói
-ríu rít không thề hiểu. Bọn lính vì đói, phải cướp lấy
-cái ăn, bọn người kia phải tan chạy như chim. Một
-lúc họ lại tụ tập kéo đến rất đông. Bọn lính sợ phải ra,
-dùng những tên nhọn vừa đi vừa bắn lại. Về thuật với
-mọi người, lại kéo vào xem, thì chẳng thấy gì cả.
+Trong hồi vào đánh miền Nam, mấy người lính đi xuyên qua rừng, thấy một cái hang. Vào xem, ban đầu thấy tối đen, nhưng sau, sáng rạng dần. Có thể trông rõ được hết, một lúc nhìn trong đó có dân-cư, tiếng nói ríu rít không thề hiểu. Bọn lính vì đói, phải cướp lấy cái ăn, bọn người kia phải tan chạy như chim. Một lúc họ lại tụ tập kéo đến rất đông. Bọn lính sợ phải ra, dùng những tên nhọn vừa đi vừa bắn lại. Về thuật với mọi người, lại kéo vào xem, thì chẳng thấy gì cả.
 
 ## Dịch thơ
 Không có (văn xuôi)

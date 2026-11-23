@@ -16,33 +16,13 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Tùng-Niên
+Trong năm Cảnh-Hưng, Hoàng-Thái-Tử bị phế, giam ở dinh viên nội-thần Thiều-Quận-công. Trúng-Thức Võ-Sưởng là chắt cụ Thám-Hoa Võ-Thành, hậm hực đau đớn, bèn rủ, họp bọn nghĩa-sĩ mưu mỏ phản chính. Việc tiết lộ, bị đem hành hình ở bến Đông. Những người thân cận và bè bạn phải nín hơi, không dám đến thăm hỏi. Chỉ có viên Giám-Sinh Nguyễn-Liên người làng Bỉ-Khê, huyện Lương-Tài, đem rượu đến để cùng ông Sưởng quyết biệt. Ông uống rượu say, bèn làm bài thơ đề tặng Nguyễn-Liên, trong đó có câu:
 
-Trong năm Cảnh-Hưng, Hoàng-Thái-Tử bị phế,
-giam ở dinh viên nội-thần Thiều-Quận-công. Trúng-
-Thức Võ-Sưởng là chắt cụ Thám-Hoa Võ-Thành, hậm
-hực đau đớn, bèn rủ, họp bọn nghĩa-sĩ mưu mỏ phản
-chính. Việc tiết lộ, bị đem hành hình ở bến Đông.
-Những người thân cận và bè bạn phải nín hơi, không
-dám đến thăm hỏi. Chỉ có viên Giám-Sinh Nguyễn-
-Liên người làng Bỉ-Khê, huyện Lương-Tài, đem rượu
-đến để cùng ông Sưởng quyết biệt. Ông uống rượu say,
-bèn làm bài thơ đề tặng Nguyễn-Liên, trong đó có câu:
+一身 自 任 綱 常 重 Nhất thân tự nhiệm cương thường trọng.
 
-一身 自 任 綱 常 重
+Nghĩa là:
 
-Nhất thân tự nhiệm cương thường trọng.
-
-Nghĩa là :
-
-Một thân gánh lấy cương-thường nặng, rồi vươn
-cổ ra chịu chết. Nguyễn-Liên lo liệu việc tang chu-tất.
-Năm Đinh-Mùi, niên-hiệu Chiêu - Thống (1781 - 1784),
-ông được truy tặng tước Vương và người con nuôi của
-ông là Hiệu được phong quan. Triều-đình lại bàn dựng
-đền để tinh biểu. Năm Kỷ-Dậu thay đổi ngòi vua, Hiệu
-theo vua cũ sang Yên-Kinh, rồi mất tại nơi đó, có
-người đầy tớ đem tin về.
+Một thân gánh lấy cương-thường nặng, rồi vươn cổ ra chịu chết. Nguyễn-Liên lo liệu việc tang chu-tất. Năm Đinh-Mùi, niên-hiệu Chiêu - Thống (1781 - 1784), ông được truy tặng tước Vương và người con nuôi của ông là Hiệu được phong quan. Triều-đình lại bàn dựng đền để tinh biểu. Năm Kỷ-Dậu thay đổi ngòi vua, Hiệu theo vua cũ sang Yên-Kinh, rồi mất tại nơi đó, có người đầy tớ đem tin về.
 
 ## Dịch thơ
 Không có (văn xuôi)

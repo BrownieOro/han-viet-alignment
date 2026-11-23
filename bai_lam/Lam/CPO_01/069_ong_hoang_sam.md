@@ -16,58 +16,21 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Ông Hoàng-Sầm ở Thù-Sơn, đời đời làm nghề cày
-ruộng, cha mất sớm, để lại cho cái di-sản mấy sào
-ruộng, mẹ con nương tựa nhau mà sống. Năm 24 tuổi,
-vẫn chưa biết một chữ nào cả. Cùng huyện có quan
-Thượng-Thư Nguyễn-Doãn-Địch, trí-sĩ về làng ; Quan
-
-huyện sở tại bắt dân phu đi đón rước. Ông Hoàng-
-Sầm cũng có trong số ấy, sung vào chân khiêng kiệu
-cô con gái. Trong khi khiêng, ông liếc mắt nhìn trộm,
-thấy cô Tiều-thư là một người sắc đẹp tuyệt vời, trong
-lòng rung động. Về nhà, ông nói với mẹ muốn được
-lấy cô con gái ấy, mẹ cười mà bảo không được. Ông
-không nghe, mua buồng cau, cố ép mẹ phải đi giạm,
-lại đi theo sau sợ mẹ dối mình. Bà mẹ lại lần nữa tự
-trái ý mình (để chiều ý con), đến đứng loanh quanh
-mãi ở cửa nhà quan Thượng. Quan Thượng lấy làm lạ
-hỏi, bà mẹ sợ kêu xin tha tội và kề việc con giai thúc
-bách. Quan Thượng cười mà rằng :
+Ông Hoàng-Sầm ở Thù-Sơn, đời đời làm nghề cày ruộng, cha mất sớm, để lại cho cái di-sản mấy sào ruộng, mẹ con nương tựa nhau mà sống. Năm 24 tuổi, vẫn chưa biết một chữ nào cả. Cùng huyện có quan Thượng-Thư Nguyễn-Doãn-Địch, trí-sĩ về làng; Quan huyện sở tại bắt dân phu đi đón rước. Ông Hoàng-Sầm cũng có trong số ấy, sung vào chân khiêng kiệu cô con gái. Trong khi khiêng, ông liếc mắt nhìn trộm, thấy cô Tiều-thư là một người sắc đẹp tuyệt vời, trong lòng rung động. Về nhà, ông nói với mẹ muốn được lấy cô con gái ấy, mẹ cười mà bảo không được. Ông không nghe, mua buồng cau, cố ép mẹ phải đi giạm, lại đi theo sau sợ mẹ dối mình. Bà mẹ lại lần nữa tự trái ý mình (để chiều ý con), đến đứng loanh quanh mãi ở cửa nhà quan Thượng. Quan Thượng lấy làm lạ hỏi, bà mẹ sợ kêu xin tha tội và kề việc con giai thúc bách. Quan Thượng cười mà rằng:
 
 – Không hề gì.
 
-Rồi Quan-Thượng sai gọi ông đến để xem người ra
-sao. Ông mặc một chiếc quần đùi đến phục lạy trước
-thềm, quan Thượng nói :
+Rồi Quan-Thượng sai gọi ông đến để xem người ra sao. Ông mặc một chiếc quần đùi đến phục lạy trước thềm, quan Thượng nói:
 
-– Con gái nhà quan không lẽ lại gả cho một người
-bạch ốc. Hễ anh sau này làm nên sự nghiệp như ta,
-mới có thể lấy con ta được.
+– Con gái nhà quan không lẽ lại gả cho một người bạch ốc. Hễ anh sau này làm nên sự nghiệp như ta, mới có thể lấy con ta được.
 
-Ông lạy hai lạy rồi nói :
+Ông lạy hai lạy rồi nói:
 
-– Xin vâng theo như mệnh, nhưng mong quan lớn
-giữ lời hứa cho.
+– Xin vâng theo như mệnh, nhưng mong quan lớn giữ lời hứa cho.
 
-Về nhà, ông không nói gì với mẹ, đi bán trộm một
-sào ruộng được ba mươi quan tiền, tới Kinh-đô, tìm
-đến một bậc Danh-nho để xin học. Học trong 3 năm đã
+Về nhà, ông không nói gì với mẹ, đi bán trộm một sào ruộng được ba mươi quan tiền, tới Kinh-đô, tìm đến một bậc Danh-nho để xin học. Học trong 3 năm đã giỏi lắm, lấy cớ là học trò, tên bị bỏ sót, xin đi khảo, trúng ở huyện Hiệp-Hòa (nay thuộc Bắc-Giang), rồi đi thi hương đỗ Giải-nguyên. Ông nhờ một người láng đến nói với quan Thượng-Thư, xin đừng sai lời ước cũ, rồi lại tới Kinh ngay. Bấy giờ con gái quan Thượng-Thư tuy có mấy đám dạm hỏi, nhưng chưa thành hôn, vẫn còn ở nhà, Khoa Mậu-Tuất, niên hiệu Đại-Chính (1530-1540) đời nhà Mạc, ông 27 tuổi. thi đậu Thám-Hoa. Hôm vinh-quy, làm lễ cưới ngay ở sân nhà quan Thượng-Thư, người làng cho là một sự vinh-hạnh ít có.
 
-giỏi lắm, lấy cớ là học trò, tên bị bỏ sót, xin đi khảo,
-trúng ở huyện Hiệp-Hòa (nay thuộc Bắc-Giang), rồi đi
-thi hương đỗ Giải-nguyên. Ông nhờ một người láng đến
-nói với quan Thượng-Thư, xin đừng sai lời ước cũ, rồi
-lại tới Kinh ngay. Bấy giờ con gái quan Thượng-Thư
-tuy có mấy đám dạm hỏi, nhưng chưa thành hôn, vẫn
-còn ở nhà, Khoa Mậu-Tuất, niên hiệu Đại-Chính (1530-
-1540) đời nhà Mạc, ông 27 tuổi. thi đậu Thám-Hoa.
-Hôm vinh-quy, làm lễ cưới ngay ở sân nhà quan
-Thượng-Thư, người làng cho là một sự vinh-hạnh
-ít có.
-
-Ông làm quan đến Lễ-Bộ Tả-Thị-Lang Hoành-
-Phúc-Bá.
+Ông làm quan đến Lễ-Bộ Tả-Thị-Lang Hoành-Phúc-Bá.
 
 ## Dịch thơ
 Không có (văn xuôi)

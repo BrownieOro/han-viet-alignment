@@ -16,17 +16,9 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Mùa hạ năm Bính - Ngọ, niên hiệu Cảnh - Hưng (1786), dương nửa đêm, giữa hồ Hoàn-Kiếm, bỗng có
+Mùa hạ năm Bính - Ngọ, niên hiệu Cảnh - Hưng (1786), dương nửa đêm, giữa hồ Hoàn-Kiếm, bỗng có những vật đỏ ối hiện ra trên đảo, tia sáng nhoáng tỏa ra bốn phía, bay về bờ phía nam rồi biến mất.
 
-những vật đỏ ối hiện ra trên đảo, tia sáng nhoáng tỏa
-ra bốn phía, bay về bờ phía nam rồi biến mất.
-
-Sau đó, sóng gió ầm ầm nổi lên. Sáng hôm sau,
-thấy xác tôm cá nổi trên mặt nước không biết bao
-nhiêu mà kể. Có người nói, ở trên nóc nhà Trung-
-Hòa-Đường trong phủ Chúa cũng hiện ra những vật
-tương-tự, ánh sáng tỏa ra tứ phía, rồi tự nhiên tắt
-ngấm.
+Sau đó, sóng gió ầm ầm nổi lên. Sáng hôm sau, thấy xác tôm cá nổi trên mặt nước không biết bao nhiêu mà kể. Có người nói, ở trên nóc nhà Trung-Hòa-Đường trong phủ Chúa cũng hiện ra những vật tương-tự, ánh sáng tỏa ra tứ phía, rồi tự nhiên tắt ngấm.
 
 Sau đó ít lâu, nhà Lê mất nước.
 

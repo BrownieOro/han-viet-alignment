@@ -37,7 +37,7 @@ Cuồng ca thiên dục mộ.
 
 Phi điểu quá cô sầm.
 
-Dữ :
+Dữ:
 
 Nhân tầm dã độ quy lâm ngoại.
 
@@ -47,35 +47,18 @@ Thanh dật đại đô như thử, thử khả dĩ trầm tiềm ngoạn vị, 
 
 Ách ngôn phu thiển, vị thị chủ nhân dĩ vi thị phủ.
 
-
 sở vị hoa giả, trà giả, khúc giả, thi giả khởi, hữu cao diệu ư thử giả hồ! Yếu chi tri chi vi nan, phi lão ư thị thính, tư diệc tuỳ nhân hiếu đạo vân nhĩ!
 
-Cẩm sắt thi chi hậu, ngã Việt danh gia thi chuyến ý, Sái Lã Đường “nhất thanh thu tại mộc tê hoa” chi cú, dữ Trình Minh Đạo “chỉ khủng phong hoa nhất phiến phi” tương tự. Khả vị ôn nhu đôn hậu, nhi ngôn ngoại ý bất khả thăng cùng. Kim kiến Trung thư đồng nghị Nguyễn Công, phụng sứ thời tác, tập trung vô lự số bách chương như:
-Cuồng ca thiên dục mộ,
-Phi điểu quá cô sầm.
-Dữ:
-Nhân tằm dã độ qui lâm ngoại,
-Điểu đái tà dương nhập động môn, đẳng cú.
+Cẩm sắt thi chi hậu, ngã Việt danh gia thi chuyến ý, Sái Lã Đường “nhất thanh thu tại mộc tê hoa” chi cú, dữ Trình Minh Đạo “chỉ khủng phong hoa nhất phiến phi” tương tự. Khả vị ôn nhu đôn hậu, nhi ngôn ngoại ý bất khả thăng cùng. Kim kiến Trung thư đồng nghị Nguyễn Công, phụng sứ thời tác, tập trung vô lự số bách chương như: Cuồng ca thiên dục mộ, Phi điểu quá cô sầm. Dữ: Nhân tằm dã độ qui lâm ngoại, Điểu đái tà dương nhập động môn, đẳng cú.
 
 Thanh dật đại đô như thử, thử khả dĩ trầm tiêm ngoạn vị, phong khái như Lã Đường, ý trí như cẩm sắt. Cái chu lan chi hương, Long tỉnh chi giai, cung điệu chi nhạc, thần hội nhi hậu đắc chi, dị dĩ thường tri kiến ngôn dã.
 
 Chỉ ngôn phu tiển, vị tri chủ nhân dĩ vi thị phủ.
 
 ## Dịch nghĩa / Việt văn xuôi
-ĐỀ TỰA TẬP HOA TRÌNH HỌC BỘ(1)
+ĐỀ TỰA TẬP HOA TRÌNH HỌC BỘ Tôi thường nói: Bình nhật có bốn cách chơi mà không biết: Xem hoa chu lan mà không biết mùi thơm; uống trà Long tỉnh mà không biết là ngon; nghe khúc ca cung điệu mà không biết là vui; ngâm thơ Cẩm sắt mà không biết là hay. Sở dĩ như vậy có lẽ là vì những cái đó quá ư thanh cao, không hợp với thói thường. Nhưng đó chỉ là do mình chưa biết đó thôi. Khi đã biết rồi, thì cái mà thiên hạ gọi là hoa, là trà, là khúc, là thơ, có gì cao xa, huyền diệu đâu! Tóm lại, chỉ cái “biết” là khó, nếu không phải mắt thấy tai nghe, suy nghĩ kỹ lưỡng, thì cũng chỉ là hành động theo người nói ra mà thôi!
 
-Tôi thường nói: Bình nhật có bốn cách chơi mà không biết: Xem hoa chu lan mà không biết mùi thơm; uống trà Long tỉnh mà không biết là ngon; nghe khúc ca cung điệu mà không biết là vui; ngâm thơ Cẩm sắt mà không biết là hay.(2) Sở dĩ như vậy có lẽ là vì những cái đó quá ư thanh cao, không hợp với thói thường. Nhưng đó chỉ là do mình chưa biết đó thôi. Khi đã biết rồi, thì cái mà thiên hạ gọi là hoa, là trà, là khúc, là thơ, có gì cao xa, huyền diệu đâu! Tóm lại, chỉ cái “biết” là khó, nếu không phải mắt thấy tai nghe, suy nghĩ kỹ lưỡng, thì cũng chỉ là hành động theo người nói ra mà thôi!
-
-Tiếp theo bài thơ Cẩm sắt, nhà thơ nổi danh ở nước Việt ta, tôi nghĩ câu: “Một tiếng thu ở trong khóm hoa mộc tê” (nhất thanh thu tại mộc tê hoa) của Sái Lã Đường,(3) cùng với câu: “Chỉ sợ một cánh hoa bay trước gió” (Chỉ khủng phong hoa nhất phiến phi) của Trình Minh Đạo(4) là giống
-
-
-nhau. Có thể nói là rất ôn hòa, mềm mại, thuần hậu, mà ý thì ở ngoài lời, không thể cùng tận. Nay thấy tập thơ của quan Trung thư đồng nghị Nguyễn Công làm khi đi sứ, trong đó, số thơ vô lo nghĩ, kể tới vài trăm bài, như câu:
-Cuồng ca lúc trời sắp tối,
-Chim bay qua ngọn núi trơ vơ.
-Và câu:
-Người tìm bến đò vắng về nhà ở phía ngoài rừng;
-Chim lướt qua bóng tà dương bay vào cửa động.
-Thực là thanh nhã, siêu thoát, phần lớn đều như thế cả, nên chỉ lặng lẽ mà nghĩ kỹ, phong cách như thơ Lã Đường, ý đạt đến như thơ Cẩm sắt. Có lẽ, hương thơm hoa chu lan, vị ngon chè Long tỉnh, nhạc vui điệu cung từ, dùng tinh thần mà lĩnh hội, rồi sau sẽ tự có được, chưa dễ coi sự “biết và “thấy” là tầm thường mà nói được đâu.
+Tiếp theo bài thơ Cẩm sắt, nhà thơ nổi danh ở nước Việt ta, tôi nghĩ câu: “Một tiếng thu ở trong khóm hoa mộc tê” (nhất thanh thu tại mộc tê hoa) của Sái Lã Đường, cùng với câu: “Chỉ sợ một cánh hoa bay trước gió” (Chỉ khủng phong hoa nhất phiến phi) của Trình Minh Đạo là giống nhau. Có thể nói là rất ôn hòa, mềm mại, thuần hậu, mà ý thì ở ngoài lời, không thể cùng tận. Nay thấy tập thơ của quan Trung thư đồng nghị Nguyễn Công làm khi đi sứ, trong đó, số thơ vô lo nghĩ, kể tới vài trăm bài, như câu: Cuồng ca lúc trời sắp tối, Chim bay qua ngọn núi trơ vơ. Và câu: Người tìm bến đò vắng về nhà ở phía ngoài rừng; Chim lướt qua bóng tà dương bay vào cửa động. Thực là thanh nhã, siêu thoát, phần lớn đều như thế cả, nên chỉ lặng lẽ mà nghĩ kỹ, phong cách như thơ Lã Đường, ý đạt đến như thơ Cẩm sắt. Có lẽ, hương thơm hoa chu lan, vị ngon chè Long tỉnh, nhạc vui điệu cung từ, dùng tinh thần mà lĩnh hội, rồi sau sẽ tự có được, chưa dễ coi sự “biết và “thấy” là tầm thường mà nói được đâu.
 
 Lời minh nông cạn, chưa biết chủ nhân có cho là phải hay không?
 

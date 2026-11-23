@@ -16,57 +16,23 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Năm Ất-Tỵ, niên hiệu Cảnh-Hưng (1785), là năm
-vua Hiền-Tôn thưởng-thọ (70) bảy mươi. Đình-thần
-hồi ấy có ông Bùi-huy-Bích và ông Hồ-Sĩ-Đống, giúp
-việc trong Chính-Phủ, bàn dâng tôn hiệu là “ Uyên-ý
-Khâm-cung Nhàn-Từ Đức-Thọ Hoàng-Đế ” và làm lễ
-vào ngày Thánh-Thọ (1).
+Năm Ất-Tỵ, niên hiệu Cảnh-Hưng (1785), là năm vua Hiền-Tôn thưởng-thọ (70) bảy mươi. Đình-thần hồi ấy có ông Bùi-huy-Bích và ông Hồ-Sĩ-Đống, giúp việc trong Chính-Phủ, bàn dâng tôn hiệu là “ Uyên-ý Khâm-cung Nhàn-Từ Đức-Thọ Hoàng-Đế ” và làm lễ vào ngày Thánh-Thọ.
 
-Trong thời ấy, lễ thiết-triều bỏ trễ đã lâu, nên sân
-chầu cũ ở núi Nùng-Sơn đã bỏ mà đổi lăm diện Kính-
-Thiên để thờ trời đất và phụ phối đức Thái-Tổ Hoàng-
+Trong thời ấy, lễ thiết-triều bỏ trễ đã lâu, nên sân chầu cũ ở núi Nùng-Sơn đã bỏ mà đổi lăm diện Kính-Thiên để thờ trời đất và phụ phối đức Thái-Tổ Hoàng-Đế. Những ngày sóc, vọng (mồng một và ngày rẳm) thì thiết triều tại điện Cần-Chánh. Trong điện này, hai nhà tả hữu đãi-lậu ở sau, đổ nát; sân, thềm cỏ mọc um tùm, cao ngập đầu gối, phân ngựa bừa bãi. Nay sắp có việc, các quan Đề - Đốc Lãnh - Binh phải đốc-xuất vệ-sĩ quét tước sân Đan Trì, và sửa sang viện Đài-Lậu cho tề chỉnh.
 
-Đế. Những ngày sóc, vọng (mồng một và ngày rẳm) thì
-thiết triều tại điện Cần-Chánh. Trong điện này, hai nhà
-tả hữu đãi-lậu (2) ở sau, đổ nát ; sân, thềm cỏ mọc
-um tùm, cao ngập đầu gối, phân ngựa bừa bãi. Nay
-sắp có việc, các quan Đề - Đốc Lãnh - Binh phải đốc-
-xuất vệ-sĩ quét tước sân Đan Trì, và sửa sang viện
-Đài-Lậu cho tề chỉnh.
+Trước khi hành lễ một ngày, quan Doãn - Phủ Phụng-Thiên là Hoàng-Vĩnh-Chân đốc-xuất các thuộc-viên, áo mũ chỉnh tề, ban đêm ở Tư-lễ-giám trông coi sửa soạn các bài biểu.
 
-Trước khi hành lễ một ngày, quan Doãn - Phủ
-Phụng-Thiên là Hoàng-Vĩnh-Chân đốc-xuất các thuộc-
-viên, áo mũ chỉnh tề, ban đêm ở Tư-lễ-giám trông
-coi sửa soạn các bài biểu.
+Đến ngày lễ, vua lên tòa ngự, hai bên có hai ban văn võ, đứng xếp theo hàng. Con thứ tư của nhà vua làm chức Đại - Tư - Đồ Sùng - Nhượng - Công đứng đầu ban võ, thứ nhì là ông Hồ - Sĩ - Đống. Vị Quốc - lão Quận-Công Nguyễn-Hãng đứng đầu bên văn, thứ nhì là ông Bùi - Huy - Bích. Còn toàn thể các quan thuộc hàm Hồng - Lô - Tự thì đứng xếp hàng theo thứ tự ở cửa phía trong và phía ngoài để giúp việc lễ. Ông Phan - Huy - Ích quì ở phía hữu ngự diện, tuyên đọc bài biểu, tiếng vang ra tận ngoài cửa Đoan-Môn.
 
-Đến ngày lễ, vua lên tòa ngự, hai bên có hai ban
-văn võ, đứng xếp theo hàng. Con thứ tư của nhà vua
-làm chức Đại - Tư - Đồ Sùng - Nhượng - Công đứng đầu
-ban võ, thứ nhì là ông Hồ - Sĩ - Đống. Vị Quốc - lão
-Quận-Công Nguyễn-Hãng đứng đầu bên văn, thứ nhì
-là ông Bùi - Huy - Bích. Còn toàn thể các quan thuộc
-hàm Hồng - Lô - Tự thì đứng xếp hàng theo thứ tự ở
-cửa phía trong và phía ngoài để giúp việc lễ. Ông
-Phan - Huy - Ích quì ở phía hữu ngự diện, tuyên đọc
-bài biểu, tiếng vang ra tận ngoài cửa Đoan-Môn.
+Khi làm lễ xong, viên Thái-Giám mặc áo bào hồng, thắt đai văn tẻ, từ phía hữu ngự tọa bước xuống, tuyên-chỉ ban yến ở hai bên nhà Đài-Lậu.
 
-Khi làm lễ xong, viên Thái-Giám mặc áo bào hồng,
-thắt đai văn tẻ, từ phía hữu ngự tọa bước xuống,
-tuyên-chỉ ban yến ở hai bên nhà Đài-Lậu.
+Bao nhiêu phụ lão đứng xem đều nói: “ Từ niên hiệu Chính-Hòa (1680-1705) đến nay đã tám mươi năm, chưa được xem một buổi nghi lễ long trọng như thế này.
 
-Bao nhiêu phụ lão đứng xem đều nói : “ Từ niên
-
-hiệu Chính-Hòa (1680-1705) đến nay đã tám mươi năm,
-chưa được xem một buổi nghi lễ long trọng như
-thế này.
-
-Bài Biều ấy (in trong Hoàng Việt-Văn-Tuyền) liên
-dầu như sau :
+Bài Biều ấy (in trong Hoàng Việt-Văn-Tuyền) liên dầu như sau:
 
 [chữ Hán]
 Phiên âm : Phủ tọa thiên khai, qui trù tiến thọ khang
-chi phúc (3).
+chi phúc .
 
 Dịch : Ngai thêu trời mở; thẻ rùa dâng phúc thọ
 khang.
@@ -76,9 +42,9 @@ Phiên âm : Đan đình nhật lệ, hổ bái dương bảo định
 chi hưu.
 
 Dịch : Sân ngự bóng soi, gối hổ mừng ơn bảo
-định (4).
+định .
 
-Liên giữa như sau :
+Liên giữa như sau:
 
 [chữ Hán]
 Phiên âm : Thiên xuân lịch thủy đăng tứ kỷ ;
@@ -88,10 +54,9 @@ Dịch : Lịch thiên xuân mới đầy bốn kỷ :
 [chữ Hán]
 Phiên âm : Vạn niên trù sơ đãi thất tuần ;
 
-Dịch : Thẻ vạn thọ vừa tới bảy tuần (5).
+Dịch : Thẻ vạn thọ vừa tới bảy tuần .
 
-(Còn ngoài ra, không tiện chép đầy đủ cả bài
-biều ra đây).
+(Còn ngoài ra, không tiện chép đầy đủ cả bài biều ra đây).
 
 ## Dịch thơ
 Không có (văn xuôi)

@@ -16,26 +16,11 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Kính-Phủ
+Hồ Hoàn-Kiếm ở bên cạnh phường Bảo-Thiên, thành Thăng-Long, thông với nước ngoài sông, hình thể rất to rộng. Hồ này là nơi đức Thái-Tổ Hoàng-Đế (triều trước) đánh rơi thanh kiếm.
 
-Hồ Hoàn-Kiếm ở bên cạnh phường Bảo-Thiên,
-thành Thăng-Long, thông với nước ngoài sông, hình
-thể rất to rộng. Hồ này là nơi đức Thái-Tổ Hoàng-Đế
-(triều trước) đánh rơi thanh kiếm.
+Hồi Thái-Tổ khởi nghĩa, ngài bắt được một thanh gươm cổ. Khi làm vua, Ngài thường vẫn đeo thanh gươm đó. Một hôm chơi thuyền ở trong hồ, chợt thấy một con ba-ba rất lớn nổi lên mặt nước, bắn nó không trúng. Ngài bèn lấy thanh gươm mà chỉ. Bất đồ, thanh kiếm rơi xuống nước mất, con ba-ba cũng lặn theo. Ngài giận, sai lấp cửa hồ lại, đắp cái bờ ngang, tát hết nước để tìm, nhưng chẳng thấy đâu cả.
 
-Hồi Thái-Tổ khởi nghĩa, ngài bắt được một thanh
-gươm cổ. Khi làm vua, Ngài thường vẫn đeo
-thanh gươm đó. Một hôm chơi thuyền ở trong hồ,
-chợt thấy một con ba-ba rất lớn nổi lên mặt nước,
-bắn nó không trúng. Ngài bèn lấy thanh gươm mà chỉ.
-Bất đồ, thanh kiếm rơi xuống nước mất, con ba-ba
-cũng lặn theo. Ngài giận, sai lấp cửa hồ lại, đắp cái bờ
-ngang, tát hết nước để tìm, nhưng chẳng thấy đâu cả.
-
-Đời sau, nhân cái vết bờ ấy chia hồ ra làm hai: tả-vọng,
-hữu-vọng. Cuối đời Cảnh-Hưng, bỗng có một vệt
-sáng từ cái đảo trong hồ vọt lên cao, sáng rực tan ra
-rồi tắt, người ta cho là thanh bảo kiếm bay đi.
+Đời sau, nhân cái vết bờ ấy chia hồ ra làm hai: tả-vọng, hữu-vọng. Cuối đời Cảnh-Hưng, bỗng có một vệt sáng từ cái đảo trong hồ vọt lên cao, sáng rực tan ra rồi tắt, người ta cho là thanh bảo kiếm bay đi.
 
 ## Dịch thơ
 Không có (văn xuôi)

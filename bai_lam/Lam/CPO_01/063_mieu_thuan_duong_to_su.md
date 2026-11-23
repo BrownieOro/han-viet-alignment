@@ -16,32 +16,13 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Tùng-Niên
+Ngõ hàng Nghiên ở thành Thăng-Long có miếu Thuần-Dương tổ-sư, không biết khởi có từ bao giờ, Chân-nhân Phạm-Viên thường gặp ông Thuần-Dương ở đó.
 
-Ngõ hàng Nghiên ở thành Thăng-Long có miếu
-Thuần-Dương tổ-sư, không biết khởi có từ bao giờ,
-Chân-nhân Phạm-Viên thường gặp ông Thuần-Dương
-ở đó.
-
-Họ Trương ở làng Như-Kinh đời trước vốn nghèo
-lắm, phải bán hàng nước ở bên cạnh đường. Sớm
-chiều chỉ kiếm được đủ sống. Một hôm thấy một vị
-đạo-nhân râu ria tốt đẹp, qua lại rồi vào ngồi nghỉ.
-Trương đón mời rất cung kính. Đạo-nhân cảm lòng
-tốt, bèn đặt cho một ngôi âm phần. Việc xong, hỏi tên
-họ thì đạo-nhân nói :
+Họ Trương ở làng Như-Kinh đời trước vốn nghèo lắm, phải bán hàng nước ở bên cạnh đường. Sớm chiều chỉ kiếm được đủ sống. Một hôm thấy một vị đạo-nhân râu ria tốt đẹp, qua lại rồi vào ngồi nghỉ. Trương đón mời rất cung kính. Đạo-nhân cảm lòng tốt, bèn đặt cho một ngôi âm phần. Việc xong, hỏi tên họ thì đạo-nhân nói:
 
 — Ta họ Lã, nhà ở đầu phố hàng Nghiên.
 
-Trương ghi nhớ lấy, rồi sai người đến tạ lễ, hỏi
-thăm khắp cả, chẳng có ai họ Lã, chỉ có tòa miếu
-Thuần-Dương. Từ cuộc binh hỏa năm Bính-Ngọ trở về
-sau, các bậc già cả qua đời, những người cúng vái
-
-nhận lầm là miếu thờ bà Chúa Liễu-Hạnh, hoa vàng,
-hải vóc bày đầy trước án. Một vị thần tiên râu ria tốt
-đẹp, mà nhận lầm là bà Chúa Liễu-Hạnh, còn gì đáng
-thở than hơn ?
+Trương ghi nhớ lấy, rồi sai người đến tạ lễ, hỏi thăm khắp cả, chẳng có ai họ Lã, chỉ có tòa miếu Thuần-Dương. Từ cuộc binh hỏa năm Bính-Ngọ trở về sau, các bậc già cả qua đời, những người cúng vái nhận lầm là miếu thờ bà Chúa Liễu-Hạnh, hoa vàng, hải vóc bày đầy trước án. Một vị thần tiên râu ria tốt đẹp, mà nhận lầm là bà Chúa Liễu-Hạnh, còn gì đáng thở than hơn?
 
 ## Dịch thơ
 Không có (văn xuôi)

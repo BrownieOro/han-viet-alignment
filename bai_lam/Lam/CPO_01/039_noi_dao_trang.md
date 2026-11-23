@@ -10,95 +10,27 @@
 - Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), cần rà soát lại và bỏ chú thích/số trang nếu còn sót.
 
 ## Hán
-先朝中興初，兵革初定，山魀木客，妖祟百出，民間多苦之。廣昌安束人陳祿，業符水術。一日過那山，夏暑方酷，小憩林箐間，絶頂一叟，髮皤然，倚峯瞰山麓，以笠招之。摳衣而登，日昃抵其巔，伏而謁。叟慰之曰：「子誠篤，簡在帝心，命予授子訣。」因提耳告之，曰：「此上空佛法也。勤行濟渡，蓮座不遠。」言訖不見。望空謝而返。試履驗，遂以符錄名。稱佛祖如來，二子左右宗聖，大徒弟前官宗聖，餘菩薩、金剛、明師上、中、下三乘之號各有差。聞鳶嘴山妖，大爲行旅病，束裝赴之。妖官妝緣席，據山頭與祖師抗，三日不决。祖師怒，放排山訣，塌其峯。妖化爲烏，凌霄而飛，連放訣中之，墜地斃。西南十二海門，各有神濤一，水湧如山，頃刻四潰，遇之無子遺。命其徒射之，没其九，遺三濤，會以事監紫山不果。
-時神宗皇帝得奇疾，或傳爲李神宗再世因果見《嶺南摘怪》，朝野憂之。大元帥清王定策，請帝内禪，稱太上皇，居別宫養疾；數年存藥無少驗。聞祖師名，遣中使聘之。祖師以西南妖氣甫息，未敢即離，舉徒弟法部金剛代。搥胸持咒，一月餘，上皇疾瘳，復辟，敕建內道場旌之。金剛返，途經布衛鄉，鄉人
-行鄉飲酒禮，金剛遺溺亭前，數少年怒縛之，婉辭得解。捻縛訣而行，亭中老少各束手倚柱，三五爲群，挪移不可得，舉鄉驚怪。或曰：「一術士無禮，縛而釋之矣，疑即此。」物色之，不遇，以事聞。帝曰：「此法部金剛也。」詢諸祖師。祖師懼，責金剛，闒所得訣，悉收之，惟請佛驅邪諸訣，猶行於世云。
-江北一道，稱內道場，以杖治病者異是。
+先朝中興初，兵革初定，山魀木客，妖祟百出，民間多苦之。廣昌安束人陳祿，業符水術。一日過那山，夏暑方酷，小憩林箐間，絶頂一叟，髮皤然，倚峯瞰山麓，以笠招之。摳衣而登，日昃抵其巔，伏而謁。叟慰之曰：「子誠篤，簡在帝心，命予授子訣。」因提耳告之，曰：「此上空佛法也。勤行濟渡，蓮座不遠。」言訖不見。望空謝而返。試履驗，遂以符錄名。稱佛祖如來，二子左右宗聖，大徒弟前官宗聖，餘菩薩、金剛、明師上、中、下三乘之號各有差。聞鳶嘴山妖，大爲行旅病，束裝赴之。妖官妝緣席，據山頭與祖師抗，三日不决。祖師怒，放排山訣，塌其峯。妖化爲烏，凌霄而飛，連放訣中之，墜地斃。西南十二海門，各有神濤一，水湧如山，頃刻四潰，遇之無子遺。命其徒射之，没其九，遺三濤，會以事監紫山不果。時神宗皇帝得奇疾，或傳爲李神宗再世因果見《嶺南摘怪》，朝野憂之。大元帥清王定策，請帝内禪，稱太上皇，居別宫養疾；數年存藥無少驗。聞祖師名，遣中使聘之。祖師以西南妖氣甫息，未敢即離，舉徒弟法部金剛代。搥胸持咒，一月餘，上皇疾瘳，復辟，敕建內道場旌之。金剛返，途經布衛鄉，鄉人行鄉飲酒禮，金剛遺溺亭前，數少年怒縛之，婉辭得解。捻縛訣而行，亭中老少各束手倚柱，三五爲群，挪移不可得，舉鄉驚怪。或曰：「一術士無禮，縛而釋之矣，疑即此。」物色之，不遇，以事聞。帝曰：「此法部金剛也。」詢諸祖師。祖師懼，責金剛，闒所得訣，悉收之，惟請佛驅邪諸訣，猶行於世云。江北一道，稱內道場，以杖治病者異是。
 
 ## Dịch âm
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Tùng-Niên
+Triều Lê khi mới trung-hưng, việc binh-đao vừa tạm yên, thì giống ma quỷ ở rừng núi và yêu quái nổi lên rất nhiều, dân gian thật là khổ sở. Tại làng An-Đông, huyện Quảng-Xương, có người tên là Trần-Lộc, vốn làm nghề phù thủy. Một hôm đi qua núi Na, nhân đương ngày hè nắng dữ, ngồi nghỉ ở khoảng rừng cây tươi tốt. Bỗng ở trên đỉnh núi, có một ông già đầu bạc phơ phơ, dựa vào đỉnh núi ngó xuống lấy nón mà vẫy, Trần-Lộc xắn áo đi lên, quá (xế) trưa thì lên đến đỉnh, phục xuống làm lễ bái yết. Ông già vỗ về rằng:
 
-Triều Lê khi mới trung-hưng, việc binh-đao vừa
-tạm yên, thì giống ma quỷ ở rừng núi và yêu quái nổi
-lên rất nhiều, dân gian thật là khổ sở. Tại làng An-
-Đông, huyện Quảng-Xương, có người tên là Trần-Lộc,
-vốn làm nghề phù thủy. Một hôm đi qua núi Na, nhân
-đương ngày hè nắng dữ, ngồi nghỉ ở khoảng rừng cây
-tươi tốt. Bỗng ở trên đỉnh núi, có một ông già đầu bạc
-phơ phơ, dựa vào đỉnh núi ngó xuống lấy nón mà
-vẫy, Trần-Lộc xắn áo đi lên, quá (xế) trưa thì lên đến
-đỉnh, phục xuống làm lễ bái yết. Ông già vỗ về rằng :
+- Nhà ngươi là người thành thật, đốc hậu. Thượng-đế đã có ý lựa chọn, sai ta trao cho những bí-quyết, bèn ghé vào tai mà bảo:
 
-- Nhà ngươi là người thành thật, đốc hậu. Thượng-
-đế đã có ý lựa chọn, sai ta trao cho những bí-quyết,
-bèn ghé vào tai mà bảo :
+- Đó là những phép Phật thượng - không, nhà ngươi nên siêng năng làm việc tế độ, tòa sen sẽ chẳng xa gì.
 
-- Đó là những phép Phật thượng - không, nhà
-ngươi nên siêng năng làm việc tế độ, tòa sen sẽ chẳng
-xa gì.
+- Nói xong thì không thấy đâu nữa. Trần-Lộc trông lên trên không bái tạ. Rồi trở về đem những phép ấy ra thử dùng thì đều linh-nghiệm, được nổi tiếng về nghề bùa phép. Người ta gọi Trần-Lộc là Phật-Tổ Như-Lai; hai con là Tả-Hữu, Tôn-Thánh; người đồ-đệ giỏi nhất là Tiền-quan Tôn-Thánh; còn ngoài ra là Bồ - Tát, Kim-Cương, Minh-Sư, Thượng, Trung, Hạ thặng v. v... Mỗi hàng một danh hiệu mỗi khác. Nghe núi Mỏ-Diều có một con yêu, thường làm tai nạn cho những khách qua đường, liền sửa soạn hành trang đi đến để trị. Con yêu vận lối cung-trang, giữ trên đầu núi, cùng Tổ-sư chống cự ba ngày không phân thua được. Tổ-sư tức lắm, phóng một cái quyết lật đổ núi. Yêu hóa làm con quạ bay vút lên trời. Tổ-sư lại phóng mấy cái quyết trúng vào mình nó, nó phải sa xuống đất mà chết.
 
-- Nói xong thì không thấy đâu nữa. Trần-Lộc
-trông lên trên không bái tạ. Rồi trở về đem những
-phép ấy ra thử dùng thì đều linh-nghiệm, được nổi
-tiếng về nghề bùa phép. Người ta gọi Trần-Lộc là
-Phật-Tổ Như-Lai; hai con là Tả-Hữu, Tôn-Thánh;
-người đồ-đệ giỏi nhất là Tiền-quan Tôn-Thánh; còn
-ngoài ra là Bồ - Tát, Kim-Cương, Minh-Sư, Thượng,
-Trung, Hạ thặng v. v... Mỗi hàng một danh hiệu mỗi
-khác. Nghe núi Mỏ-Diều có một con yêu, thường làm
-tai nạn cho những khách qua đường, liền sửa soạn hành
-trang đi đến để trị. Con yêu vận lối cung-trang, giữ
-trên đầu núi, cùng Tổ-sư chống cự ba ngày không phân
-thua được. Tổ-sư tức lắm, phóng một cái quyết lật đổ
-núi. Yêu hóa làm con quạ bay vút lên trời. Tổ-sư lại
-phóng mấy cái quyết trúng vào mình nó, nó phải sa
-xuống đất mà chết.
+Mười hai cửa bể ở miền Tây-Nam, mỗi cửa đều có một vị thần, thường làm cho nước bốc cao lên như núi, chốc lát lại đổ xuống tan đi, thuyền bè nào gặp phải, không thể sống sót được. Tổ-sư sai đồ-đệ đi bắn, trừ được chín, sót lại ba. Xảy có việc phải đi trông nom ở Sùng-Sơn, nên không trừ nốt được.
 
-Mười hai cửa bể ở miền Tây-Nam, mỗi cửa đều
-có một vị thần, thường làm cho nước bốc cao lên
-như núi, chốc lát lại đổ xuống tan đi, thuyền bè nào gặp
-phải, không thể sống sót được. Tổ-sư sai đồ-đệ đi bắn,
-trừ được chín, sót lại ba. Xảy có việc phải đi trông
-nom ở Sùng-Sơn, nên không trừ nốt được.
-
-Bấy giờ vua Thần-Tôn mắc một bệnh lạ, có người
-
-bảo là cái nhân-quả kiếp sau của vua Lý-Thần-Tôn
-(xem ở Lĩnh-Nam trích quái) trong triều ngoài nội đều
-lo ngại. Đại Nguyên-súy Thanh-Vương tính kế, xin vua
-nhường ngôi cho Thái-tử rồi xưng Thái-Thượng-Hoàng,
-ở cung riêng để chữa bệnh. Dùng qua bùa thuốc trong
-mấy năm không chút hiệu-nghiệm gì cả. Nghe tiếng
-Tổ-sư, Triều-đình sai Trung-sứ đến đón mời. Tổ sư
-nghĩ vì cái yêu-khí ở vùng tây nam mới yên, chưa dám
-đi ngay, liền cử đồ đệ là Pháp-hộ Kim-Cương đi thay,
-đấm vào ngực mà niệm chú. Hơn một tháng, Thượng-
-hoàng khỏi bệnh, trở lại ngôi rồng, truyền xuống dựng
-riêng trường Nội-đạo để được vẻ vang. Kim-Cương trở
-về, đường qua làng Bố-Vệ, giữa khi người làng đang
-làm lễ tế thần. Kim-Cương đứng đái ở trước đình, bị
-mấy người trẻ tuổi ở trong làng tức giận trói lại.
-Kim-Cương nói mãi mới được tha về, bèn bắt một cái
-quyết trói rồi đi. Lập tức già trẻ trong đình, ai nấy hai
-tay chập vào nhau mà ngồi dựa vào cột, chỗ năm
-người, chỗ ba người, muốn giẳng gỡ ra cũng không thể
-được, cả làng đều kinh-ngạc. Có người nói vừa nãy có
-một Thuật-sĩ vô-lễ, người làng trói rồi thả ra, hay là
-hắn chăng. Cho người đi tìm thì chẳng thấy đâu cả.
-Việc đến tai Triều-đình, vua nói :
+Bấy giờ vua Thần-Tôn mắc một bệnh lạ, có người bảo là cái nhân-quả kiếp sau của vua Lý-Thần-Tôn (xem ở Lĩnh-Nam trích quái) trong triều ngoài nội đều lo ngại. Đại Nguyên-súy Thanh-Vương tính kế, xin vua nhường ngôi cho Thái-tử rồi xưng Thái-Thượng-Hoàng, ở cung riêng để chữa bệnh. Dùng qua bùa thuốc trong mấy năm không chút hiệu-nghiệm gì cả. Nghe tiếng Tổ-sư, Triều-đình sai Trung-sứ đến đón mời. Tổ sư nghĩ vì cái yêu-khí ở vùng tây nam mới yên, chưa dám đi ngay, liền cử đồ đệ là Pháp-hộ Kim-Cương đi thay, đấm vào ngực mà niệm chú. Hơn một tháng, Thượng-hoàng khỏi bệnh, trở lại ngôi rồng, truyền xuống dựng riêng trường Nội-đạo để được vẻ vang. Kim-Cương trở về, đường qua làng Bố-Vệ, giữa khi người làng đang làm lễ tế thần. Kim-Cương đứng đái ở trước đình, bị mấy người trẻ tuổi ở trong làng tức giận trói lại. Kim-Cương nói mãi mới được tha về, bèn bắt một cái quyết trói rồi đi. Lập tức già trẻ trong đình, ai nấy hai tay chập vào nhau mà ngồi dựa vào cột, chỗ năm người, chỗ ba người, muốn giẳng gỡ ra cũng không thể được, cả làng đều kinh-ngạc. Có người nói vừa nãy có một Thuật-sĩ vô-lễ, người làng trói rồi thả ra, hay là hắn chăng. Cho người đi tìm thì chẳng thấy đâu cả. Việc đến tai Triều-đình, vua nói:
 
 — Đó là Pháp-Bộ Kim-Cương đó.
 
-Hỏi đến Tổ-sư, Tổ sư sợ, trách mắng Kim-Cương,
-rồi xét lại bao nhiêu bài quyết đã trao cho đều thu lại
-
-hết, chỉ còn lại những bài quyết thỉnh Phật, và trừ tà
-lưu hành ở đời. Ở vùng Giang-Bắc, có một phái gọi là
-Nội-Đạo-Tràng, lấy trượng (gậy) trị bệnh, đó không
-phải là phái này.
+Hỏi đến Tổ-sư, Tổ sư sợ, trách mắng Kim-Cương, rồi xét lại bao nhiêu bài quyết đã trao cho đều thu lại hết, chỉ còn lại những bài quyết thỉnh Phật, và trừ tà lưu hành ở đời. Ở vùng Giang-Bắc, có một phái gọi là Nội-Đạo-Tràng, lấy trượng (gậy) trị bệnh, đó không phải là phái này.
 
 ## Dịch thơ
 Không có (văn xuôi)

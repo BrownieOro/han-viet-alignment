@@ -16,15 +16,11 @@
 Không có (văn xuôi)
 
 ## Dịch nghĩa / Việt văn xuôi
-Tùng-Niên
-
-Năm Nhâm-Dần, niên hiệu Cảnh-Hưng (1740-1786),
-
-chúa Điện-Đô, trẻ thơ lên cầm quyền chính, xa gần đều bàn tán xôn xao. Ngày 25 tháng 10, quân Tam-phủ làm loạn, phù lập con lớn của Chúa cũ là Tông lên ngôi, đó là Đoan-Nam-Vương. Ông Bùi-Huy-Bích ở trong Chính-Phủ, hết sức chống giữ, trong ngoài mới được tạm yên. Bấy giờ dưới lẫn trên suy, giường mối ngày càng đồ nát, ông dứng trong Triều lo lắng thường vẫn thở ngắn than dài. Bài khóc ông quyền-phủ Hồ-Sĩ-Đống có những câu sau :
+Năm Nhâm-Dần, niên hiệu Cảnh-Hưng (1740-1786), chúa Điện-Đô, trẻ thơ lên cầm quyền chính, xa gần đều bàn tán xôn xao. Ngày 25 tháng 10, quân Tam-phủ làm loạn, phù lập con lớn của Chúa cũ là Tông lên ngôi, đó là Đoan-Nam-Vương. Ông Bùi-Huy-Bích ở trong Chính-Phủ, hết sức chống giữ, trong ngoài mới được tạm yên. Bấy giờ dưới lẫn trên suy, giường mối ngày càng đồ nát, ông dứng trong Triều lo lắng thường vẫn thở ngắn than dài. Bài khóc ông quyền-phủ Hồ-Sĩ-Đống có những câu sau:
 
 “ Trên Triều-đình, chính-sự bừa bãi, lại thêm mùa màng bị nước lụt, sâu cắn, đương mong ông hoặc có cứu chữa được tình thế chăng. Nay ông từ trần, thì tôi lại chưa được lánh (nhường bước) người hiền để lui về nuôi giữ cái ngu của mình”.
 
-Tấm lòng của ông thực đã tỏ bày ra lời nói. Một hôm ông chiêm bao thấy chúa Nghị-Tổ Ân-Vương ngự giá đi chơi núi, ông quì tâu rằng :
+Tấm lòng của ông thực đã tỏ bày ra lời nói. Một hôm ông chiêm bao thấy chúa Nghị-Tổ Ân-Vương ngự giá đi chơi núi, ông quì tâu rằng:
 
 — Việc nước đến không thể làm gì được nữa, chỉ còn mong ở đấng Tiên-vương tính kế cho xã-tắc.
 
