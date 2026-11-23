@@ -1,0 +1,34 @@
+# Tên bài: Ông BÙI - HUY - BÍCH (裴公輝壁)
+
+- Tác giả: Phạm Đình Hổ – Nguyễn Án
+- Tác phẩm: CPO_01 - Tang thương ngẫu lục
+- Nguồn sách: source_1.pdf và source_2.pdf
+- Trang PDF: [source_1.pdf: 123; source_2.pdf: 201-203]
+- Link lấy text: Không
+- Người dịch: Đạm Nguyên
+- Đối chiếu sách: Chưa xác nhận
+- Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), cần rà soát lại và bỏ chú thích/số trang nếu còn sót.
+
+## Hán
+景興壬寅，莫都王童年即政，遠近陶陶然。十月二十五日，三府兵作亂，擁立故王元子棕，是為端南王。裴公輝壁在政府，多方緩輯，中外粗定。時下陵上替，朝綱日就墮弛，公憂之，往往立朝嘆息。嘗以文哭權府胡公仕棟云：「朝廷之上，政事不治，重之水潦螟騰，猶望公之或能起救其弊也；今公不在，則我未得避其賢以養其愚。」蓋情見乎辭也。一夕夢毅祖殿王命駕遊山，公晚啓曰：「國事不可為矣！惟先聖王爲社稷計。」王太息不語，指山下。視之, 肉山血海中，冠裳輿皂，枕藉不可枚數。纍啓避位，不得請。未幾，國亡。
+
+## Dịch âm
+Không có (văn xuôi)
+
+## Dịch nghĩa / Việt văn xuôi
+Tùng-Niên
+
+Năm Nhâm-Dần, niên hiệu Cảnh-Hưng (1740-1786),
+
+chúa Điện-Đô, trẻ thơ lên cầm quyền chính, xa gần đều bàn tán xôn xao. Ngày 25 tháng 10, quân Tam-phủ làm loạn, phù lập con lớn của Chúa cũ là Tông lên ngôi, đó là Đoan-Nam-Vương. Ông Bùi-Huy-Bích ở trong Chính-Phủ, hết sức chống giữ, trong ngoài mới được tạm yên. Bấy giờ dưới lẫn trên suy, giường mối ngày càng đồ nát, ông dứng trong Triều lo lắng thường vẫn thở ngắn than dài. Bài khóc ông quyền-phủ Hồ-Sĩ-Đống có những câu sau :
+
+“ Trên Triều-đình, chính-sự bừa bãi, lại thêm mùa màng bị nước lụt, sâu cắn, đương mong ông hoặc có cứu chữa được tình thế chăng. Nay ông từ trần, thì tôi lại chưa được lánh (nhường bước) người hiền để lui về nuôi giữ cái ngu của mình”.
+
+Tấm lòng của ông thực đã tỏ bày ra lời nói. Một hôm ông chiêm bao thấy chúa Nghị-Tổ Ân-Vương ngự giá đi chơi núi, ông quì tâu rằng :
+
+— Việc nước đến không thể làm gì được nữa, chỉ còn mong ở đấng Tiên-vương tính kế cho xã-tắc.
+
+Chúa thở dài không nói, chỉ trỏ tay xuống dưới núi, thì thấy ở giữa đám núi thịt bề máu, mũ xiêm, xe ngựa bề bộn ngổn ngang không biết bao nhiêu mà kể. Sau mấy lần, ông xin từ chức, nhưng không được. Chẳng bao lâu nước mất.
+
+## Dịch thơ
+Không có (văn xuôi)

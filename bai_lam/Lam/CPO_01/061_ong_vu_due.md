@@ -1,0 +1,84 @@
+# Tên bài: Ông VŨ - DUỆ (武公睿)
+
+- Tác giả: Phạm Đình Hổ – Nguyễn Án
+- Tác phẩm: CPO_01 - Tang thương ngẫu lục
+- Nguồn sách: source_1.pdf và source_2.pdf
+- Trang PDF: [source_1.pdf: 100; source_2.pdf: 158-160]
+- Link lấy text: Không
+- Người dịch: Đạm Nguyên
+- Đối chiếu sách: Chưa xác nhận
+- Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), cần rà soát lại và bỏ chú thích/số trang nếu còn sót.
+
+## Hán
+狀元武公睿，山圍程舍農家子也。少時父母往田間，公與群兒搏土做象，插蝶為耳，釘姪為鼻，以四蟹負之行。索逋者至門，問「爾父何適？」曰：「殺一人。」問其母，曰：「生一人。」客怪之，詰其故。公索賞。曰：「爾無隱我，蠲爾逋。」公進片泥，邀手揭為識，客勉從之。笑曰：「我父拔秧，我母插秧耳。」客大奇之。他日索逋，公以昨泥進，客無以應，勉父令讀書，且以逋為燈火助。
+洪德二十一年魁天下，歷仕御史臺都御史。屬天下多故，從昭宗皇帝幸清花，權臣莫登庸盛兵奉迎，公極口痛罵，操御史印投神符海門。先朝中興，鑄臺印不就，命漁者余海門求之。公冠服佩印坐，宛然如生。蓋六十餘年矣，始以喪回山圍。
+
+## Dịch âm
+Không có (văn xuôi)
+
+## Dịch nghĩa / Việt văn xuôi
+Tùng-Niên
+
+Làng Trình-xá, huyện Sơn-Vi (Sơn-Tây), có ông
+
+Trạng-Nguyên Vữ-Duệ, ông vốn là con nhà nông. Lúc
+còn nhỏ, cha mẹ đi làm ruộng, ông cùng bọn trẻ lấy
+đất nặn một con voi, gắn bướm làm tai, ghim con đỉa
+làm vòi, lấy bốn con cua đội bốn chân voi cho nó đi.
+Chợt có người khách đến đòi nợ, hỏi :
+
+— Cha mày đi đâu?
+
+Ông nói :
+
+— Cha tôi đi giết người.
+
+Hỏi :
+
+— Mẹ đi
+
+Ông nói :
+
+— Mẹ tôi đi làm sống người.
+
+Người khách lấy làm lạ, hỏi lý do.
+
+Ông đòi có thưởng cho, mới nói rõ.
+
+Khách bảo :
+
+— Nếu mày không dấu ta, ta sẽ xóa nợ cho nhà
+mày.
+
+Ông liền đưa ra nắm đất dẻo, bảo khách phải in
+tay vào làm tin. Khách cũng gượng in tay vào. Ông
+mới cười mà nói rằng :
+
+— Cha tôi đi rồ mạ. Mẹ tôi đi cấy lúa (1).
+
+Khách rất lấy làm kỳ.
+
+Bữa khác, lại đến đòi nợ, ông liền giơ nắm đất ra
+làm tin, khách không nói sao được nữa, khuyên người
+
+cha nên cố cho ông đi học, và xin biếu món nợ ấy để
+giúp thêm tiền dầu đèn.
+
+Niên-hiệu Hồng-Đức thứ 21, ông đi thi, đỗ đầu rồi
+làm quan đến Ngự-Sử-Đài Đô-Ngự-Sử,
+
+Gặp khi trong nước xầy ra nhiều việc biến cố, ông
+theo vua Chiêu-Tôn chạy vào Thanh-Hóa. Quyền-thần
+Mặc-Đăng-Dung đem quân đến đón về, ông mắng chửi
+tàn-nhẫn, rồi mang cả quả ấn Ngự-Sử gieo mình xuống
+của Thần-Phù tư-tử.
+
+Đến hồi Trung-Hưng, ấn Ngự-Sử đúc mãi không
+thành, bèn sai bọn thuyền chài lặn xuống cửa bể ấy
+mò tìm, thấy ông vẫn đội mũ, mặc áo đeo ấn, ngồi
+như khi sinh thời (tính từ khi ông mất đến lúc ấy đã
+hơn sáu mươi năm). Bấy giờ mới đưa tang ông về
+huyện Sơn-Vi.
+
+## Dịch thơ
+Không có (văn xuôi)

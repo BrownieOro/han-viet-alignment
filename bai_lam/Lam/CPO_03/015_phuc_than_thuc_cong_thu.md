@@ -1,0 +1,108 @@
+# Tên bài: PHÚC THÂN THÚC CÔNG THƯ (復親叔公書)
+
+- Tác giả: Ngô Thì Nhậm
+- Tác phẩm: CPO_03 - Ngô Thì Nhậm toàn tập (Tự - Thư)
+- Nguồn sách: source_4.pdf
+- Trang PDF: [805-809]
+- Link lấy text: Không
+- Người dịch: Mai Quốc Liên
+- Đối chiếu sách: Chưa xác nhận
+- Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), đã bỏ chú thích/khảo dị, cần rà soát lại.
+
+## Hán
+秋末冬初, 連承親叔來教二札。論“事勢”二字, 提起聖人於兵萊卻費, 直截擔當, 而絕糧于陳, 微復過宋, 亦有無不可者, 意所有較量。此議甚明白達理, 謹已服膺。
+後札論“禍福”二字, 姪反覆沉思: 大抵學者以禍福論人, 中間多有差處。竊見朱子論左傳, 謂他是個曉了識利害底人, 大率只道得禍福利害分明底說話。又曰, 他好以成敗論人, 遇他做得來好時, 便說他好, 做得來不好時, 便說他不好, 都不折之以理之是非, 這便是他大病。文論孟子“枉尺直尋”章云: 凡人做事, 要趨利避害, 不知繞有利便有害, 吾雖處得十分利, 有害隨在後。不如且就理上求之。是聖賢直把禍福之禍福抬出一邊, 只就禍福之義理上看。如君仁臣忠, 三綱正, 九疇敘, 便是國之福; 父慈子孝, 兄友弟恭, 夫義婦從, 便是家之福, 反是卻是禍了。吾儒當從這裏體了, 便其避禍就福見得透。鳥有之得喪, 還鳥有之風塵; 必然之死生, 副必然之夜旦, 則事物都豁然了。姪近來暗室沉潛, 方理會此理。惟吾家遭值厄運, 叔姪, 兄弟, 正在競業恐懼之時。詩云: “求福不回”, 甚有意味。來教所謂: 肇造培植之家風, 合當把作骨子。擴而充之, 開誠心布公道, 叔今日之, 所
+
+
+以為之教也。亡人無為寶，仁親為寶，姪今日之所以為學。立愛
+惟親，立敬惟長，守靜讀書，處約明善，群弟今日之所以事也。家
+庭以此相勉，這中便是福。易“未濟”在“既濟”之後。彖曰：“未
+濟亨”。這“亨”義包得闊，不以既濟之亨獨善其未濟之亨也。愚
+淺所見，幸賜正之。
+
+## Dịch âm
+Thu mạt đông sơ, liên thừa thân thúc lai giáo nhị trát. Luận “thế
+sự” nhị tự, đề khởi Thánh nhân ư bình Lai khước Phí, trực tiệt đảm
+đương, nhi tuyệt lương vu Trần, vi phục quá Tống, diệc hữu vô bất khả
+giả, ý sở hữu giáo lượng. Thử nghị thậm minh bạch đạt lý, cẩn dĩ phục
+ứng.
+
+Hậu trát luận “hoạ phúc” nhị tự, điệt phản phúc huống tư: Đại để
+học giả dĩ hoạ phúc luận nhân, trung gian đa hữu sai xứ. Thiết kiến Chu
+Tử luận Tả truyện, vị tha thị cá hiểu liễu thức lợi hại để nhân, đại suất
+chỉ đạo đắc hoạ phúc lợi hại phân minh để thuyết thoại. Hựu viết, tha hảo
+dĩ thành bại luận nhân. Ngộ tha tố đắc lai hảo thời, tiện thuyết tha hảo, tố
+đắc lai bất hảo thời, tiện thuyết tha bất hảo, đô bất chiết chi dĩ lý chi thị
+phi, giá tiện thị tha đại bệnh. Hựu luận Mạnh Tử “Uổng xích trực tầm”
+chương vân. Phàm nhân tố sự, yếu xu lợi tị hại, bất tri tài hữu lợi tiện hữu
+hại, ngô tuy xử đắc thập phân lợi, hữu hại tuỳ tại hậu, bất như thả tựu lý
+thượng cầu chi. Thị thánh hiền trực bả hoạ phúc chi hoạ phúc đài suất
+nhất biên, chỉ tựu hoạ phúc chi nghĩa lý thượng khán. Như quân nhân
+thần trung, tam cương chính, cửu trù tự, tiện thị quốc chi phúc; phụ tử tử
+hiếu, huynh hữu đệ cung, phu nghĩa phụ tòng, tiện thị gia chi phúc; phản
+thị khước thị hoạ liễu. Ngô nho đường tòng giá lý thể liễu, tiện kỳ tị hoạ
+tựu phúc kiến đắc thâu. Ô hữu chi đắc tang, hoàn ô hữu chi phong trần;
+tất nhiên chi tử sinh, phó tất nhiên chi dạ đán, tắc sự vật đô hoạt nhiên
+liễu. Điệt cận lai ám thất trầm tiềm, phương lý hội thử lý. Duy ngô gia tạo
+trực ách vận, thúc điệt, huynh đệ, chính tại cạnh nghiệp khủng cụ chi
+
+
+thời. Thi vân: “Cầu phúc bất hồi,” thậm hữu ý vị. Lai giáo sở vị: Triệu tạo
+bồi thực chi gia phong, hợp đương bả tác cốt tử, khuyếch nhi sung chi,
+khai thành tâm bố công đạo, thúc kim nhật chi, sở dĩ vi chi giáo dã. Vong
+nhân vô vi bảo, nhân thân vi bảo, điệt kim nhật chi sở dĩ vi học. Lập ải
+duy thân, lập kính duy trưởng, thủ tĩnh độc thư, xử ước minh thiện, quần
+đệ kim nhật chi sở dĩ sự dã. Gia đình dĩ thử tương miễn, giá trung tiện thị
+phúc. Dịch “Vị tế” tại “Ký tế” chi hậu. Thoán viết: “Vị tế hanh.” Giá “hanh”
+nghĩa bao đắc khoát, bất dĩ ký tế chi hanh độc thiện kỳ Vị tế chi hanh dã.
+Ngu tiển sở kiến, hạnh tử chính chi.
+
+## Dịch nghĩa / Việt văn xuôi
+THƯ TRẢ LỜI CHÚ RUỘT(1)
+
+Cuối thu đầu đông, liên tiếp nhận được hai lá thư của chú gửi tới
+dạy bảo. Bàn về hai chữ “sự thế,” có nhắc tới Thánh nhân(2) dứt khoát đảm
+đương việc đóng quân ở ấp Lai, đẩy lùi ấp Phí, nhưng bị tuyệt lương ở
+nước Trần, mặc áo thường qua nước Tống, cũng không phải là điều không
+thể xảy ra, ý chừng chú có điều muốn so sánh. Lời bàn này rất rõ ràng,
+thấu lý, cháu đã kính cẩn ghi dạ.
+
+Thư sau bàn tới hai chữ “hoạ phúc,” cháu đã suy đi nghĩ lại: Đại để
+trong sách các học giả đem “hoạ, phúc” bàn về con người, trong đó có
+nhiều chỗ sai. Cháu trộm thấy Chu Tử(3) bàn về Tả truyện,(4) nói tác giả
+của nó là người hiểu rõ lợi hại, thì đại khái cũng chỉ nói được những lời
+hoạ phúc lợi hại rõ ràng mà thôi. Chú lại nói rằng: Tác giả của nó là người
+thích lấy việc thất bại để đánh giá con người. Gặp lúc họ làm được điều
+tốt, liền bảo họ là người tốt, gặp lúc họ làm điều không tốt, liền bảo họ là
+người không tốt, chứ không phân tích được cái lý phải trái, đó là cái bệnh
+lớn của ông. Chú lại nói tới cái thuyết “Cong một thước để duỗi một tấc”
+của Mạnh Tử. Nói chung người ta làm phần nhiều chỉ xông vào cái lợi mà
+tránh cái hại, không hiểu rằng hễ có cái lợi liền có cái hại, tuy ta nắm
+được mười phần lợi, nhưng vẫn có cái hại theo sau, không bằng hãy xét nó
+trên mặt nghĩa lý. Đó là thánh hiền đem hoạ phúc của hoạ phúc gác ra
+một bên, chỉ nhìn hoạ phúc trên mặt nghĩa lý mà thôi. Thí dụ như vua nhân
+tôi trung, tam cương chính(5) cửu trù thuận,(6) thế là cái phúc của nước;
+cha hiền con thảo, anh kính em nhường, chồng hoà vợ thuận, thế là cái
+
+
+phúc của nhà, trái nhũng điều đó là hoạ. Bọn nhà nho chúng ta nên thể
+nhận cho rõ điều này, mới thấy được thấu suốt việc lánh hoạ tới phúc. Sự
+mất còn nào đó, mặc cho sự gió bụi nào đó; sự sống, chết tất nhiên phó cho
+buổi sớm tối tất nhiên; thì sự vật đều lâng lâng. Cháu gần đây ẩn náu nơi
+bóng tối, mới lĩnh hội được ý ấy. Riêng nhà ta gặp vận tai ách, chú cháu,
+anh em đương ở lúc sợ sệt lo âu. Kinh Thi nói: “Cầu phúc phúc không trở
+lại,” thật có ý vị. Những lời bàn trong thơ gửi tới, đều là những lời mở
+mang gây dựng gia phong, thật đúng là những điều cốt tử, mở rộng ra và
+làm cho sung túc thêm, khai mở tấm lòng thành, công bố cái đạo chung,
+đó là sự dạy bảo ngày nay của chú. Người đi trốn còn có gì là quý, nhàn
+với người thân mới là quý, đó là bài học ngày nay của cháu. Yêu người
+thân, kính kẻ trưởng, tĩnh tâm đọc sách, ở trong cái kiệm ước, làm sáng tỏ
+điều thiện là việc làm ngày nay của các em. Gia đình lấy đấy khuyến
+khích nhau, thì là cái phúc ở trong đó. Trong Kinh Dịch quẻ Vị tế(7) ở sau
+quẻ Ký tế.(8) Thoán nói rằng: “Vị tế thì hanh thông.” Cái nghĩa hanh thông
+này bao quát rất rộng, chớ đem cái hanh thông của Ký tế mà cho là hay
+hơn cái hanh thông của Vị tế. Đó là sở kiến ngu hèn, nông cạn của cháu,
+mong chú chỉ giáo cho.
+
+## Dịch thơ
+Không có

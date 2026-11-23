@@ -1,0 +1,65 @@
+# Tên bài: THI HỘI (會試)
+
+- Tác giả: Phạm Đình Hổ – Nguyễn Án
+- Tác phẩm: CPO_01 - Tang thương ngẫu lục
+- Nguồn sách: source_1.pdf và source_2.pdf
+- Trang PDF: [source_1.pdf: 79; source_2.pdf: 130-132]
+- Link lấy text: Không
+- Người dịch: Đạm Nguyên
+- Đối chiếu sách: Chưa xác nhận
+- Ghi chú: OCR tự động bằng Gemini (gemini-3.5-flash-lite), cần rà soát lại và bỏ chú thích/số trang nếu còn sót.
+
+## Hán
+中興以來，會試第一場，五更初刻，外辦中嚴；昧爽，皇上倣蹕御講書殿。或稱試殿。帥府詣坐前參謁，上爲起，免拜賜坐。百官候頭補服，靴帶起居。侍臣擬試題進呈，欽差官受命出門，輿蓋入場，發問。薄午，回宮。第二、第三、第四場，帥府代行。侍從諸臣平頂帽、青吉衣、條襪，行四拜禮進題，出命，如初。累朝因爲常制。景興乙未會試，聖祖盛王臨講書殿，傳旨百官冠服朝謁，如皇上觀試之儀。尚書阮公伯璘常服四拜，啓稱「列聖先王，尊扶一節，相傳二百餘年，一旦更張，殊駭物聽。阮侃師傅大臣〔一〕，不能匡正，請斬其首，以謝天下。」王不懌，爲之回鑾。是夕一生出場假寐，更服外殿，夜聞殿中曰：「三綱絕矣！黎國何以久存？」搜之，漫無居人，悟而返。鼎革後，始語諸所知云。
+
+## Dịch âm
+Không có (văn xuôi)
+
+## Dịch nghĩa / Việt văn xuôi
+Tùng-Niên
+
+Từ hồi Trung-hưng trở về sau, mỗi khi gặp khoa
+
+thi Hội nào, ngày vào trường. Kỳ thi thứ nhất, thì
+từ đầu trống canh năm, trong ngoài đều phải sẵn sàng,
+nghiêm chỉnh đâụ đấy. Từ mờ sáng, trước quân Cảnh,
+sau quân Tắt (1), Hoàng-thượng ngự ra điện Giảng-
+sách, hoặc gọi là Điện thí. Soái-phủ (chúa Trịnh) đến
+trước Ngự-Tọa ; làm lễ tham yết. Hoàng-thượng đứng
+dậy, và truyền miễn lạy, mời ngồi. Trăm quan đều đội
+mũ phốc-đầu, mặc áo bổ-phục (2), đi hia, đeo đai chững
+chạc. Quan Khởi-cư Thị-thần nghĩ soạn đầu bài thi
+tiến trình, quan Khâm-Sai chịu mệnh mà đi ra cửa,
+ngồi kiệu che lọng vào trường ra đầu bài thi. Gần trưa,
+Ngự-giá về cung. Đến kỳ thi thứ hai, thứ ba và thứ tư
+thì Soái-phủ đi thay, các bề tôi theo hầu chỉ phải đội
+mũ bình đính, mặc áo thụng xanh, đi giầy buộc giải,
+làm lễ bốn lạy dâng đầu đề, rồi quan Khâm-sai chịu
+mệnh đi ra như kỳ thứ nhất. Trải qua các triều vua
+chúa đều lấy làm lệ thường.
+
+Niên hiệu Cảnh-Hưng, khoa thi năm Ất-Mùi, Thánh-
+Tổ Tĩnh-Vương (Trịnh-Sâm) đến điện Giảng - sách,
+truyền cho trăm quan, mũ áo triều yết phải đúng như
+khi Hoàng-Thượng ngự ra xem. Quan Thượng-Thư
+Nguyễn-Bá-Lân chỉ mặc thường phục làm lễ bốn lạy,
+lên thưa rằng : “Từ xưa các đấng Liệt-thánh Tiên-
+vương, vẫn giữ đạo tôn phù nhà vua, truyền dõi trải
+hơn hai trăm năm, nay một sớm thay đổi, sợ để sự
+ngạc nhiên cho mọi người đến xem”. Nguyễn-Hoàn là
+
+Sư-Phó Đại-Thần không biết can ngăn Chúa còn xin
+chém đầu ông Nguyễn-Bá-Lân đề tạ thiên-hạ. Chúa
+không vui lòng, bèn hồi loan.
+
+Tới hôm ấy, một người học trò ở trong trường ra,
+về nghỉ, thay áo bên ngoài điện, ban đêm nghe thấy
+trong điện có tiếng người nói ;
+
+"Ba giường (3) đã đứt, nhà Lê còn lâu dài sao
+được”. Bừng dậy tìm xem, trong điện vắng vẻ không còn
+một ai cả, bèn ra về. Sau khi (vạc đổ) thay đổi triều
+vua, người ấy mới kể câu chuyện này với người quen.
+
+## Dịch thơ
+Không có (văn xuôi)
