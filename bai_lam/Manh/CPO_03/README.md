@@ -1,7 +1,7 @@
 # Phần CPO_03 (Ngô Thì Nhậm toàn tập 1) của Mạnh
 
-Gồm **15 bài văn xuôi** (tổng cộng **448 cặp** Hán–Việt) trích từ `inputs/source_4.pdf` (các bài Khải, Ước, Hiểu, Biện, Thuyết, Khoán văn).
-
-- Mỗi bài được tổ chức thành một thư mục riêng (`B001_...` đến `B015_...`) theo chuẩn `OUTPUT_CONTRACT.md` (văn xuôi 2 cột: `Hán`, `Việt`).
-- Toàn bộ 15 file `.md` gốc chứa kết quả OCR ban đầu vẫn được giữ nguyên trong thư mục này để truy vết.
-- Xem tiến độ và ghi chú kiểm chéo từng bài tại `TODO.tsv` và `qa.tsv` trong từng thư mục bài.
+Tổng cộng **44 bài** (**1603 hàng** dóng hàng) trích từ `inputs/source_4.pdf`, mỗi bài gộp tất cả các bản trong duy nhất 1 cặp `dong_hang.tsv` và `dong_hang.xlsx` (sheet `DONG_HANG`):
+- **Văn xuôi (Khải, Ước, Hiểu, Biện, Thuyết, Khoán văn, Ký, Bi ký — `B001`–`B031`):** 31 bài, **1010 hàng** gồm 3 cột `Hán`, `Dịch âm`, `Dịch nghĩa` (`text/han.txt`, `text/dich_am.txt`, `text/dich_nghia.txt`).
+- **Phú 4 bản (`B032`–`B044`):** 13 bài, **593 hàng** gồm 4 cột `Hán`, `Dịch âm`, `Dịch nghĩa`, `Dịch thơ` (`text/han.txt`, `text/dich_am.txt`, `text/dich_nghia.txt`, `text/dich_tho.txt`).
+- Toàn bộ **44 file `.md` gốc** đã chuyển vào `bai_lam/Manh/done/CPO_03/` để lưu vết.
+- Tổng hợp lỗi OCR/sai khác Hán–Dịch âm (kiểm bằng M.E.D Levenshtein): **385 dòng** trong `notes.xlsx`.

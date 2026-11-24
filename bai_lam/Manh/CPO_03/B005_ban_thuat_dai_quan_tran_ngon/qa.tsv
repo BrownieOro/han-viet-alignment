@@ -2,3 +2,5 @@ Hàng	Cờ tự động	Người kiểm
 1–18	Tách câu và dóng hàng từ bản OCR trong ban_thuat_dai_quan_tran_ngon.md; cần kiểm chéo PDF trang 577 trở đi	Chuyển đổi từ bản .md của Mạnh
 6–10	Vế Hán có vị trí khuyết chữ do OCR trong bản .md gốc (ví dụ 采 采菲, 南 未帖, ...), cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
 14	Đã loại chỉ mục chú thích '(6)' sau cụm 'giao việc;' theo quy định guideline	Chuyển đổi từ bản .md của Mạnh
+1–18	Đã bổ sung dóng hàng Dịch âm và kiểm 1–1 bằng M.E.D Levenshtein; ghi 7 lưu ý vào notes.xlsx	Script Levenshtein
+1–18	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

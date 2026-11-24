@@ -1,3 +1,4 @@
 Phiên bản	Nguồn	Trang PDF	Người dịch	Ghi chú
-Hán	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	577		Chuyển từ bản OCR gốc bai_lam/Manh/CPO_03/ban_thuat_dai_quan_tran_ngon.md; cần đối chiếu PDF các vị trí khuyết chữ OCR
-Việt	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	577		Bản dịch nghĩa/văn xuôi từ bai_lam/Manh/CPO_03/ban_thuat_dai_quan_tran_ngon.md; đã làm sạch rác OCR và tách câu dóng hàng 2 cột
+Hán	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	577		Chuyển từ bản OCR gốc bai_lam/Manh/done/CPO_03/ban_thuat_dai_quan_tran_ngon.md; cần đối chiếu PDF các vị trí khuyết chữ OCR
+Dịch âm	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	577		Tách và dóng hàng 1-1 với Hán bằng M.E.D Levenshtein từ bai_lam/Manh/done/CPO_03/ban_thuat_dai_quan_tran_ngon.md
+Dịch nghĩa	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	577		Bản dịch nghĩa/văn xuôi từ bai_lam/Manh/done/CPO_03/ban_thuat_dai_quan_tran_ngon.md; đã làm sạch rác OCR và tách câu dóng hàng 3 cột (Hán, Dịch âm, Dịch nghĩa)

@@ -1,0 +1,7 @@
+Hàng	Cờ tự động	Người kiểm
+1-6	Hán khuyết/lỗi OCR tại: '民龍' (艮龍), '東則 山' (thiếu 峷/Huỳnh), '追我' (逮), '狗 休哉' (猗歟休哉), '陰鷺之所 裕' (陰騭, thiếu 貽), '數' (歟), ' 悚' (thiếu 栗)	Subagent + Levenshtein
+10-13	Câu 10 thiếu '雪' trước '齋'; câu 12 thiếu '於/緊' đầu câu; câu 13 bản Hán bị rớt mất một đoạn dài giữa '參' và '當,無有瑜越。' (so với Dịch âm: 'Tham chước tình lễ, tịnh đương bách thế bất thiên, cung thượng từ hiệu viết: Sùng Đức, thiên thu chưng thường, vô hữu đu việt'); '瑜越' lỗi '踰越'	Subagent + Levenshtein
+14-15	Hán lỗi OCR '被' (祔), '桃' (祧), '結繹' (紬繹), thiếu chữ sau '邀是 ' (貺) và sau '無 ' (隕)	Subagent + Levenshtein
+20	Hán ghi '左昭右穆' (tả chiêu hữu mục), Dịch nghĩa dịch đảo thành 'Hàng chiêu bên phải, hàng mục bên trái'	Subagent + Levenshtein
+25-28	Hán lỗi '本音' (本宗), thiếu '殤' đầu câu 26; Việt lỗi OCR 'hiến tỉ'	Subagent + Levenshtein
+1–42	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

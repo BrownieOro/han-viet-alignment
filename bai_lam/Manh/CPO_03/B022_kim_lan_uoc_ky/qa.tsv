@@ -1,0 +1,10 @@
+Hàng	Cờ tự động	Người kiểm
+3	Hán '同里開' nghi OCR từ '同里閈' (Dịch âm: đồng lý hãn).	Subagent + Levenshtein
+4	Hán '里科第' thiếu chữ '閈' sau '里' (Dịch âm: Lý hãn).	Subagent + Levenshtein
+5	Hán '鉅非' nghi OCR từ '詎非', '約數' nghi OCR từ '約歟' (Dịch âm: ước dư); Việt OCR 'nhiểu'.	Subagent + Levenshtein
+7	Việt OCR 'thiển su'.	Subagent + Levenshtein
+13	Hán '說說' (Dịch âm: thuyết thuyết) có thể là OCR từ '兢兢' hoặc chữ khác trong bản gốc.	Subagent + Levenshtein
+14	Hai câu Hán ngắn được giữ chung một hàng để khớp dấu phẩy nối liền trong bản dịch nghĩa; Việt OCR 'thiển'.	Subagent + Levenshtein
+16	Việt OCR 'hó' và mở ngoặc kép không cân đối ở '"Vĩnh An sơn"'.	Subagent + Levenshtein
+18	Việt OCR thiếu dấu đóng ngoặc kép ở '“Kim Lan từ'.	Subagent + Levenshtein
+1–18	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

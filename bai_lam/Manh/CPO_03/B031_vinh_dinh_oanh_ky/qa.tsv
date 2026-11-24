@@ -1,0 +1,6 @@
+Hàng	Cờ tự động	Người kiểm
+0-6	Hán khuyết/lỗi OCR tại: ' 先公' (thiếu 迨), '廠儀/廠衛' (黻儀/黻衛), '寺字' (寺宇), '巍樂' (巍峩); Việt có ')' thừa sau 'sinh phần,' và lỗi 'thẩy địa lý', 'Giáp Dẫn', 'buẩm lèo', câu 6 in 'mà tôi bảo rằng' (đảo từ 'bảo tôi')	Subagent + Levenshtein
+10-18	Hán khuyết/lỗi OCR tại: '裝寺' (裴寺), '卻礙 永虎' (thiếu 棟), '占不吉' (thiếu 卜), ' 得地雷復' (thiếu 筮), câu 18 '象曰' (彖曰); Việt có '®' thừa sau 'Địa đạo', chữ Cyrillic 'а' trong 'đi xа'	Subagent + Levenshtein
+19-21	Hán câu 21 lỗi '香篆' (香瑑) và thiếu '式' sau '嚴喜'; Việt câu 19-20 lỗi 'quê Phục', 'đ ng', 'của que', 'của quê'	Subagent + Levenshtein
+26-31	Hán lỗi OCR tại: '卵向' (卯向), '西位' (酉位), '到時' (到辰), '会同' (僉同), '立榮記' (立塋記); Việt câu 27 có số chú thích '6' thừa	Subagent + Levenshtein
+1–32	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

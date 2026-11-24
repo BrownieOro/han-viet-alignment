@@ -1,0 +1,10 @@
+Hàng	Cờ tự động	Người kiểm
+Hàng 2-6	Chữ Hán hàng 2 '門為' (môn quynh/扃), hàng 3 '海藻' (hải phệ/澨); hàng 4 khuyết '迤' sau '地'; hàng 6 khuyết '繞' và '珥' ('控河西 乎流沙;水北襟乎龍肚。').	Subagent + Levenshtein
+Hàng 8	Bản Dịch thơ của Trần Duy Vôn bỏ sót câu thứ hai '火珠不順乎中土;喇嘛難辨夫需囉。' ('Ngọc hoả châu không chịu cống hiến cho trung thổ; đạo Lạt Ma của chúng thì rủ rỉ khó phân biệt.').	Subagent + Levenshtein
+Hàng 10-14	Chữ Hán khuyết chữ ở hàng 10 ('幾 ', ái đãi), hàng 11 ('登絕 而 層霄', 巘/躡), hàng 14 ('通帆 于靈江', 楫); Dịch thơ hàng 13 lỗi OCR 'Huyễn Trân'.	Subagent + Levenshtein
+Hàng 19, 21	Hàng 19 Hán '間門' (Xương môn) và khuyết chữ trước '基', '山'; hàng 21 khuyết chữ trước '紗' (縹) và Dịch nghĩa lỗi OCR 'về thướt tha'.	Subagent + Levenshtein
+Hàng 25-26	Hàng 25 Hán '廟讓' (miếu mô); hàng 26 Hán '分' (兮) và khuyết '爰' trước '整'; Dịch nghĩa lỗi 'bọn dan' và Dịch thơ lỗi 'chư'.	Subagent + Levenshtein
+Hàng 27	Chữ Hán khuyết '韃' sau '殺' ('威陵殺 兮') và '分' (兮); bản Dịch thơ bỏ sót câu '威陵殺 兮,氣蓋擒胡。' ('oai hùng vươn cao cánh tay sát Thát, khí mạnh trùm khắp cửa ải Cầm Hổ.').	Subagent + Levenshtein
+Hàng 28, 30-32	Hàng 30 Dịch nghĩa lỗi OCR nặng 'theo đòi vội vă' (khớp Hán '共武' và Dịch thơ 'theo đòi việc võ'); hàng 31 Hán '從戒' (tòng nhung) và khuyết '櫜' sau '執'; hàng 32 Hán '六彎/者華/之字'.	Subagent + Levenshtein
+Hàng 37-41	Lỗi OCR dấu và dính chữ trong Dịch nghĩa ('lâu"', 'vộ tâm mà trời thì cố ý', 'có thế') và Dịch thơ ('tựbay', 'chư', 'ngo', 'bầy'). Lưu ý Dịch thơ hàng 39 dịch '雲' (vân) thành 'sông'.	Subagent + Levenshtein
+Hàng 44-59	Hàng 44 Hán '勉旗' (miễn chiên); hàng 54 Hán khuyết '篪' sau '損', Dịch thơ dính Cyrillic 'с' ở 'nhạс.'; hàng 58 Hán '方的' (phương chước), hàng 59 Hán '廣' (賡).	Subagent + Levenshtein

@@ -1,0 +1,11 @@
+Hàng	Cờ tự động	Người kiểm
+3	Hán khuyết chữ ở '降平 下嫩洪' (Dịch âm: Bình Lũng) và '平隴山 ' (Dịch âm: sơn đỉnh); '琅煙' so với Dịch âm 'Lương Yên'.	Subagent + Levenshtein
+4	Hán '庚西方' nghi OCR từ '庚酉方' (Dịch âm: Canh Dậu phương); khuyết chữ ở '掛 天山' (Dịch âm: quải bái); Việt OCR 'chuyễn', đóng ngoặc kép.	Subagent + Levenshtein
+5	Việt OCR 'cây co'.	Subagent + Levenshtein
+6	Hán khuyết chữ ở '至 河' (Dịch âm: Chí Huyên hà); '三峽' (Dịch âm: Tam Kỳ) và '彼油' (Dịch âm: Bể Dầu) nghi OCR từ '三岐', '彼由'.	Subagent + Levenshtein
+7	Việt OCR mất chữ thành 't ng đá'; Hán '硬浮' vs Dịch âm 'giáp phù'.	Subagent + Levenshtein
+8	Việt OCR 'dẫy núi'.	Subagent + Levenshtein
+12	Hán có chữ giản thể '债' (領债); Việt OCR 'rối'.	Subagent + Levenshtein
+19	Hán '做大意' nghi OCR từ '倣/仿大意' (Dịch âm: phỏng đại ý).	Subagent + Levenshtein
+20	Hán '舞竄' nghi OCR từ '奔竄' (Dịch âm: bôn xoán), '或衿' nghi OCR từ '或擒' (Dịch âm: hoặc cầm).	Subagent + Levenshtein
+1–20	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

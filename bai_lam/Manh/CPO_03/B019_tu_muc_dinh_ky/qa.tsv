@@ -1,0 +1,28 @@
+Hàng	Cờ tự động	Người kiểm
+1	Hán OCR '萬坪' ('坪' nhầm từ '類', Dịch âm 'vạn loại')	Subagent + Levenshtein
+4	Dịch nghĩa OCR 'tình thần', '"khí''	Subagent + Levenshtein
+6	Dịch nghĩa OCR 'dường'	Subagent + Levenshtein
+8	Dịch nghĩa OCR 'đồng đị'	Subagent + Levenshtein
+9	Dịch nghĩa OCR 'quề', 'quê', 'Tung'	Subagent + Levenshtein
+13	Dịch nghĩa OCR ''lý'mà'	Subagent + Levenshtein
+14	Hán OCR '屯 需' (khuyết chữ '蒙'), '因不待' ('因' nhầm từ '固'), '如彭' (khuyết chữ '喬/僑' trước '彭', Dịch âm 'như Kiểu Bành'); Dịch nghĩa OCR 'dđược'	Subagent + Levenshtein
+15	Hán OCR '好速' ('速' nhầm từ '逑', Dịch âm 'Hảo cầu')	Subagent + Levenshtein
+16	Hán OCR '間左' ('間' nhầm từ '閭', Dịch âm 'lư tả'); Dịch nghĩa có ký hiệu chú thích thừa 'h9'	Subagent + Levenshtein
+17	Dịch nghĩa OCR 'dó'	Subagent + Levenshtein
+18	Hán OCR '文 中華' (khuyết chữ '振/震', Dịch âm 'văn chấn'); Dịch nghĩa OCR 'nổi nhau'	Subagent + Levenshtein
+19	Hán OCR ', 以會' (khuyết '亨足') và '足以固' (khuyết '貞' trước '足'); Dịch nghĩa OCR 'vừng'	Subagent + Levenshtein
+22	Dịch nghĩa OCR 'xủ sự', 'quật mo'	Subagent + Levenshtein
+23	Hán OCR ' 軸' (khuyết chữ '耰', '軸' nhầm từ '耡/鋤', Dịch âm 'ưu sừ'); Dịch nghĩa OCR 'nghể'	Subagent + Levenshtein
+24	Hán OCR '股篋' ('股' nhầm từ '胠', Dịch âm 'cổ khiếp'); Dịch nghĩa OCR 'nghê'	Subagent + Levenshtein
+25	Hán OCR '徒為 輪' (khuyết chữ '奐', Dịch âm 'hoán luân'); Dịch nghĩa OCR 'thế hiện'	Subagent + Levenshtein
+26	Hán OCR '齒鮑' ('鮑' nhầm từ '鯢', Dịch âm 'xỉ nhi')	Subagent + Levenshtein
+27	Hán OCR '所嵩' ('嵩' nhầm từ '鬻', Dịch âm 'sở dục'); Dịch nghĩa OCR 'Kể sĩ', 'đề lại'	Subagent + Levenshtein
+28	Hán OCR '竊竊' ('竊' nhầm từ '藹', Dịch âm 'ái ái'); Dịch nghĩa OCR 'đanh tiếng'	Subagent + Levenshtein
+29	Dịch nghĩa OCR 'đinh này', 'hổ then cho ho lắm'	Subagent + Levenshtein
+31	Hán OCR '亦非應聚' ('應' nhầm từ '麀/鹿', Dịch nghĩa 'hươu nai'); Dịch nghĩa OCR 'ngoài mát', 'trong lồng', 'hươn', 'có thế'	Subagent + Levenshtein
+32	Dịch nghĩa OCR 'ứng xứ'	Subagent + Levenshtein
+34	Hán OCR '會賢之間' ('間' nhầm từ '閭', Dịch âm 'chi lư'); Dịch nghĩa OCR 'hội hiển'	Subagent + Levenshtein
+35	Dịch nghĩa OCR 'Tư Muc.()'	Subagent + Levenshtein
+36	Hán OCR '秋析' ('析' nhầm từ '祈') và '衣冠 跑' (khuyết 1 chữ và '跑' nhầm từ '蹌', Dịch âm 'thương thương'); Dịch nghĩa OCR 'kể sông', 'dăy núi', 'chẩu về', 'áo mủ'	Subagent + Levenshtein
+37	Hán OCR '一燈 之器也' (khuyết chữ '燭', Dịch âm 'đăng chúc'); Dịch nghĩa OCR 'thểm', 'đổ dùng', 'chái thểm'	Subagent + Levenshtein
+1–38	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

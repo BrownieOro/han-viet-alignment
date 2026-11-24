@@ -1,0 +1,16 @@
+Hàng	Cờ tự động	Người kiểm
+0	Trong file .md mục '# Tên bài:' bị khuyết tên tiếng Việt, chỉ có '(奉擬始一亭記)'	Subagent + Levenshtein
+5	Hán OCR khuyết chữ '苟' đầu câu (' 徒高之為山', Dịch âm 'Cẩu đồ')	Subagent + Levenshtein
+7	Hán OCR '下嗽' ('嗽' nhầm từ '瞰', Dịch âm 'hạ hám') và '若見之不容莽耶' dường như rớt chữ tương ứng 'ưởng ất' trong Dịch âm ('泱漭'?); gộp 2 câu Hán do bản Dịch nghĩa gộp liền '毋寧會意而策諸方寸也'	Subagent + Levenshtein
+10	Dịch nghĩa OCR 'tẩm mắt'	Subagent + Levenshtein
+12	Hán OCR '絕嘛' ('嘛' nhầm từ '巘', Dịch âm 'tuyệt hiến'); Dịch nghĩa OCR 'Vạn thế, bất thể', thiếu dấu ngoặc kép đóng ở hai cụm trích dẫn, và OCR 'thẳnh thơi'	Subagent + Levenshtein
+13	Hán OCR '鎖蕎南 ' ('蕎' nhầm từ '鑰/籥' và khuyết 1 chữ sau '南', Dịch âm 'tỏa thược Nam minh') và '鎮山,非其為天下之鎮也數' ('數' nhầm từ '歟'); Dịch nghĩa OCR 'chẩu về', 'thiên ha'	Subagent + Levenshtein
+16	Dịch nghĩa OCR '“"một”', 'vên'	Subagent + Levenshtein
+17	Hán OCR '歌風所 ' (khuyết chữ sau '所', Dịch âm 'sở do') và '水不 秀' (khuyết chữ '韜', Dịch âm 'bất thao tú'); Dịch nghĩa OCR 'điểm lành'	Subagent + Levenshtein
+18	Hán OCR '翔而出色' (khuyết chữ '躍' sau '翔', Dịch âm 'tường dược') và ' 蔚而並產' (khuyết chữ đầu vế, Dịch âm 'sô uất')	Subagent + Levenshtein
+19	Dịch nghĩa OCR 'điểm lành'	Subagent + Levenshtein
+21	Hán OCR '一瓦一 ' (khuyết chữ '榱', Dịch âm 'suy') và ' 掃庭除' (khuyết chữ '灑', Dịch âm 'sái tảo'); Dịch nghĩa OCR 'vất v gì'	Subagent + Levenshtein
+22	Dịch nghĩa OCR 'rổi', 'khởi đẩu'	Subagent + Levenshtein
+23	Hán OCR khuyết chữ '瞻' đầu câu (' 凌雲之巍峨', Dịch âm 'Chiêm lăng vân') và '祝國作' ('作' nhầm từ '祚', Dịch âm 'quốc tộ')	Subagent + Levenshtein
+24	Dịch nghĩa OCR 'một bẩu'	Subagent + Levenshtein
+1–25	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

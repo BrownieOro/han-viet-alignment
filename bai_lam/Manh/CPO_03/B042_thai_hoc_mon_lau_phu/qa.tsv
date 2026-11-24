@@ -1,0 +1,6 @@
+Hàng	Cờ tự động	Người kiểm
+Tiêu đề	File .md bỏ trống tên tiếng Việt '# Tên bài: (太學門樓賦)'	Subagent + Levenshtein
+2, 3, 5, 8, 9, 10, 15, 23, 26, 30, 37, 38, 39	Hán có nhiều khoảng trống khuyết chữ do OCR (' 吉秀', ' 耳水', ' 淵', '尤 輪', '獻 ', ' 鼻', '長庚 ', '聚 臺', '舟 ', ' 淑問', ' 受制', ' 沂', '追 薪', ' 駕')	Subagent + Levenshtein
+3, 4, 8, 11, 18, 20, 21, 33, 34, 40, 41, 44	Chữ Hán '兮' bị OCR nhầm thành '分'	Subagent + Levenshtein
+5, 15, 19, 21, 22, 31, 32, 36, 39, 40, 41, 44, 45	Dịch nghĩa dính rác/lỗi dấu OCR: 'hổ'->'hồ', 'xoá'->'xóa', 'dẫy'->'dãy', số chú thích lạc '15' và '27', 'chẩu'->'chầu', 'hoà'->'hòa', 'Thuỷ'->'Thủy', 'về trong'->'vẻ trong', 'Ngọc hỗ'->'Ngọc hồ', 'củi'->'cúi', 'về tươi cười'->'vẻ tươi cười', 'tuyên truyển'->'tuyên truyền', 'cao ngắt trời'->'cao ngất trời'	Subagent + Levenshtein
+32	Hán '飛躍儷美乎雍。' thiếu chữ trước '雍' (Dịch âm: 'Ung Phán')	Subagent + Levenshtein

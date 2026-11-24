@@ -2,3 +2,5 @@ Hàng	Cờ tự động	Người kiểm
 1–17	Tách câu và dóng hàng từ bản OCR trong khao_bo_le_sinh_uoc.md; cần kiểm chéo PDF trang 823–830	Chuyển đổi từ bản .md của Mạnh
 4, 7–9	Đã xóa số trang '830', tiêu đề chạy trang 'KIM MÃ HÀNH DU' và ký tự chú thích '®' bị OCR lẫn vào vế Việt	Chuyển đổi từ bản .md của Mạnh
 13–15	Đã ghép lại các từ bị OCR rớt/đảo dòng ('cũ.', 'vật.', 'mà') về đúng vị trí trong điều 2, 3, 4; vế Hán hàng 13 khuyết chữ trước '會' cần đối chiếu PDF	Chuyển đổi từ bản .md của Mạnh
+1–17	Đã bổ sung dóng hàng Dịch âm và kiểm 1–1 bằng M.E.D Levenshtein; ghi 3 lưu ý vào notes.xlsx	Script Levenshtein
+1–17	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

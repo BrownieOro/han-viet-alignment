@@ -1,0 +1,19 @@
+Hàng	Cờ tự động	Người kiểm
+2	Bản dịch nghĩa OCR ghi 'Ngư Ân', 'truyển'.	Subagent + Levenshtein
+3	Vế Hán khuyết chữ trước '公科途宦業' (Dịch âm: đãi); bản Việt OCR ghi 'đường khoa lồi hoạn mới hiến hách'.	Subagent + Levenshtein
+4	Bản Việt OCR dư dấu ngoặc kép cuối câu 'bụt sống."'	Subagent + Levenshtein
+5	Chữ Hán '妃壞' nghi nhận dạng OCR sai từ '圮壞'.	Subagent + Levenshtein
+6	Chữ Hán '感槍' nghi nhận dạng OCR sai từ '感愴'.	Subagent + Levenshtein
+7	Chữ Hán '當見' nghi nhận dạng OCR sai từ '常見' (Dịch âm: Thường).	Subagent + Levenshtein
+8	Hán '謀裡' nghi OCR từ '謀祀'; '次白阮理' nghi OCR từ '次舅阮甲' (Dịch âm: thứ cữu Nguyễn Giáp); '世次 列' khuyết chữ trước '列' (Dịch âm: lô liệt). Bản Việt OCR 'sai suyển'.	Subagent + Levenshtein
+9	Hán khuyết chữ '筮' (phệ) ở đầu câu; bản Việt OCR lỗi 'bắt lợi' (2 chỗ) và 'trình cát''.	Subagent + Levenshtein
+10	Hán '象辭' (Dịch âm: thoán từ) và '未眠' (Dịch âm: vị dẫn/mẫn) nghi OCR từ '彖辭', '未泯'.	Subagent + Levenshtein
+12	Bản Việt OCR 'húy ky', 'tuẩn tiết'.	Subagent + Levenshtein
+13	Hán '盛晚' nghi OCR từ '盛衰', '疆為' nghi OCR từ '強為'; Việt OCR 'miễn cường'.	Subagent + Levenshtein
+14	Hán '泰泰' thiếu dấu phẩy, '垢' nghi OCR từ '姤'; Việt OCR 'quê', 'làm ấu', 'huống chỉ'.	Subagent + Levenshtein
+15-18	Hán '制' (16) nghi OCR từ '剝', '笙' (18) nghi OCR từ '筮'; Việt OCR 'quể', 'quề', 'quê', 'Kiến'.	Subagent + Levenshtein
+19	Câu Hán '今山藩阮文理是其後。' (Dịch âm: Kim sơn phiên Nguyễn Văn Giáp thị kì hậu; chữ '理' OCR từ '甲') bị bỏ sót trong bản dịch nghĩa nên được gộp vào hàng 19.	Subagent + Levenshtein
+20	Hán '門間' nghi OCR từ '門閭'; Việt OCR 'chứ Lợi chữ Cật', 'quê'.	Subagent + Levenshtein
+23	Hán '以侯' nghi OCR từ '以俟'.	Subagent + Levenshtein
+24	Hán '致於業衣' nghi OCR từ '至於常衣/裳衣'; khuyết chữ ở '軒 珂 ' (Dịch âm: hiên tứ kha hốt) và '水 迴' (Dịch âm: thủy oánh hồi).	Subagent + Levenshtein
+1–25	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

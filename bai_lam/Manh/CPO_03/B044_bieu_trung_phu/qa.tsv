@@ -1,0 +1,9 @@
+Hàng	Cờ tự động	Người kiểm
+Hàng 2, 4, 6	Chữ Hán khuyết chữ ở hàng 2 (' 南國之名良', thiếu 俊), hàng 4 ('堂堂 將', thiếu 骨), hàng 6 ('承弼 陪於雞障', thiếu 珥); Dịch nghĩa lỗi OCR 'hỗ thẫn', 'đập hẩu'.	Subagent + Levenshtein
+Hàng 8-10	Hàng 8 Hán khuyết '扆' sau '負'; hàng 9 Hán khuyết '瞑' và '矢', '日' là OCR của '目'; Dịch nghĩa/thơ lỗi dấu OCR ('Tựa y', 'hồi hận', 'thể', 'quý thần', 'giữi', 'chín suổi').	Subagent + Levenshtein
+Hàng 11	Bản Dịch thơ của Trần Duy Vôn bỏ sót câu '以一生將相之身;立萬世君臣之義。' ('Đem một tấm thân văn kiêm võ; nêu nghĩa muôn đời giữa vua tôi.').	Subagent + Levenshtein
+Hàng 16	Dịch thơ ghi 'cửa cấm đát' (khả năng là lỗi in/OCR của 'cửa cấm thát' ứng với 禁闥 và Dịch âm 'cấm thát').	Subagent + Levenshtein
+Hàng 19-20	Hàng 19 Hán '瓜灌 ' (Dịch âm: Uy quyền tịnh lý) bị lỗi OCR và khuyết chữ; Dịch thơ lỗi 'cạm xấy'; hàng 20 Hán khuyết '隙' sau '釁', Dịch nghĩa dính số chú thích '14' sau 'tập uyển”' và lỗi ký tự 'dā'.	Subagent + Levenshtein
+Hàng 24	Chữ Hán '未死之奸' thiếu chữ '諛' (Dịch âm: gian du); Dịch nghĩa lỗi 'chêt'; Dịch thơ 'khẳng khái' (so với 'Khảng khái') và dấu phẩy sau 'linh sảng,'.	Subagent + Levenshtein
+Hàng 25-26	Hàng 25 Dịch thơ lỗi dấu 'Tìn'; hàng 26 Dịch thơ 'mây chớ' khả năng là lỗi in của 'mây chó' (vân cẩu).	Subagent + Levenshtein
+Hàng 28	Dịch nghĩa lỗi dấu 'bổi đắp'; Dịch thơ lỗi 'hú', 'kể', và thiếu dấu ngoặc kép đóng ở '“sùng chính'.	Subagent + Levenshtein

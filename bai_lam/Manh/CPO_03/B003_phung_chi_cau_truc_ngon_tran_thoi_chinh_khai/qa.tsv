@@ -1,3 +1,5 @@
 Hàng	Cờ tự động	Người kiểm
 1–36	Tách câu và dóng hàng từ bản OCR trong phung_chi_cau_truc_ngon_tran_thoi_chinh_khai.md; cần kiểm chéo PDF trang 566 trở đi	Chuyển đổi từ bản .md của Mạnh
 2, 4–6, 10, 11, 13, 15, 18, 19, 21, 22, 24, 26, 31, 32	Vế Hán có vị trí khuyết chữ hoặc sai chữ do OCR từ bản .md gốc (ví dụ 雨, 南 , 醜 , 狂 , ...), cần đối chiếu ảnh PDF để bổ sung	Chuyển đổi từ bản .md của Mạnh
+1–36	Đã bổ sung dóng hàng Dịch âm và kiểm 1–1 bằng M.E.D Levenshtein; ghi 16 lưu ý vào notes.xlsx	Script Levenshtein
+1–36	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

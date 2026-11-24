@@ -1,0 +1,8 @@
+Hàng	Cờ tự động	Người kiểm
+2	Hán '類寺' nghi OCR từ '頹寺' (Dịch âm: đồi tự).	Subagent + Levenshtein
+3	Hán '噁!' nghi OCR từ '噫!' (Dịch âm: Y!); khuyết chữ ở ', 利天' (Dịch âm: nựu lợi thiên).	Subagent + Levenshtein
+6	Hán khuyết chữ ở ', 藤扶衰' (Dịch âm: du đẳng phù suy).	Subagent + Levenshtein
+8	Hán khuyết chữ ở '三 三菩提' (Dịch âm: tam diểu tam bồ đề).	Subagent + Levenshtein
+9	Hán '蓉鵲' (Dịch âm: dung thước) và '眉門' nghi OCR từ '容鵲' và '眉間'.	Subagent + Levenshtein
+10	Hán khuyết chữ ở '悟 拙夫記' (Dịch âm: Ngộ thiền Chuyết phu ký).	Subagent + Levenshtein
+1–10	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

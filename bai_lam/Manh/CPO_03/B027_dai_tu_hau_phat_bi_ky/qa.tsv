@@ -1,0 +1,8 @@
+Hàng	Cờ tự động	Người kiểm
+0	Tiêu đề .md ghi lỗi OCR 'BỊ KÝ' và dấu '。' thừa trong ngoặc; Hán thiếu chữ '瞥' (miết) trước '觀遺教'	Subagent + Levenshtein
+3-10	Hán khuyết chữ OCR (để khoảng trắng) tại: '官阮氏' (thiếu 嬪), ' 秀' (thiếu 稟), '作 于京' (thiếu 嬪), ' 光' (thiếu 儼), '關雖於菜' (雖->雎, thiếu 莕), '梵字' (字->宇), '榆 華' (thiếu 翟/褘), '貝關, 潢' (關->闕, thiếu 琚)	Subagent + Levenshtein
+11-22	Hán khuyết/lỗi OCR tại: '不匮' (匮->匱), '兢伽' (恒伽), '啟 越' (thiếu 壇), '勤噢 ' (thiếu 咻), '滅' (減), ' 可以' (thiếu 真), '翟 魚軒' (thiếu 褘), '於 塗' (thiếu 莘), '求報 靈' (thiếu 芻), '貴 太上' (thiếu 侔), ' 秉好之終 ' (thiếu 寧, 好->彝, thiếu 冺)	Subagent + Levenshtein
+26-34	Hán khuyết/lỗi OCR tại: '更' (吏), '社田 歌' (thiếu 謳), ' 盛' (thiếu 粢), '賜數/澤數/誰數' (數->歟), '東南北之人' (thiếu 西); Việt câu 26 lỗi 'nhi?' và câu 33 chứa chữ Cyrillic 'х', 'а' trong 'chiếu ха'	Subagent + Levenshtein
+37-49	Hán khuyết/lỗi OCR tại: '歌有' (歌侑), '條例 列' (thiếu 臚), '他' (弛), '采蘋采 ' (thiếu 蘩), '行華洞酌' (行葦泂酌), '之 流' (thiếu 縈/紆), '日后' (曰后), '銘日' (銘曰); Việt có chú thích '(30)', '()' thừa và lỗi OCR 'Tuẩn', 'thứ tụ', 'Thái phổn', 'bê trong'	Subagent + Levenshtein
+50-61	Bài minh 12 câu Hán (mỗi câu 8 chữ kết bằng '。') tương ứng 24 dòng dịch nghĩa Việt; giữ mỗi cặp 1 câu Hán - 2 vế Việt	Subagent + Levenshtein
+1–62	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

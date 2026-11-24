@@ -1,0 +1,11 @@
+Hàng	Cờ tự động	Người kiểm
+Hàng 1	Chữ Hán '分' là lỗi OCR của '兮' và khuyết 1 chữ sau '霄' (Dịch âm: 'tiêu dư thần'); Dịch thơ dính ký tự Cyrillic 'и' ở 'lâuи!'.	Subagent + Levenshtein
+Hàng 2	Chữ Hán '俱況' khác Dịch âm 'câu dân' (俱泯).	Subagent + Levenshtein
+Hàng 3-5	Hàng 5 khuyết chữ sau '初' (hy/曦) và '板橋' (quỳnh/迥); lỗi OCR dấu trong Dịch nghĩa ('nghễn', 'hắn cháng') và Dịch thơ ('Trở', 'cổ cây', 'chù', 'văng văng').	Subagent + Levenshtein
+Hàng 7-8	Chữ Hán '侏仙' khác Dịch âm 'thù ly' (侏離) và '分' là OCR của '兮'; Dịch nghĩa gốc ghép liền hai câu tại 'mà lắp bắp.Đi một mình'.	Subagent + Levenshtein
+Hàng 9-10	Dịch thơ dùng từ cổ/nghi lỗi in 'du?' ở cuối câu ('trăng sao du?', 'người du?'); hàng 9 có 'chữ' là OCR của 'chừ'.	Subagent + Levenshtein
+Hàng 12	Chữ Hán khuyết 1 chữ trước '侗' ('底 侗'); Dịch thơ bị lỗi OCR nặng 'khó đó vần mịt mù;'.	Subagent + Levenshtein
+Hàng 15	Chữ Hán '此為德' khác Dịch âm 'thử vi Huân' (此為獯/葷); Dịch thơ đảo vế Huân/Miêu.	Subagent + Levenshtein
+Hàng 17	Chữ Hán '策騨 ' khuyết chữ '駰' cuối câu và '騨' khả năng là OCR của '驊' (Dịch âm: 'sách hoa nhân').	Subagent + Levenshtein
+Hàng 18	Lỗi OCR 'chẩn' trong Dịch nghĩa và 'ngườời', 'chư', 'giấy' trong Dịch thơ.	Subagent + Levenshtein
+Hàng 20-22	Hàng 20 chữ Hán '蓮車之麟 ' là OCR của '蘧車之麟麟' (khuyết 1 chữ 麟); hàng 22 '萃野' khả năng là '莘野'; Dịch thơ hàng 20 ghi 'ông Cử' (thay vì 'Cừ'); hàng 21 có ký tự Cyrillic 'о' ở 'caо.'.	Subagent + Levenshtein

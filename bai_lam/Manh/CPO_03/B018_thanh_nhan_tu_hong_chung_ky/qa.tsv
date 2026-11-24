@@ -1,0 +1,17 @@
+Hàng	Cờ tự động	Người kiểm
+0	Nhan đề Hán OCR '清開寺洪鐘記' ('開' nhầm từ '閒/閑')	Subagent + Levenshtein
+2	Dịch nghĩa OCR 'cứng rấn'	Subagent + Levenshtein
+6	Dịch nghĩa ghi 'hòa vào tiếng' (khuyết chữ 'tám' ứng với '八音')	Subagent + Levenshtein
+8	Hán OCR '佛 之土' (khuyết chữ '龕', Dịch âm 'Phật Khám') và '玄字' ('字' nhầm từ '宇'); Dịch nghĩa OCR 'Phật- Khám', 'ngồi chùa'	Subagent + Levenshtein
+9	Hán OCR '清開寺' ('開' nhầm từ '閒') và '乃余L之北偏' (ký tự 'L' là rác OCR thay cho '竹林' trong Dịch âm)	Subagent + Levenshtein
+10	Hán OCR '前把' ('把' nhầm từ '挹', Dịch âm 'Tiền ấp') và '永盎地 之山' ('地' nhầm từ '迤' và khuyết chữ '邐', Dịch âm 'dĩ lý'); Dịch nghĩa OCR 'dẫy núi', 'đô đằng sau'	Subagent + Levenshtein
+11	Dịch nghĩa OCR 'tứ quýn'	Subagent + Levenshtein
+13	Hán OCR '士女 集' (khuyết chữ '駢', Dịch âm 'biển tập')	Subagent + Levenshtein
+14	Hán OCR '銅液 燦' (khuyết chữ '皜/皓', Dịch âm 'hạo xán'); Dịch nghĩa OCR 'thẩn', 'Chúc Dung,"', 'phạm vì'	Subagent + Levenshtein
+15	Hán OCR '寶坊懸而交。' khuyết chữ '叩' ở cuối câu (Dịch âm 'giao khấu')	Subagent + Levenshtein
+16	Hán OCR '雷師之圓圓' ('圓圓' nghi nhầm từ '闐闐')	Subagent + Levenshtein
+18	Hán OCR '功 鬼神' (khuyết chữ '侔', Dịch âm 'công mâu')	Subagent + Levenshtein
+19	Hán thiếu dấu ngắt câu giữa '之器' và '以形器言'; Dịch nghĩa OCR 'trăm nặm'	Subagent + Levenshtein
+22	Dịch nghĩa OCR 'mỉnh'	Subagent + Levenshtein
+26	Hán OCR '驚 一鳴' (khuyết chữ '蟄', Dịch âm 'Kinh trập'); Dịch nghĩa OCR 'ẩm'	Subagent + Levenshtein
+1–36	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

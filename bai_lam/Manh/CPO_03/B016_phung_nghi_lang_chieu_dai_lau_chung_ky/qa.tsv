@@ -1,0 +1,24 @@
+Hàng	Cờ tự động	Người kiểm
+2	Hán OCR '佛氏詔於門', Dịch âm 'chiếu', Dịch nghĩa 'nhà Phật treo ở cửa chùa'; Dịch nghĩa OCR 'hiến vương'	Subagent + Levenshtein
+3	Dịch nghĩa OCR 'tỉnh thần'	Subagent + Levenshtein
+4	Dịch nghĩa OCR 'trời đắt', 'đễ'	Subagent + Levenshtein
+5	Dịch nghĩa OCR 'ghỉ tạc'	Subagent + Levenshtein
+6	Hán OCR '雄漢 略' (khuyết 1 chữ, '漢' nhầm từ '謨') và ' 寇底平' (khuyết 1 chữ, Dịch âm 'bổ khấu')	Subagent + Levenshtein
+7	Hán OCR '仿有處' ('處' nhầm từ '虞'); Dịch nghĩa có số chú thích thừa 'nhà Ngu, 9'	Subagent + Levenshtein
+8	Hán OCR '朗詔' ('詔' nhầm từ '照') và '銅器 刻漏鐘' (khuyết chữ '鑄'); Dịch nghĩa có số chú thích thừa '(1776), 6' và OCR 't ng'	Subagent + Levenshtein
+9	Hán OCR '叩之鉤 然' (khuyết 1 chữ, Dịch âm 'hoanh hoanh nhiên')	Subagent + Levenshtein
+10	Hán OCR '宜暢' ('宜' nhầm từ '宣') và '笙 治象' (khuyết chữ '鏞'); Dịch nghĩa OCR 'canh điển' và thiếu dấu ngoặc kép đóng	Subagent + Levenshtein
+11	Hán OCR '遠數' ('數' nhầm từ '歟'); Dịch nghĩa OCR 'lồi'	Subagent + Levenshtein
+12	Hán OCR '不休哉' ('不' nhầm từ '丕')	Subagent + Levenshtein
+14	Hán OCR '吃於中天' ('吃' nhầm từ '屹'), ', 於上玄' (khuyết chữ trước '於', Dịch âm 'tương ư'), '歌頌聖德, 有窮已' (khuyết chữ '曷' trước '有')	Subagent + Levenshtein
+15	Dịch nghĩa OCR 'củi đầu'	Subagent + Levenshtein
+16	Hán OCR '鐘分' ('分' nhầm từ '兮'); Dịch nghĩa OCR 'đổng'	Subagent + Levenshtein
+17	Hán OCR '天界我' ('界' nhầm từ '畀', Dịch âm 'tì')	Subagent + Levenshtein
+18	Hán OCR '炭其銅' ('炭' nhầm từ '灰', Dịch âm 'hôi') và '鐘分' ('分' nhầm từ '兮')	Subagent + Levenshtein
+19	Hán OCR '登 壺' (khuyết chữ '挈', Dịch âm 'khiết hồ')	Subagent + Levenshtein
+20	Hán OCR '響 兮' (khuyết 1 chữ, Dịch âm 'hưởng lượng'); Dịch nghĩa OCR 'chù'	Subagent + Levenshtein
+21	Hán OCR '警覺分' ('分' nhầm từ '兮') và '趨驗' ('驗' nhầm từ '蹌', Dịch âm 'xu thương')	Subagent + Levenshtein
+22	Dịch nghĩa OCR 'ẩm ì', 'điểm lành'	Subagent + Levenshtein
+23	Hán ghi '八方' (tám phương) nhưng Dịch nghĩa dịch là 'bốn phương'	Subagent + Levenshtein
+24	Hán OCR '巍 兮' (khuyết 1 chữ, Dịch âm 'nguy nghiệp') và '噹 ' ('噹' nhầm từ '靁/雷' và khuyết 1 chữ, Dịch âm 'lôi lương'); Dịch nghĩa OCR 'lơ lứng'	Subagent + Levenshtein
+1–25	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

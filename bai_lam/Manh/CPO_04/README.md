@@ -1,6 +1,7 @@
 # Phần CPO_04 (Thơ văn Phan Huy Ích 2) của Mạnh
 
-- **9 bài thơ đủ 4 bản** (`B001_...` đến `B009_...`, tổng cộng **96 hàng thơ 4 bản**): đã xuất đủ gói bài theo chuẩn `OUTPUT_CONTRACT.md` (`Hán`, `Dịch âm`, `Dịch nghĩa`, `Dịch thơ`).
-- **66 bài thơ chỉ có 3 bản (thiếu bản Dịch thơ)**: giữ nguyên dạng `.md` và liệt kê trong `TODO.tsv` với trạng thái **Cần hỏi** theo đúng quy ước `OUTPUT_CONTRACT.md` (không tự dịch bù, chưa xuất như bài đủ 4 bản).
-- Bỏ qua `template.md` (file mẫu rỗng) và `thu_so_thu_hoai copy.md` (bản sao trùng hệt `thu_so_thu_hoai.md`).
-- Toàn bộ file `.md` gốc được giữ nguyên để truy vết.
+Tổng cộng **75 bài thơ đủ 4 bản** (`B001`–`B075`, **722 hàng** gộp chung 4 cột `Hán`, `Dịch âm`, `Dịch nghĩa`, `Dịch thơ` trong duy nhất 1 cặp `dong_hang.tsv` và `dong_hang.xlsx`) trích từ `inputs/source_5.pdf`:
+- **9 bài đầu (`B001`–`B009`):** có sẵn đủ 4 bản từ sách/Thi Viện.
+- **66 bài còn lại (`B010`–`B075`):** có sẵn 3 bản từ sách/Thi Viện và đã bổ sung bản **Dịch thơ** khớp 1–1 bằng AI LLM (ghi rõ trong `nguon.tsv`, `qa.tsv`).
+- Toàn bộ **75 file `.md` gốc** đã chuyển vào `bai_lam/Manh/done/CPO_04/` (giữ nguyên `template.md` rỗng và `thu_so_thu_hoai copy.md` trùng ngoài thư mục).
+- Tổng hợp lưu ý kiểm tra Hán–Dịch âm & thiếu sót bản gốc: **1 dòng** trong `notes.xlsx`.

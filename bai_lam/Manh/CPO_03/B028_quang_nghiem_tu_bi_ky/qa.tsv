@@ -1,0 +1,7 @@
+Hàng	Cờ tự động	Người kiểm
+1-4	Hán có khoảng trắng thừa giữa '楊 溪侯' và lỗi OCR '厲塔' (雁塔), '樓鳳' (棲鳳), '作 鄭王' (thiếu 嬪), '廠' (敞), '殿字' (殿宇), '四璧族倪' (四鄰耄倪); Việt lỗi OCR 'thì thể', 'chứ "ấp."'	Subagent + Levenshtein
+5	Bản dịch nghĩa gộp 2 câu Hán '第三祖...保養全嗣。' và '天雄大都督...' làm 1 câu liên tục (dịch '保養全嗣' thành 'nuôi dạy người cháu là...'), nên gộp 2 câu Hán để khớp 1-1; Hán khuyết '躐' trước '踏', lỗi '加禪為' (伽禪扃), '寺字歌類' (寺宇欹頹)	Subagent + Levenshtein
+6	Hán và Dịch âm ghi 'Ất Dậu (乙酉)', Dịch nghĩa ghi 'Kỷ Dậu (1789)' (chênh niên đại); giữ nguyên cả hai bản	Subagent + Levenshtein
+7-13	Hán khuyết/lỗi OCR tại: '丁已' (丁巳), '捐 鳩構' (thiếu 貲), '與執' (輿執), ' 喝獻木,輸 捧繩' (thiếu 瀘, 倕, 蓰); Việt lỗi OCR 'hẩu', 'Đinh Ty'	Subagent + Levenshtein
+14-20	Hán khuyết/lỗi OCR tại: '噁' (噫), '專自' (粵自), '鴻 居' (thiếu 臚), ' 椰' (thiếu 檀, 椰->那), '貴賓增廠' (貴嬪增敞), '芳獨' (芳躅), '貴 之善念' (thiếu 嬪), '危言' (卮言), '于 石' (khoảng trắng thừa); Việt câu 17 có chữ 'n' lạc trước 'tham quan' và 'cổ sái'	Subagent + Levenshtein
+1–21	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

@@ -2,3 +2,5 @@ Hàng	Cờ tự động	Người kiểm
 1–38	Tách câu và dóng hàng từ bản OCR trong lien_ha_thi_minh_tuyet.md; cần kiểm chéo PDF trang 854 trở đi	Chuyển đổi từ bản .md của Mạnh
 6, 7, 16, 22, 30, 34	Vế Hán có khoảng trắng khuyết chữ do OCR (列滿目, 杜王 矣, 番諸大夫, 史之 , 扈 方潭壇, 粉 顏社), cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
 3, 10, 14, 32	Đã sửa lỗi ký tự OCR rõ ràng trong vế Việt ('Thd' -> 'Thơ', 'hồổ' -> 'hồ', 'lë' -> 'lẽ', 'Thỉ xã' -> 'Thi xã')	Chuyển đổi từ bản .md của Mạnh
+1–38	Đã bổ sung dóng hàng Dịch âm và kiểm 1–1 bằng M.E.D Levenshtein; ghi 8 lưu ý vào notes.xlsx	Script Levenshtein
+1–38	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

@@ -1,0 +1,6 @@
+Hàng	Cờ tự động	Người kiểm
+3, 4, 20, 31, 45, 46, 48, 55, 58	Hán có khoảng trống khuyết chữ do OCR ('玉牒之 兮', ' 丹梯', '象 忽', '自 渤', '流 兮', '崔 兮', '曉 兮', '望 分', '鳴果 遺音')	Subagent + Levenshtein
+4, 6, 10, 12, 44, 47, 58	Dịch nghĩa có lỗi dấu OCR: 'thuẩn'->'thuần', 'tỉnh'->'tinh', 'thẩn'->'thần', 'văng vằng'/'văng vắng'->'văng vẳng', 'thẩm'->'thẳm', 'tẩng'->'tầng'	Subagent + Levenshtein
+5, 6, 7, 11, 14, 31, 35, 60	Chữ Hán '兮' bị OCR nhầm thành '分'	Subagent + Levenshtein
+9, 32, 33, 41, 43, 51, 56	Hán có nhiều chữ OCR sai tự dạng so với Dịch âm/Dịch nghĩa: '粒家廓' (lạp liêu khuếch), '未宛' (vị uyển), '昌傲' (hạt ngạo), '全期' (Thuyên Kỳ), '藍華' (lam tất), '緊天地...刑警' (繄...斲削?), '海博' (phổ bác)	Subagent + Levenshtein
+50	Dịch nghĩa ghi 'sông Thuần Dương' khả năng là lỗi in của 'ông Thuần Dương' (Lã Thuần Dương / Lã Động Tân)	Subagent + Levenshtein

@@ -1,0 +1,22 @@
+Hàng	Cờ tự động	Người kiểm
+2	Hán khuyết chữ ở '派 蔭官' (Dịch âm: Phái tập ấm quan).	Subagent + Levenshtein
+4-5	Việt OCR 'nế' (4), thiếu khoảng trắng sau dấu phẩy 'Tụ Long,người' (5).	Subagent + Levenshtein
+9-10	Hán khuyết chữ ở '以事 構' (Dịch âm: vu) và ', 忠侯代之' (Dịch âm: Huân); Việt OCR 'hẩu' (10).	Subagent + Levenshtein
+11	Hán '為偉' nghi OCR từ '為倖' (Dịch âm: vị hãnh); Việt OCR 'quẩn'.	Subagent + Levenshtein
+12	Hán khuyết chữ trong '( 襟瀧奇瀧 )' và '張旗 聲' (Dịch âm: hoan thanh); Việt OCR 'Lûng'.	Subagent + Levenshtein
+13-14	Hán khuyết chữ ở '驅使 土' (Dịch âm: Nùng) và '勋忠侯 遮蔽之' (Dịch âm: triếp; '勋' giản thể của '勳').	Subagent + Levenshtein
+16-18	Việt OCR 'bi lậu' (16), 'hẩu' (17); Hán '一百芬' nghi OCR từ '一百笏' (Dịch âm: nhất bách hốt).	Subagent + Levenshtein
+19-20	Hán khuyết chữ ở '與其黨 武' (Dịch âm: Cảnh Vũ) và '上游 言' (Dịch âm: ngoa ngôn).	Subagent + Levenshtein
+21	Hán khuyết chữ ở '飛 大蠻 川' (Dịch âm: hịch, Vị); Việt OCR 'tỉn'.	Subagent + Levenshtein
+22-24	Hán khuyết chữ ở '下 江' (Thao), '農福 取' (Tấn), '投之 江' (Lô); Việt OCR 'Nình Biên', 'ng n người'.	Subagent + Levenshtein
+26-27	Hán '海臣' nghi OCR từ '藩臣', '查掌' nghi OCR từ '查拏'.	Subagent + Levenshtein
+28-29	Hán khuyết chữ ở '所部 岸' (Nùng) và ', 武' (Phụ); Hán '十鑑' nghi OCR từ '十鎰'.	Subagent + Levenshtein
+32-34	Việt OCR 'con rễ' (32), 'Tê Vũ' (34).	Subagent + Levenshtein
+36-38	Hán '擊眾' nghi OCR từ '挈眾' (36), '奏放' nghi OCR từ '奏頒' (37), '三峽' nghi OCR từ '三岐' (38).	Subagent + Levenshtein
+39-40	Hán khuyết chữ ở ', 武' (Cảnh) và '放 郡公' (Hân); Việt OCR 'Y La' (39).	Subagent + Levenshtein
+43	Hán đầu câu '郡公辭鎮' bị khuyết chữ '欣' (Hân) ở đầu câu (bản md có khoảng trống đầu dòng).	Subagent + Levenshtein
+45	Việt OCR 'Ý La'.	Subagent + Levenshtein
+47	Việt OCR 'đổ đảng'.	Subagent + Levenshtein
+50	Hán khuyết chữ ở '為 武所脅' (Cảnh) và '期殺 函首' (Cảnh); '巖鍋山' vs Dịch âm 'Nham Mã'; Hán ghi '三十餘萬斤' nhưng Việt dịch 'ba vạn cân'; Việt OCR dấu ngoặc kép.	Subagent + Levenshtein
+53-54	Hán khuyết chữ ở '狡 萬狀' (Dịch âm: quyệt) và ', 忠侯' (Huân).	Subagent + Levenshtein
+1–56	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

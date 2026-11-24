@@ -1,0 +1,10 @@
+Hàng	Cờ tự động	Người kiểm
+Tiêu đề	Tên bài gốc ghi lỗi OCR 'TRƯỜNC'	Subagent + Levenshtein
+3	Hán '逢公知已金千' lỗi OCR '已' (thực ra là '己') và thiếu 1 chữ sau '千' (Dịch âm: 'dật' / '鎰')	Subagent + Levenshtein
+6, 28, 38, 42, 43	Hán có khoảng trống khuyết chữ do OCR ('邂 果', '濫 兮', '或 兮', '無 。', '常 娟', '敢 為')	Subagent + Levenshtein
+7	Dịch nghĩa gốc ghi 'Tình này đổi mãi' là lỗi dấu OCR của 'đối' (對)	Subagent + Levenshtein
+12, 13, 14	Hán có lỗi OCR: '蕉山' (Tiêu Sơn -> 焦山), '住僧行分' thiếu '萬' và '分' là OCR của '兮'; '究山' (Cứu Sơn); '于曇' thiếu '古' (Cổ Đàm); Dịch nghĩa line 12 ghi nhầm 'trắng' -> 'trăng'	Subagent + Levenshtein
+16, 18, 20, 22, 24, 25, 27, 35, 36, 43	Dịch nghĩa dính rác/lỗi OCR: 'thuy'->'thủy', 'G9' (rác số trang/chú thích), 'đòng'->'dòng' và '.5' (rác chú thích), 'đẩm'->'đầm', 'xong'->'song', 'Đầu'->'Đẩu', 'Thn'->'Thần', 'chổi'->'chồi', 'đẩy'->'đầy', 'thuẩn'->'thuần', 'thiển'->'thiền'	Subagent + Levenshtein
+12, 20, 23, 27, 30, 35, 37, 43, 45	Chữ Hán '兮' bị OCR nhầm thành '分' nhiều lần	Subagent + Levenshtein
+27	Hán '如神女之翻。' thiếu chữ '躚' (Dịch âm: 'phiên thiên')	Subagent + Levenshtein
+39	Hán ghi '朔方民' (dân Sóc Phương), Dịch nghĩa lại dịch nhầm thành 'Dòng họ Phương Sóc'	Subagent + Levenshtein

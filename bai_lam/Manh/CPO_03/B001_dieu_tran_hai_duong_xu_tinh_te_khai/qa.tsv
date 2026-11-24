@@ -2,3 +2,5 @@ Hàng	Cờ tự động	Người kiểm
 1–32	Tách câu và dóng hàng từ bản OCR trong dieu_tran_hai_duong_xu_tinh_te_khai.md; cần kiểm chéo PDF trang 557 trở đi	Chuyển đổi từ bản .md của Mạnh
 4, 5, 8, 9, 12, 13, 15, 16, 21, 30	Vế Hán có vị trí khuyết chữ hoặc nghi nhận dạng OCR sai từ bản .md gốc (ví dụ khoảng trống khuyết chữ), cần đối chiếu ảnh PDF để bổ sung	Chuyển đổi từ bản .md của Mạnh
 10–11, 31–32	Bản dịch Việt nối liền câu bằng dấu phẩy trong khi bản Hán ngắt câu; đã tách đúng ranh giới mệnh đề tương ứng	Chuyển đổi từ bản .md của Mạnh
+1–32	Đã bổ sung dóng hàng Dịch âm và kiểm 1–1 bằng M.E.D Levenshtein; ghi 13 lưu ý vào notes.xlsx	Script Levenshtein
+1–32	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

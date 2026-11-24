@@ -1,3 +1,5 @@
 Hàng	Cờ tự động	Người kiểm
 1–14	Tách câu và dóng hàng từ bản OCR trong huyen_te_hieu.md; cần kiểm chéo PDF trang 821 trở đi	Chuyển đổi từ bản .md của Mạnh
 10, 11	Vế Hán có khoảng trắng khuyết chữ do OCR (鼓 登堂, 洋濟), cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
+1–14	Đã bổ sung dóng hàng Dịch âm và kiểm 1–1 bằng M.E.D Levenshtein; ghi 2 lưu ý vào notes.xlsx	Script Levenshtein
+1–14	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

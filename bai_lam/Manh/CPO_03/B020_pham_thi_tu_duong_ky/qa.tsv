@@ -1,0 +1,23 @@
+Hàng	Cờ tự động	Người kiểm
+1	Hán OCR '當聞' ('當' nhầm từ '嘗', Dịch âm 'Thường văn')	Subagent + Levenshtein
+3	Hán OCR '義數' ('數' nhầm từ '歟', Dịch âm 'nghĩa dư')	Subagent + Levenshtein
+4	Dịch nghĩa OCR 'Ti'	Subagent + Levenshtein
+5	Hán OCR '三年之歲' ('歲' nghi nhầm từ '喪') và '祖免' ('祖' nhầm từ '袒', Dịch âm 'đản miễn')	Subagent + Levenshtein
+9	Hán OCR '濃東' ('濃' nhầm từ '襄/瀼', Dịch âm 'Tương Đông') và '題業' ('題' nhầm từ '偉', Dịch âm 'vĩ nghiệp'); Dịch nghĩa OCR 'đ ng'	Subagent + Levenshtein
+10	Hán OCR '義理' ('理' nhầm từ '珥', Dịch âm 'nghĩa nhĩ')	Subagent + Levenshtein
+11	Dịch nghĩa OCR 'điểm đạm'	Subagent + Levenshtein
+12	Hán OCR '年瑜' ('瑜' nhầm từ '踰') và '祖 鄧氏' (khuyết chữ '妣'); Dịch nghĩa OCR 'hiển lành'	Subagent + Levenshtein
+13	Hán OCR ', 璧留芳' (khuyết chữ '穀'), '祖妣段氏勤' (khuyết chữ '儉' trước '勤', Dịch âm 'kiệm cần'), ', 珩嗣美' (khuyết chữ '琚'); Dịch nghĩa OCR 'thuẩn hậu', 'cẩm ngọc'	Subagent + Levenshtein
+14	Hán OCR ', 文聲於席校' (khuyết chữ '蜚' trước '文', '席' nhầm từ '庠'), '祖 劉氏' (khuyết chữ '妣'), '清閱' ('閱' nhầm từ '閨', Dịch âm 'thanh khuê'); Dịch nghĩa OCR 'Phúc Tình'	Subagent + Levenshtein
+15	Hán OCR '田峻' ('峻' nhầm từ '畯'); Dịch nghĩa OCR 'lời dậy bảo'	Subagent + Levenshtein
+16	Hán OCR '祖 楊氏' (khuyết chữ '妣') và '供姜' ('供' nhầm từ '共')	Subagent + Levenshtein
+17	Hán OCR '陰罵' ('罵' nhầm từ '騭', Dịch âm 'âm chất')	Subagent + Levenshtein
+20	Hán OCR '升 于祖' (khuyết chữ '祔', Dịch âm 'thăng phụ')	Subagent + Levenshtein
+21	Dịch nghĩa OCR 'tuẩn tiết', 'nỗng hậu'	Subagent + Levenshtein
+22	Hán OCR '忌臘歸别' (khuyết chữ '祀' sau '别', Dịch âm 'quy biệt tự')	Subagent + Levenshtein
+23	Hán OCR '春秋 嘗' (khuyết chữ '烝') và '煮萬' ('煮萬' nhầm từ '焄蒿', Dịch âm 'huân cao'); Dịch nghĩa OCR 'tiền linh'	Subagent + Levenshtein
+26	Hán OCR ' 樓之福至' (khuyết chữ '穰' trước '樓', '樓' nhầm từ '穰', Dịch âm 'nhương nhương'); Dịch nghĩa OCR 'ho hàng'	Subagent + Levenshtein
+28	Hán OCR '濃東范氏' ('濃' nhầm từ '襄/瀼')	Subagent + Levenshtein
+38	Dịch nghĩa OCR 'thếnào'	Subagent + Levenshtein
+42	Dịch nghĩa OCR 'điểu hiếu'	Subagent + Levenshtein
+1–43	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

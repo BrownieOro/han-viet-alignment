@@ -1,3 +1,4 @@
 Phiên bản	Nguồn	Trang PDF	Người dịch	Ghi chú
-Hán	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	837		Chuyển từ bản OCR gốc bai_lam/Manh/CPO_03/dap_pho_ho_nhi_minh_triet_chiem.md; cần đối chiếu PDF các vị trí khuyết chữ OCR
-Việt	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	837		Bản dịch nghĩa/văn xuôi từ bai_lam/Manh/CPO_03/dap_pho_ho_nhi_minh_triet_chiem.md; đã làm sạch rác OCR và tách câu dóng hàng 2 cột
+Hán	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	837		Chuyển từ bản OCR gốc bai_lam/Manh/done/CPO_03/dap_pho_ho_nhi_minh_triet_chiem.md; cần đối chiếu PDF các vị trí khuyết chữ OCR
+Dịch âm	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	837		Tách và dóng hàng 1-1 với Hán bằng M.E.D Levenshtein từ bai_lam/Manh/done/CPO_03/dap_pho_ho_nhi_minh_triet_chiem.md
+Dịch nghĩa	Ngô Thì Nhậm toàn tập 1, CPO_03 (source_4.pdf)	837		Bản dịch nghĩa/văn xuôi từ bai_lam/Manh/done/CPO_03/dap_pho_ho_nhi_minh_triet_chiem.md; đã làm sạch rác OCR và tách câu dóng hàng 3 cột (Hán, Dịch âm, Dịch nghĩa)

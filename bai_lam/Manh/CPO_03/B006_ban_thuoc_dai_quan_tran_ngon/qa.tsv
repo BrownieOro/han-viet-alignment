@@ -2,3 +2,5 @@ Hàng	Cờ tự động	Người kiểm
 1–31	Tách câu và dóng hàng từ bản OCR trong ban_thuoc_dai_quan_tran_ngon.md; cần kiểm chéo PDF trang 581 trở đi	Chuyển đổi từ bản .md của Mạnh
 7, 8, 10, 13, 16, 31	Vế Hán có khoảng trắng khuyết chữ do OCR (ví dụ 南 用兵, 寒切身, 沃野連 , 内安外), cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
 13	Đã loại số chú thích '3' dính sau 'thời nhà Hán,' và sửa lỗi ký tự OCR ('nhà|' -> 'nhà', 'cấy c y' -> 'cấy cầy')	Chuyển đổi từ bản .md của Mạnh
+1–31	Đã bổ sung dóng hàng Dịch âm và kiểm 1–1 bằng M.E.D Levenshtein; ghi 5 lưu ý vào notes.xlsx	Script Levenshtein
+1–31	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

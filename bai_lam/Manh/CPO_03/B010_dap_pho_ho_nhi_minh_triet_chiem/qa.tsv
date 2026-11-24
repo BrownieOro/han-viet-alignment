@@ -3,3 +3,5 @@ Hàng	Cờ tự động	Người kiểm
 2	Đã ghép từ 'hiện.' bị OCR đẩy lên trên dòng 98 về đúng cuối câu 'xuất hiện.'	Chuyển đổi từ bản .md của Mạnh
 10, 27	Đã loại chỉ mục chú thích '(10)' sau 'Trúc Lâm' và '17' sau 'khôn cùng;' theo guideline	Chuyển đổi từ bản .md của Mạnh
 3, 4, 9, 17, 19, 23, 27, 29	Vế Hán có khoảng trắng khuyết chữ do OCR trong bản .md gốc, cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
+1–30	Đã bổ sung dóng hàng Dịch âm và kiểm 1–1 bằng M.E.D Levenshtein; ghi 9 lưu ý vào notes.xlsx	Script Levenshtein
+1–30	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

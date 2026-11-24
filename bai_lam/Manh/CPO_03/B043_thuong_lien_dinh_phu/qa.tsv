@@ -1,0 +1,6 @@
+Hàng	Cờ tự động	Người kiểm
+Metadata	File .md ghi nhầm Tác phẩm là 'CPO_04 - Tinh Sà kỷ hành' và ghi Ngô Linh Ngọc / Mai Quốc Liên ở mục 'Người dịch thơ' dù phần '## Dịch thơ' trống	Subagent + Levenshtein
+4, 16, 25, 27, 29, 31, 32, 38, 45, 53, 54, 57, 59, 63	Hán có nhiều khoảng trống khuyết chữ do OCR (' 乎 嵌', ' 方沼', '善 。', '翠 之', '不 遗', '蘆 密其修 兮', ' 牧', '練 分', '宇', ' 半月', ' 華', '清 兮', '包 廓', '惟 寒', '脱 。', '有 於')	Subagent + Levenshtein
+5, 6, 10-16, 19, 22, 26-30, 35, 38, 43, 45, 46, 48, 50, 55, 56, 59, 60, 62, 63	Chữ Hán '兮' bị OCR nhầm thành '分' nhiều lần	Subagent + Levenshtein
+2, 12, 14, 16, 17, 18, 24, 25, 27, 28, 29, 34, 35, 36, 37, 40, 43, 46, 48, 49, 53, 56, 59, 60, 64	Dịch nghĩa có nhiều lỗi dấu và mất nét OCR: 'chử'/'chù'/'ch '/'chư'->'chừ', 'chẩu'->'chầu', 'đẩy'->'đầy', 'tng'->'từng', 'Tiển'->'Tiền', 'trỗng'->'trồng', 'thẩm sẩu'->'thảm sầu', 'vẫn'->'vần', 'hổ '->'hổ,', 'kể'->'kề', 'bổi hổi'->'bồi hồi', 'nl à'->'nhà', 'mẩu'->'màu', 'về'->'vẻ', 'phổn'->'phồn', 'đổ'->'đỏ', thiếu ngoặc kép đóng cuối bài	Subagent + Levenshtein
+23	Dịch nghĩa ghi 'nhanh tựa biến' (nguyên Hán: '追電' = truy điện / nhanh tựa điện)	Subagent + Levenshtein

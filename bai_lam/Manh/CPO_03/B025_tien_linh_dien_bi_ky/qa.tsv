@@ -1,0 +1,20 @@
+Hàng	Cờ tự động	Người kiểm
+0	Tiêu đề trong file .md ghi lỗi OCR 'BỊ KÝ'.	Subagent + Levenshtein
+2	Hán '琪河' nghi OCR từ '珥河' (Nhĩ Hà); Việt OCR 'thẩn tiên'.	Subagent + Levenshtein
+3	Việt OCR dính chữ 'ChếThắng' và ký hiệu chú thích thừa '®'.	Subagent + Levenshtein
+4	Hán khuyết chữ ở ', 粹清都' (Dịch âm: bẩm).	Subagent + Levenshtein
+5	Hán '派出天潢' không thấy dịch trong bản Việt; Hán '萬千重' nhưng Việt dịch 'ba nghìn trùng'; Việt OCR 'Thủy Tỉnh'.	Subagent + Levenshtein
+6	Việt OCR 'tỉnh thần', 'giáng điểm', 'hỗ Lãng Bạc', 'cõi mây mống'.	Subagent + Levenshtein
+9	Hán đầu câu '沱之林木' bị khuyết chữ '洮' (Thao) ở đầu câu (bản md có khoảng trống đầu dòng).	Subagent + Levenshtein
+10	Hán khuyết chữ ở '刻 丹楹' (Dịch âm: khắc đốc); Việt ghi 'Thuyền thợ' (nghi đảo chữ từ 'Thợ thuyền').	Subagent + Levenshtein
+11	Hán đầu câu '牆周圍' bị khuyết chữ '繚' (Liêu) ở đầu câu; '巍棄' nghi OCR từ '巍嶪'.	Subagent + Levenshtein
+13-15	Việt OCR 'rời về' (13), 'tiên độ' (14); Hán khuyết chữ ở '顏曰: 仙殿' (15, Dịch âm: Linh).	Subagent + Levenshtein
+18-19	Việt OCR 'của' (18), 'chẩu' (19).	Subagent + Levenshtein
+22	Hán '塵變' nghi OCR từ '塵纓' (Dịch âm: trần anh); Việt OCR 'bui trần'.	Subagent + Levenshtein
+23-24	Việt OCR 'quê Kiển', 'Khẩm mẫu', 'cung Kiển' (Hán là '乾', '坎'); Hán khuyết chữ ở '嚴 紗' (Dịch âm: nghiễm phiếu diểu).	Subagent + Levenshtein
+25	Hán '爐 降神' nghi OCR từ '嫗貉降神' (khuyết chữ '貉'); Việt OCR 'lâu đài'.	Subagent + Levenshtein
+26	Hán khuyết chữ ở '於 山' (Dịch âm: Nghiễn), '業樹' nghi OCR từ '棠樹'; Việt OCR 'tổn dư ân'.	Subagent + Levenshtein
+27	Hán '克萬' nghi OCR từ '克篤', khuyết chữ ở ', 追善志' (Dịch âm: duật).	Subagent + Levenshtein
+29	Hán '妥有' nghi OCR từ '妥佑' (Dịch âm: thỏa hựu).	Subagent + Levenshtein
+32-47	Các hàng 32-47 là bài minh 4 chữ (16 câu); nhiều lỗi OCR chữ Hán: '濾'->'瀘' (32), '肚'->'杜' (33), '通'->'迺' (37), '字'->'宇' (39), '煮萬'->'薰蒿' (41), '灌'->'濯' (42); Việt OCR 'thuyển' (37).	Subagent + Levenshtein
+1–47	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

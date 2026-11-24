@@ -2,3 +2,5 @@ Hàng	Cờ tự động	Người kiểm
 1–76	Tách câu và dóng hàng từ bản OCR trong luan_van_thi_de_hoc_ton_nhi.md; cần kiểm chéo PDF trang 827–834	Chuyển đổi từ bản .md của Mạnh
 21, 22, 42, 43, 52, 70, 75	Vế Hán có khoảng trắng khuyết chữ do OCR (ví dụ 德秀, 老氏, 土 , 删 為淳, 聰明 混沌, 類 之患, 不期删), cần đối chiếu ảnh PDF	Chuyển đổi từ bản .md của Mạnh
 25	Đã sửa lỗi OCR mất chữ 'cùng l ' -> 'cùng lý' theo bản dịch âm và ngữ cảnh	Chuyển đổi từ bản .md của Mạnh
+1–76	Đã bổ sung dóng hàng Dịch âm và kiểm 1–1 bằng M.E.D Levenshtein; ghi 11 lưu ý vào notes.xlsx	Script Levenshtein
+1–76	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

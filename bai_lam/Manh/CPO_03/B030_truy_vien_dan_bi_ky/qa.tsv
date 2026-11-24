@@ -1,0 +1,7 @@
+Hàng	Cờ tự động	Người kiểm
+0	Tiêu đề .md ghi lỗi OCR 'BỊ KÝ'	Subagent + Levenshtein
+1-13	Hán khuyết/lỗi OCR tại: ' 祖' (thiếu 肇), ' 號' (thiếu 妣), '徵人' (徽人), '賜議' (賜謚), '認 先生' (thiếu 齋), '賜 端謹' (thiếu 謚), ' 齋先生' (thiếu 慎), '明睿' (thiếu 公), '祖 純一' (thiếu 妣); Việt câu 11 ghi 'Hiển khảo tổ' (đảo từ 'Hiển tổ khảo')	Subagent + Levenshtein
+17-27	Hán khuyết/lỗi OCR tại: '國 學' (thiếu 饒), '祖 慈光' (thiếu 妣), '卓 公' (thiếu 勞), '徵人' (徽), '節徽人' (thiếu 懿), '丙成科' (丙戌科), '特進紫' (thiếu 金); Việt dòng 203-204 bị nhảy chữ 'ra.' sang cuối câu sau; câu 25 dịch nhầm '顯祖考' thành 'Hiển tằng tổ khảo'	Subagent + Levenshtein
+30-43	Hán khuyết/lỗi OCR tại: '世次 列' (thiếu 臚), ' 祭非禮也' (thiếu 墓), '崇報,' (dấu ',' thay ngoặc kép đóng), '過某侯' (迺), '昭明煮 ' (焄蒿), '並無號' (thiếu 謚), '祖考 附饗' (thiếu 妣); Việt câu 35 có chú thích '(6)' thừa	Subagent + Levenshtein
+53-60	Hán khuyết/lỗi OCR tại: '本音' (本宗), '不著 號' (thiếu 謚), ' 拓其門戶' (thiếu 恢), '溢號' (謚號), '登大科 顯宦' (thiếu 躋)	Subagent + Levenshtein
+1–62	Đã gộp đủ 3 cột (Hán, Dịch âm, Dịch nghĩa) vào chung dong_hang.tsv/.xlsx và kiểm Hán–Dịch âm bằng M.E.D Levenshtein	Script

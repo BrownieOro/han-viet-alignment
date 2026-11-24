@@ -1,0 +1,13 @@
+Hàng	Cờ tự động	Người kiểm
+Hàng 2	Chữ Hán khuyết 1 chữ sau 池 ('池 一畝'; Dịch âm: 'Trì cương nhất mẫu').	Subagent + Levenshtein
+Hàng 7	Chữ Hán khuyết 1 chữ sau 伴 ('助其伴 。'; Dịch âm: 'trợ kỳ bạn hoán').	Subagent + Levenshtein
+Hàng 8	Chữ Hán khuyết 1 chữ sau 須 ('須 白雲'; Dịch âm: 'Tu du bạch vân').	Subagent + Levenshtein
+Hàng 9	Lỗi OCR dấu tiếng Việt trong Dịch nghĩa ('dưa mắt', 'tẩm') và Dịch thơ ('Nưi', 'tẩm').	Subagent + Levenshtein
+Hàng 14	Chữ Hán khuyết chữ sau 予獨 và chữ 繕 có thể là OCR nhầm của 繾綣 (Dịch âm: 'dư độc khiến quyển').	Subagent + Levenshtein
+Hàng 15-16	Chữ Hán '分' là lỗi OCR của '兮' ('望美人分未見。明道去分誰歸'); Dịch thơ 'Tựu cành cây' khả năng là OCR của 'Tựa cành cây' (khớp '倚' và Dịch nghĩa 'tựa cành cây').	Subagent + Levenshtein
+Hàng 18	Chữ Hán '浮樣' khả năng là OCR nhầm của '浮槎' (Dịch âm: 'phù sà').	Subagent + Levenshtein
+Hàng 21	Chữ Hán '穌 朱崖' là OCR nhầm của '蘇軾謫朱崖' (khuyết '軾謫', '蘇' nhầm '穌'); Dịch thơ 'đẩy ở Chu Nhai' / 'lút trði' và Dịch nghĩa 'bế khơi' bị lỗi dấu OCR.	Subagent + Levenshtein
+Hàng 25	Chữ Hán '洗以互地' khác âm đọc 'quang dĩ cắng địa' (瀇以亘地); Dịch nghĩa 'đẳng' bị lỗi dấu OCR.	Subagent + Levenshtein
+Hàng 28	Bản Dịch thơ đảo thứ tự hai vế Hoa/Băng (Băng trước, Hoa sau) và bỏ sót đoạn '造化之用心;實權移之無意。' ('Đâu phải là tạo hóa dụng tâm, chỉ là sự xoay vần vô ý.'); khuyết chữ '豈' trước '造化'.	Subagent + Levenshtein
+Hàng 29-32	Chữ Hán khuyết '霽' trước '月光風', khuyết '濂' trước '溪翁', và '分' là lỗi OCR của '兮'; Dịch thơ hàng 32 đảo thứ tự vế trong từng cặp để gieo vần 'ông - công'.	Subagent + Levenshtein
+Hàng 37	Dịch thơ thiếu dấu ngoặc kép đóng và khoảng trắng ở 'Lẽ “không hư xét' và 'cơ “tích kim"suy'.	Subagent + Levenshtein

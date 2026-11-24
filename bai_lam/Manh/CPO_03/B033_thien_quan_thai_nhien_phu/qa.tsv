@@ -1,0 +1,4 @@
+Hàng	Cờ tự động	Người kiểm
+1-35	Hán văn có nhiều chữ khuyết (giữ khoảng trống đơn) và chữ OCR nhầm: hàng 1 '也翁也開' (也翕也闢); hàng 7 '機 默運' (thiếu 緘/緘); hàng 10 '玲 ' (thiếu 瓏); hàng 14 '純繹' (紬繹); hàng 15 '进 啃' (迓喈喈); hàng 18 '藏' (臧); hàng 19 '社' (祉); hàng 20 '俾爾 穀' (thiếu 戩); hàng 21 '康疆' (康彊); hàng 23 '自我' (自戕), '義之' (羲之); hàng 24 '伏忠信' (仗忠信); hàng 27 ' 髦' (thiếu 鬢); hàng 32 '沉甜' (沉酣); hàng 34 '疆弱' (強弱); hàng 35 '一句' (一勺).	Subagent + Levenshtein
+5, 8	Hàng 5 Dịch nghĩa gộp '浩浩無垠,洋洋峻極' thành 'Mênh mông cao thẳm.' (lược 'vô ngần'). Hàng 8 Dịch nghĩa đảo thứ tự trắng/đen so với Hán văn.	Subagent + Levenshtein
+7-30	Sửa lỗi OCR Dịch nghĩa: 'xoay vẫn'->'xoay vần', 'khi thẩm'->'khi thảm' (hàng 7); bổ sung dấu ngoặc kép đóng '"Thân được khang cường."' (hàng 21); 'Lã tế tướng'->'Lã tể tướng', 'hỗ đổ'->'hồ đồ' (hàng 25); 'xiêng làm'->'siêng làm' (hàng 28); 'Cẩn nghĩ'->'Cần nghĩ' (hàng 30).	Subagent + Levenshtein
