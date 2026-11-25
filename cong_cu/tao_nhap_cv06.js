@@ -17,7 +17,9 @@ for (let page=manifest.from; page<=manifest.to; page++) {
  const imagePath=path.join(dir,'01_nguon',name+'.png');
  if (!fs.existsSync(rawPath)||!fs.existsSync(imagePath)) throw new Error('Thiếu trang '+page+'; chưa tạo bản nháp.');
  const raw=fs.readFileSync(rawPath,'utf8');
- pages[String(page)]={page,image:'data:image/png;base64,'+fs.readFileSync(imagePath).toString('base64'),raw,parts:split(raw),engine:manifest.model,checked:false,notes:'Tách tự động; chưa đối chiếu; kiểm đầu/chân trang, chú thích và nối bản qua trang.'};
+ const sidecar=path.join(dir,'02_ocr_tho',name+'.meta.json');
+ const source=fs.existsSync(sidecar)?JSON.parse(fs.readFileSync(sidecar,'utf8')):null;
+ pages[String(page)]={page,image:'data:image/png;base64,'+fs.readFileSync(imagePath).toString('base64'),raw,parts:split(raw),engine:source?.engine||manifest.model,checked:false,notes:source?.note||'Tách tự động; chưa đối chiếu; kiểm đầu/chân trang, chú thích và nối bản qua trang.'};
 }
 const output={format:'cv06-project-v2',meta:{work:manifest.work,owner:'Trân',title:manifest.section,url:'',source:manifest.source_name},pages};
 for (const v of versions) {
@@ -27,5 +29,6 @@ for (const v of versions) {
  fs.mkdirSync(dest,{recursive:true});fs.writeFileSync(path.join(dest,v+'.txt'),text+'\n',{flag:'wx'});
 }
 fs.writeFileSync(path.join(dir,'du_an.json'),JSON.stringify(output),{flag:'wx'});
-fs.writeFileSync(path.join(dir,'README.md'),`# ${manifest.work}: ${manifest.section}\n\nNguồn: ${manifest.source_name}; PDF ${manifest.from}–${manifest.to}; người phụ trách: Trân. Trang bỏ qua sau khi xem nguồn: ${(manifest.skipped||[]).join(', ')||'không'}.\n\n01: ảnh từng trang. 02: OCR thô ${manifest.model}; không tự xem là đúng. 03: bản tách tự động theo nhãn, CHƯA ĐỐI CHIẾU. Nội dung không xác định nằm tại can_phan_loai; chú thích nhận diện được nằm tại ghi_chu_phan_loai. Quy tắc có thể nhầm chú thích, tiêu đề, giới thiệu, ranh giới trang và bỏ sót các bản thiếu nhãn; phải kiểm tất cả với ảnh trước khi gộp, dóng hàng hoặc tính chỉ tiêu. Mở du_an.json bằng tool để sửa. Chưa có 04.\n`,{flag:'wx'});
+const exceptions=Object.values(pages).filter(p=>p.engine!==manifest.model).map(p=>`- PDF ${p.page}: ${p.engine}. ${p.notes}`).join('\n');
+fs.writeFileSync(path.join(dir,'README.md'),`# ${manifest.work}: ${manifest.section}\n\nNguồn: ${manifest.source_name}; PDF ${manifest.from}–${manifest.to}; người phụ trách: Trân. Trang bỏ qua sau khi xem nguồn: ${(manifest.skipped||[]).join(', ')||'không'}.\n\n01: ảnh từng trang. 02: OCR thô ${manifest.model}, trừ các ngoại lệ bên dưới; không tự xem là đúng. 03: bản tách tự động theo nhãn, CHƯA ĐỐI CHIẾU. Nội dung không xác định nằm tại can_phan_loai; chú thích nhận diện được nằm tại ghi_chu_phan_loai. Quy tắc có thể nhầm chú thích, tiêu đề, giới thiệu, ranh giới trang và bỏ sót các bản thiếu nhãn; phải kiểm tất cả với ảnh trước khi gộp, dóng hàng hoặc tính chỉ tiêu. Mở du_an.json bằng tool để sửa. Chưa có 04.\n\nNgoại lệ nguồn text:\n${exceptions||'- Không.'}\n`,{flag:'wx'});
 console.log('Đã tạo nháp cho',Object.keys(pages).length,'trang; chưa đối chiếu.');
