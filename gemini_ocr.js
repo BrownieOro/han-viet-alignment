@@ -4,8 +4,10 @@
     const settings = document.createElement('div');
     settings.innerHTML = `
         <label for="ocrEngine">Công cụ OCR</label>
-        <select id="ocrEngine"><option value="tesseract">Tesseract · trên trình duyệt</option><option value="gemini">Gemini · gửi ảnh trang lên Google</option></select>
+        <select id="ocrEngine"><option value="gemini">Gemini · gửi ảnh trang lên Google</option><option value="tesseract">Tesseract · trên trình duyệt</option></select>
         <div id="geminiSettings" hidden>
+            <label><input type="checkbox" id="ocrVoting"> Voting · Gemini + Tesseract + Kim Hán Nôm</label>
+            <button id="downloadOcrDetails" type="button" hidden>Tải kết quả từng engine (.json)</button>
             <label for="geminiKey">Gemini API key · chỉ giữ trong phiên đang mở</label>
             <input id="geminiKey" type="password" autocomplete="off" spellcheck="false" style="width:min(100%,450px)" placeholder="Để trống để dùng file .gemini_api_key ở máy">
             <button id="geminiShowKey" type="button">Hiện key</button>
@@ -37,7 +39,8 @@
     const originalStop = $('ocrStop').onclick;
     const originalDownload = $('ocrDownload').onclick;
     let geminiOutput = false;
-    const lockedIds = ['ocrEngine', 'geminiKey', 'geminiModel', 'geminiShowKey', 'geminiClearKey',
+    let votingResults = [];
+    const lockedIds = ['ocrEngine', 'ocrVoting', 'geminiKey', 'geminiModel', 'geminiShowKey', 'geminiClearKey',
         'book', 'page', 'prev', 'next', 'go', 'addInput', 'ocrLang', 'ocrLayout', 'ocrFrom', 'ocrTo', 'oldResult'];
 
     $('ocrEngine').onchange = () => {
@@ -53,6 +56,53 @@
         $('geminiShowKey').textContent = hidden ? 'Ẩn key' : 'Hiện key';
     };
     $('geminiClearKey').onclick = () => { $('geminiKey').value = ''; };
+    $('ocrEngine').onchange();
+    $('downloadOcrDetails').onclick = () => {
+        const url = URL.createObjectURL(new Blob([JSON.stringify(votingResults, null, 2)], {type:'application/json'}));
+        const a = document.createElement('a'); a.href = url; a.download = 'ocr_voting_chi_tiet.json'; a.click();
+        setTimeout(() => URL.revokeObjectURL(url), 1000);
+    };
+
+    async function clcPage(canvas) {
+        const image = canvas.toDataURL('image/jpeg', 0.95).split(',')[1];
+        const response = await fetch('/api/clc-ocr', {method:'POST', headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({image, language:job.language, layout:job.layout})});
+        const clc = await response.json();
+        if (!response.ok) throw Error(clc.error || `HTTP ${response.status}`);
+        return clc;
+    }
+    async function tesseractPage(canvas) {
+        if (!window.Tesseract) await new Promise((resolve, reject) => {
+            const script = document.createElement('script'); script.src = 'assets/tesseract/tesseract.min.js';
+            script.onload = resolve; script.onerror = () => reject(Error('Không tải được Tesseract.')); document.head.append(script);
+        });
+        const lang = job.language === 'chi_tra' && job.layout === '5' ? 'chi_tra_vert' : job.language;
+        const worker = await Tesseract.createWorker(lang, 1, {workerPath:new URL('assets/tesseract/worker.min.js',location.href).href,
+            corePath:'https://cdn.jsdelivr.net/npm/tesseract.js-core@6.0.0'});
+        try { await worker.setParameters({tessedit_pageseg_mode:job.layout}); return (await worker.recognize(canvas)).data.text; }
+        finally { await worker.terminate(); }
+    }
+    async function votePage(canvas) {
+        const entry = {page: job.next, gemini:null, tesseract:null, kimhannom:null};
+        votingResults.push(entry); $('downloadOcrDetails').hidden = false;
+        $('ocrProgress').textContent = `Trang ${job.next} · đang chạy đồng thời Gemini, Tesseract và Kim Hán Nôm…`;
+        const results = await Promise.allSettled([sendPage(canvas), tesseractPage(canvas), clcPage(canvas)]);
+        if (results[0].status === 'fulfilled') entry.gemini = results[0].value;
+        if (results[1].status === 'fulfilled') entry.tesseract = results[1].value;
+        if (results[2].status === 'fulfilled') { entry.kimhannom = results[2].value.text; entry.bbox = results[2].value.bbox; }
+        const failures = results.map((r,i)=>r.status==='rejected'?`${['Gemini','Tesseract','Kim Hán Nôm'][i]}: ${r.reason.message}`:null).filter(Boolean);
+        if (failures.length) {
+            entry.error=failures.join('; ');
+            if (!entry.gemini) throw Error(entry.error);
+            return {text:entry.gemini, engine:`${job.model} (voting lỗi)`, warning:entry.error, details:entry};
+        }
+        if (entry.gemini === null) return {text:null};
+        const vote=await fetch('/api/ocr-vote', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(entry)});
+        const result=await vote.json();
+        if (!vote.ok) {entry.error=result.error || 'Voting lỗi';return {text:entry.gemini,engine:`${job.model} (voting lỗi)`,warning:entry.error,details:entry};}
+        entry.voting={text:result.text,disagreements:result.disagreements};
+        return {text:result.text,engine:'Voting',details:entry};
+    }
 
     function signature(from, to) {
         return JSON.stringify([$('book').value, from, to, $('ocrLang').value, $('ocrLayout').value]);
@@ -61,7 +111,7 @@
     async function sendPage(canvas) {
         const image = canvas.toDataURL('image/jpeg', 0.95).split(',')[1];
         const body = JSON.stringify({apiKey: $('geminiKey').value.trim(), model: job.model,
-            language: job.language, layout: job.layout, image});
+            language: job.voting ? job.language : 'mixed', layout: job.layout, image});
         const size = new TextEncoder().encode(body).length;
         if (size >= 14_900_000) throw Error(`Request ${(size / 1_000_000).toFixed(1)} MB quá lớn. Giới hạn tool là 15 MB kể cả dữ liệu mã hóa.`);
         for (let attempt = 0; attempt < 3; attempt++) {
@@ -135,21 +185,33 @@
                     layout: $('ocrLayout').value, signature: signature(from, to), name: source.name};
                 $('ocrText').value = '';
                 geminiOutput = true;
+                votingResults = []; $('downloadOcrDetails').hidden = true;
             }
             job.model = $('geminiModel').value;
+            job.votingWarnings ||= [];
             while (job.next <= to && !stopped) {
                 $('ocrProgress').textContent = `Gemini · trang ${job.next} · hoàn tất ${job.next - from}/${to - from + 1} trang.`;
                 const canvas = await source.render(job.next);
                 let text;
-                try { text = await sendPage(canvas); }
+                try {
+                    let engine = job.model, details = null;
+                    if ($('ocrVoting').checked) {
+                        const voted = await votePage(canvas);
+                        text = voted.text; engine = voted.engine; details = voted.details;
+                        if (voted.warning) job.votingWarnings.push(`trang ${job.next}: ${voted.warning}`);
+                    } else text = await sendPage(canvas);
+                    if (typeof text === 'string' && text.trim()) {
+                        $('ocrText').value += ($('ocrText').value ? '\n\n' : '') + `===== PDF ${job.next} =====\n` + text;
+                        window.cv06Page?.({page:job.next, canvas, text, engine, details});
+                    }
+                }
                 finally { canvas.width = canvas.height = 0; }
                 if (text === null) break;
                 if (typeof text !== 'string' || !text.trim()) throw Error('Server trả OCR rỗng. Trang chưa được đánh dấu hoàn tất.');
-                $('ocrText').value += ($('ocrText').value ? '\n\n' : '') + `===== PDF ${job.next} =====\n` + text;
                 $('ocrOrigin').textContent = `${job.name} · PDF ${from}–${job.next} · model trang gần nhất ${job.model} · ${job.language}`;
                 job.next++;
             }
-            $('ocrProgress').textContent = `${job.next > to ? 'Hoàn tất' : 'Đã dừng'} · ${job.next - from}/${to - from + 1} trang.${job.lastSeconds ? ' Request cuối mất ' + job.lastSeconds + ' giây.' : ''} Kết quả OCR thô cần đối chiếu.`;
+            $('ocrProgress').textContent = `${job.next > to ? 'Hoàn tất' : 'Đã dừng'} · ${job.next - from}/${to - from + 1} trang.${job.lastSeconds ? ' Request cuối mất ' + job.lastSeconds + ' giây.' : ''} Kết quả OCR thô cần đối chiếu.${job.votingWarnings.length ? ' Voting lỗi, đã giữ riêng Gemini: ' + job.votingWarnings.join('; ') : ''}`;
         } catch (error) {
             $('ocrProgress').textContent = `${job ? 'Trang ' + job.next + ' · ' : ''}${error.message} Kết quả đã nhận vẫn được giữ.`;
         } finally {

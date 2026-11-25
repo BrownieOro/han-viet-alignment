@@ -1,0 +1,15 @@
+'use strict';
+const assert = require('node:assert/strict');
+const {split} = require('../cv06_split.js');
+let r = split('春暮\n榮開寒谷正融融\nPHIÊN ÂM:\nXuân mộ\nDỊCH NGHĨA:\nCuối xuân\nCHÚ THÍCH:\nGiải nghĩa\nDỊCH THƠ:\nCỏ cây\nKHẢO DỊ:\nDị bản');
+assert.equal(r.han,'春暮\n榮開寒谷正融融');
+assert.equal(r.dich_am,'Xuân mộ');
+assert.equal(r.dich_nghia,'Cuối xuân');
+assert.equal(r.dich_tho,'Cỏ cây');
+assert.equal(r.excluded,'Giải nghĩa\nDị bản');
+r=split('Đoạn này tiếp từ trang trước\n[1] còn cần xem');
+assert.equal(r.unclassified,'Đoạn này tiếp từ trang trước\n[1] còn cần xem');
+r=split('Tiêu đề Hán 漢文\nDỊCH NGHĨA：\nBản dịch');
+assert.equal(r.unclassified,'Tiêu đề Hán 漢文');
+assert.equal(r.dich_nghia,'Bản dịch');
+console.log('CV06 segmentation tests passed');

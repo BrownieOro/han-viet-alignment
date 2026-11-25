@@ -17,6 +17,18 @@ $('splitCell').onclick=()=>act((i,j)=>{const s=state.rows[i].cells[j],p=active.s
 $('addRow').onclick=()=>{checkpoint();state.rows.push(row(Array(state.mode).fill('')));save();render()};$('undo').onclick=()=>{if(!history.length)return;state=JSON.parse(history.pop());active=null;$('mode').value=state.mode;$('project').value=state.title;$('sourceNote').value=state.source;inputs();save();render()};
 $('mode').onchange=()=>{const n=Number($('mode').value);if(state.rows.length){$('mode').value=state.mode;message('Đang có bài. Lưu JSON trước; muốn đổi số bản hãy mở dự án đúng loại hoặc xếp lại sau khi làm trống bài.');return}checkpoint();state.mode=n;inputs();save();render()};
 $('make').onclick=()=>{if(state.rows.length&&!confirm('Thay bảng hiện tại bằng text trong các ô nạp? Nên lưu JSON trước.'))return;checkpoint();const cs=columns().map((_,i)=>$('input'+i).value.replace(/^\uFEFF/,'').split(/\r?\n/).map(v=>v.trim()).filter(Boolean)),n=Math.max(...cs.map(c=>c.length));state.rows=Array.from({length:n},(_,i)=>row(cs.map(c=>c[i]||'')));active=null;save();render();message('Đã xếp '+n+' hàng theo thứ tự dòng; chưa có hàng nào được xác nhận cùng nghĩa.')};
+window.applyGeminiAlignment = (groups, versions, texts) => {
+ if (versions.length !== state.mode) throw Error('Số bản đã đổi; hãy tạo gợi ý lại.');
+ const rows=window.AlignmentGroups.materialize(groups,versions,texts);
+ if(state.rows.length&&!confirm('Thay bảng hiện tại bằng gợi ý Gemini? Hãy lưu JSON trước.'))return false;
+ checkpoint();state.rows=rows.map(row);active=null;save();render();message('Đã nạp gợi ý Gemini; tất cả hàng chưa kiểm.');return true;
+};
+window.applyClcAlignment = groups => {
+ if (state.mode !== 2) throw new Error('Hiện chỉ nạp gợi ý CLC vào bảng văn xuôi 2 cột.');
+ if (!Array.isArray(groups) || !groups.length || groups.some(g => typeof g.han_text !== 'string' || typeof g.vietnamese_text !== 'string')) throw new Error('CLC trả dữ liệu không hợp lệ.');
+ if (state.rows.length && !confirm('Thay bảng hiện tại bằng gợi ý CLC? Hãy lưu JSON trước nếu cần.')) return false;
+ checkpoint();state.rows=groups.map(g=>row([g.han_text,g.vietnamese_text]));active=null;save();render();message('Đã nạp gợi ý CLC. Kiểm tra từng hàng với nguồn trước khi xuất.');return true;
+};
 $('fromOCR').onclick=()=>{const text=sessionStorage.getItem('hanviet-ocr-to-align');if(text===null){message('Từ màn OCR, bấm “Chuyển text sang dóng hàng”.');return}$('input0').value=text;message('Đã nạp vào ô Hán. Nếu là OCR Việt, chuyển text sang ô Việt/âm/nghĩa phù hợp rồi xếp dòng.');};
 $('newProject').onclick=()=>{if(state.rows.length&&!confirm('Tạo bài mới? Hãy lưu JSON nếu cần giữ bản hiện tại.'))return;checkpoint();state={mode:Number($('mode').value),title:'',source:'',rows:[]};active=null;$('project').value='';$('sourceNote').value='';$('source').hidden=true;inputs();save();render()};
 $('project').oninput=$('sourceNote').oninput=save;

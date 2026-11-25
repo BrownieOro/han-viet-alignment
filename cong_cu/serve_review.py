@@ -6,9 +6,14 @@ import argparse
 import json
 import hashlib
 import mimetypes
+import base64
+import io
+import zipfile
 from input_api import sources,source_path,page_png,start_ocr,JOBS
 from gemini_ocr import recognize, MAX_REQUEST_BYTES, local_key
 from gemini_align import align
+from clc_api import sentence_alignment, image_ocr
+from ocr_voting import vote_ocr
 
 # Serve ES modules consistently, including Windows registry MIME overrides.
 mimetypes.init()
@@ -17,7 +22,7 @@ mimetypes.add_type('text/javascript', '.mjs')
 PORT=7070
 ROOT=Path(__file__).resolve().parents[1]
 SUBMISSIONS=ROOT/'bai_lam'
-STATIC={'alignment_extra.js','cases/index.json','alignment.html','alignment.js','alignment_export.js','alignment_link.js','hanviet.js','assets/hanviet/readings.json','assets/hanviet/SOURCE.md','assets/hanviet/LICENSE.txt','index.html','advanced.html','OUTPUT_CONTRACT.md','quick_tools.js','gemini_ocr.js','mau/ocr_da_thu.txt','assets/pdfjs/pdf.mjs','assets/pdfjs/pdf.worker.mjs','assets/tesseract/tesseract.min.js','assets/tesseract/worker.min.js'}|{f'inputs/source_{i}.pdf' for i in range(1,7)}
+STATIC={'alignment_groups.js','cv06_split.js','cv06_pipeline.js','alignment_extra.js','cases/index.json','alignment.html','alignment.js','alignment_export.js','alignment_link.js','hanviet.js','assets/hanviet/readings.json','assets/hanviet/SOURCE.md','assets/hanviet/LICENSE.txt','index.html','advanced.html','OUTPUT_CONTRACT.md','quick_tools.js','gemini_ocr.js','mau/ocr_da_thu.txt','assets/pdfjs/pdf.mjs','assets/pdfjs/pdf.worker.mjs','assets/tesseract/tesseract.min.js','assets/tesseract/worker.min.js'}|{f'inputs/source_{i}.pdf' for i in range(1,7)}
 
 class Handler(BaseHTTPRequestHandler):
     def send(self,status,body,mime='application/json; charset=utf-8'):
@@ -72,11 +77,27 @@ class Handler(BaseHTTPRequestHandler):
         if self.headers.get('Host') not in {f'127.0.0.1:{PORT}',f'localhost:{PORT}'} or self.headers.get('Origin') not in {f'http://127.0.0.1:{PORT}',f'http://localhost:{PORT}'}:
             self.send(403,'Origin rejected');return
         try:
-            if self.path not in {'/api/ocr', '/api/gemini-ocr', '/api/gemini-align'}:self.send(404,'Not found');return
+            if self.path not in {'/api/ocr', '/api/gemini-ocr', '/api/gemini-align', '/api/clc-align', '/api/clc-ocr', '/api/ocr-vote', '/api/cv06-export'}:self.send(404,'Not found');return
             n=int(self.headers.get('Content-Length','0'))
-            limit = MAX_REQUEST_BYTES if self.path in {'/api/gemini-ocr','/api/gemini-align'} else 22*1024*1024
+            limit = 200*1024*1024 if self.path == '/api/cv06-export' else (MAX_REQUEST_BYTES if self.path in {'/api/gemini-ocr','/api/gemini-align'} else 22*1024*1024)
             if not 0<n<limit:
                 self.send(413, json.dumps({'error': 'Request vượt giới hạn ' + str(limit / 1_000_000) + ' MB của tool.'}));return
+            if self.path == '/api/cv06-export':
+                data=json.loads(self.rfile.read(n))
+                entries=data.get('files') if isinstance(data,dict) else None
+                if not isinstance(entries,list) or len(entries)>500: raise ValueError('Danh sách file không hợp lệ.')
+                output=io.BytesIO()
+                with zipfile.ZipFile(output,'w',compression=zipfile.ZIP_DEFLATED) as archive:
+                    seen=set()
+                    for item in entries:
+                        name=item.get('name','')
+                        parts=name.split('/')
+                        if not name or name.startswith('/') or any(x in ('', '.', '..') for x in parts) or '\\' in name or name in seen:
+                            raise ValueError('Tên file không hợp lệ hoặc bị trùng.')
+                        seen.add(name)
+                        raw=base64.b64decode(item['base64'], validate=True) if 'base64' in item else item['text'].encode('utf-8')
+                        archive.writestr(name,raw)
+                self.send(200,output.getvalue(),'application/zip');return
             if self.path == '/api/gemini-ocr':
                 data = json.loads(self.rfile.read(n))
                 if not isinstance(data, dict):
@@ -86,6 +107,20 @@ class Handler(BaseHTTPRequestHandler):
             if self.path == '/api/gemini-align':
                 data=json.loads(self.rfile.read(n)); status,result=align(data)
                 self.send(status,json.dumps(result,ensure_ascii=False));return
+            if self.path == '/api/clc-align':
+                data = json.loads(self.rfile.read(n))
+                if not isinstance(data, dict) or not all(isinstance(data.get(k), str) for k in ('han', 'viet')):
+                    self.send(400, json.dumps({'error': 'Cần hai chuỗi text Hán và Việt.'}, ensure_ascii=False));return
+                result = sentence_alignment(data['han'], data['viet'])
+                self.send(200, json.dumps({'result': result}, ensure_ascii=False));return
+            if self.path == '/api/clc-ocr':
+                data = json.loads(self.rfile.read(n))
+                result = image_ocr(data.get('image', ''), data.get('language'), data.get('layout'))
+                self.send(200, json.dumps(result, ensure_ascii=False));return
+            if self.path == '/api/ocr-vote':
+                data = json.loads(self.rfile.read(n))
+                result = vote_ocr(data.get('gemini'), data.get('tesseract'), data.get('kimhannom'))
+                self.send(200, json.dumps(result, ensure_ascii=False));return
             key=start_ocr(json.loads(self.rfile.read(n)))
             self.send(202,json.dumps({'id':key}))
         except Exception as e:self.send(400,json.dumps({'error':str(e)},ensure_ascii=False))

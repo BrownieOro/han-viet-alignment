@@ -31,7 +31,7 @@ def recognize(data):
     # Check header safety here and let Google validate the credential itself.
     if not key or len(key) > 4096 or any(ord(c) < 33 or ord(c) > 126 for c in key):
         return 400, {'error': 'API key trống, quá dài hoặc chứa khoảng trắng/ký tự ẩn ở giữa. Sao chép lại nguyên key từ AI Studio.'}
-    if model not in MODELS or data.get('language') not in {'vie', 'chi_tra'}:
+    if model not in MODELS or data.get('language') not in {'vie', 'chi_tra', 'mixed'}:
         return 400, {'error': 'Model hoặc ngôn ngữ không hợp lệ.'}
     try:
         image = base64.b64decode(data.get('image', ''), validate=True)
@@ -39,7 +39,7 @@ def recognize(data):
         return 400, {'error': 'Dữ liệu ảnh không hợp lệ.'}
     if not image.startswith(b'\xff\xd8\xff'):
         return 400, {'error': 'Cần ảnh JPEG của một trang.'}
-    language = 'Vietnamese' if data['language'] == 'vie' else 'traditional Chinese'
+    language = {'vie': 'Vietnamese', 'chi_tra': 'traditional Chinese', 'mixed': 'text in every script and language, including Chinese characters and Vietnamese'}[data['language']]
     layout = 'Read vertical columns from right to left, top to bottom.' if data.get('layout') == '5' else 'Follow the original reading order.'
     prompt = (
         f'Transcribe all {language} text visible on this single scanned page. {layout} '
