@@ -5,7 +5,7 @@
 ```bash
 python3 cong_cu/ocr_checkpoint.py --pdf inputs/source_4.pdf \
   --output bai_lam/Tran/vi_du --start 520 --end 525 \
-  --work CPO_03 --section 'Nghi Luan 520-525'
+  --work CPO_03 --section 'Nghi Luan 520-525' --owner 'Tên người làm'
 node cong_cu/tao_nhap_cv06.js bai_lam/Tran/vi_du
 ```
 

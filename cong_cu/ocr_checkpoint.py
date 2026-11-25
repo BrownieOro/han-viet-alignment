@@ -65,6 +65,8 @@ def run(args):
             raise RuntimeError('Đợt này đang được xử lý bởi tiến trình khác.') from None
         config = {'source_name': source.name, 'sha256': source_hash, 'from': args.start,
                   'to': args.end, 'work': args.work, 'section': args.section, 'model': MODEL}
+        if getattr(args, 'owner', ''):
+            config['owner'] = args.owner
         skipped = sorted(set(getattr(args, 'skip', []) or []))
         if any(n < args.start or n > args.end for n in skipped):
             raise ValueError('Trang bỏ qua nằm ngoài phạm vi.')
@@ -140,6 +142,7 @@ def main():
     parser.add_argument('--end', type=int, required=True)
     parser.add_argument('--work', required=True)
     parser.add_argument('--section', required=True)
+    parser.add_argument('--owner', default='', help='Tên người phụ trách')
     parser.add_argument('--skip', nargs='*', type=int, default=[], help='Các trang bỏ qua sau khi xem nguồn')
     parser.add_argument('--review', nargs='*', type=int, default=[], help='Trang có ranh giới cần phân loại thủ công')
     parser.add_argument('--keys', default=str(ROOT / 'gemini_keys.txt'))

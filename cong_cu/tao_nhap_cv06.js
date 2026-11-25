@@ -5,6 +5,9 @@ const {split} = require('../cv06_split.js');
 const dir = process.argv[2];
 if (!dir) throw new Error('Cần đường dẫn đợt đã OCR.');
 const manifest = JSON.parse(fs.readFileSync(path.join(dir,'dot_xu_ly.json'),'utf8'));
+const sourceNames={'source_4.pdf':'Ngô Thì Nhậm toàn tập 1','source_6.pdf':'Tổng tập văn học Việt Nam, tập 1'};
+const sourceName=sourceNames[manifest.source_name]||manifest.source_name;
+const owner=manifest.owner||(path.resolve(dir).split(path.sep).slice(-2,-1)[0]==='Tran'?'Trân':'Chưa ghi');
 if (fs.existsSync(path.join(dir,'du_an.json')) || fs.existsSync(path.join(dir,'03_text_sach'))) {
  throw new Error('Đã có dự án hoặc text sạch: dừng để không ghi đè chỉnh sửa.');
 }
@@ -24,7 +27,7 @@ for (let page=manifest.from; page<=manifest.to; page++) {
  const note=boundary?'Trang có ranh giới phân công; toàn bộ text để chưa phân loại, phải xác định đúng phạm vi trước khi xuất.':(source?.note||'Tách tự động; chưa đối chiếu; kiểm đầu/chân trang, chú thích và nối bản qua trang.');
  pages[String(page)]={page,image:'data:image/png;base64,'+fs.readFileSync(imagePath).toString('base64'),raw,parts,engine:source?.engine||manifest.model,checked:false,notes:note};
 }
-const output={format:'cv06-project-v2',meta:{work:manifest.work,owner:'Trân',title:manifest.section,url:'',source:manifest.source_name},pages};
+const output={format:'cv06-project-v2',meta:{work:manifest.work,owner,title:manifest.section,url:'',source:sourceName},pages};
 for (const v of versions) {
  const text=Object.values(pages).map(p=>p.parts[v].trim()).filter(Boolean).join('\n\n');
  if (!text) continue;
@@ -33,5 +36,5 @@ for (const v of versions) {
 }
 fs.writeFileSync(path.join(dir,'du_an.json'),JSON.stringify(output),{flag:'wx'});
 const exceptions=Object.values(pages).filter(p=>p.engine!==manifest.model).map(p=>`- PDF ${p.page}: ${p.engine}. ${p.notes}`).join('\n');
-fs.writeFileSync(path.join(dir,'README.md'),`# ${manifest.work}: ${manifest.section}\n\nNguồn: ${manifest.source_name}; PDF ${manifest.from}–${manifest.to}; người phụ trách: Trân. Trang bỏ qua sau khi xem nguồn: ${(manifest.skipped||[]).join(', ')||'không'}. Trang có ranh giới phải phân loại thủ công: ${(manifest.review_pages||[]).join(', ')||'không'}.\n\n01: ảnh từng trang. 02: OCR thô ${manifest.model}, trừ các ngoại lệ bên dưới; không tự xem là đúng. 03: bản tách tự động theo nhãn, CHƯA ĐỐI CHIẾU. Nội dung không xác định nằm tại can_phan_loai; chú thích nhận diện được nằm tại ghi_chu_phan_loai. Quy tắc có thể nhầm chú thích, tiêu đề, giới thiệu, ranh giới trang và bỏ sót các bản thiếu nhãn; phải kiểm tất cả với ảnh trước khi gộp, dóng hàng hoặc tính chỉ tiêu. Mở du_an.json bằng tool để sửa. Chưa có 04.\n\nNgoại lệ nguồn text:\n${exceptions||'- Không.'}\n`,{flag:'wx'});
+fs.writeFileSync(path.join(dir,'README.md'),`# ${manifest.work}: ${manifest.section}\n\nNguồn: ${sourceName} (${manifest.source_name}); PDF ${manifest.from}–${manifest.to}; người phụ trách: ${owner}. Trang bỏ qua sau khi xem nguồn: ${(manifest.skipped||[]).join(', ')||'không'}. Trang có ranh giới phải phân loại thủ công: ${(manifest.review_pages||[]).join(', ')||'không'}.\n\n01: ảnh từng trang. 02: OCR thô ${manifest.model}, trừ các ngoại lệ bên dưới; không tự xem là đúng. 03: bản tách tự động theo nhãn, CHƯA ĐỐI CHIẾU. Nội dung không xác định nằm tại can_phan_loai; chú thích nhận diện được nằm tại ghi_chu_phan_loai. Quy tắc có thể nhầm chú thích, tiêu đề, giới thiệu, ranh giới trang và bỏ sót các bản thiếu nhãn; phải kiểm tất cả với ảnh trước khi gộp, dóng hàng hoặc tính chỉ tiêu. Mở du_an.json bằng tool để sửa. Chưa có 04.\n\nNgoại lệ nguồn text:\n${exceptions||'- Không.'}\n`,{flag:'wx'});
 console.log('Đã tạo nháp cho',Object.keys(pages).length,'trang; chưa đối chiếu.');
