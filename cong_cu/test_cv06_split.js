@@ -12,4 +12,6 @@ assert.equal(r.unclassified,'Đoạn này tiếp từ trang trước\n[1] còn c
 r=split('Tiêu đề Hán 漢文\nDỊCH NGHĨA：\nBản dịch');
 assert.equal(r.unclassified,'Tiêu đề Hán 漢文');
 assert.equal(r.dich_nghia,'Bản dịch');
+r=split('DỊCH NGHĨA:\nMột [không đọc rõ] và [字未詳].');
+assert.equal(r.dich_nghia,'Một [MASK] và [MASK].');
 console.log('CV06 segmentation tests passed');

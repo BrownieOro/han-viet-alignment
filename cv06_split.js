@@ -10,7 +10,7 @@
   function split(raw) {
     const result = {han:'',viet:'',dich_am:'',dich_nghia:'',dich_tho:'',unclassified:'',excluded:''};
     let section = 'unclassified';
-    for (const line of String(raw || '').replace(/\r\n?/g,'\n').split('\n')) {
+    for (const line of String(raw || '').replace(/\r\n?/g,'\n').replace(/\[(?:không đọc rõ|字未詳)\]/giu,'[MASK]').split('\n')) {
       const key = line.trim().replace(/[:：]\s*$/, '').toLocaleUpperCase('vi');
       if (Object.prototype.hasOwnProperty.call(labels,key)) { section=labels[key]; continue; }
       // A CJK-only line can be assigned safely; mixed or unlabeled text stays visible for review.
