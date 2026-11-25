@@ -70,6 +70,11 @@ def run(args):
             raise ValueError('Trang bỏ qua nằm ngoài phạm vi.')
         if skipped:
             config['skipped'] = skipped
+        review = sorted(set(getattr(args, 'review', []) or []))
+        if any(n < args.start or n > args.end or n in skipped for n in review):
+            raise ValueError('Trang cần kiểm nằm ngoài phạm vi hoặc bị bỏ qua.')
+        if review:
+            config['review_pages'] = review
         manifest = out / 'dot_xu_ly.json'
         if manifest.exists():
             if json.loads(manifest.read_text(encoding='utf-8')) != config:
@@ -136,6 +141,7 @@ def main():
     parser.add_argument('--work', required=True)
     parser.add_argument('--section', required=True)
     parser.add_argument('--skip', nargs='*', type=int, default=[], help='Các trang bỏ qua sau khi xem nguồn')
+    parser.add_argument('--review', nargs='*', type=int, default=[], help='Trang có ranh giới cần phân loại thủ công')
     parser.add_argument('--keys', default=str(ROOT / 'gemini_keys.txt'))
     args = parser.parse_args()
     try:
